@@ -4,7 +4,8 @@
 
 #条件
 ・各ツイートの文頭に、ツイート番号を振ること
-・1ツイート目は注目を浴びるような内容かつ2ツイート目以降の詳細が気になる内容とすること
+・1ツイート目は注目を浴びるような内容であること
+・1ツイート目は、2ツイート目以降の詳細確認を促すような問いかけを含めること
 ・2ツイート目以降は詳細の解説をすること
 ・各ツイートごとに話のまとまりがあること
 ・各ツイートは100文字以上125文字以内であること（twitterの文字数制限にかからないこと）
@@ -131,15 +132,18 @@ MicrosoftやORACLEを抑え、圧倒的世界TOPの顧客関係管理(CRM)ソフ
 
 
 #記事
-Hong Kong is accelerating toward its goal of becoming a global crypto hub, according to the region’s Secretary for Financial Services and the Treasury. 
-In a Monday speech at the Aspen Digital Web3 Investment Summit in the east Asian business hub, Christopher Hui said that the city had received interest from over 80 companies wanting to set up shop in Hong Kong.
-These include crypto exchanges, blockchain infrastructure companies, blockchain network security companies, virtual currency wallets and payment companies. 
-“Hong Kong is well-positioned to be a leading hub for Web3 in Asia and beyond, and we attach great importance to virtual assets and Web3,” Hui said. 
-Hong Kong has been talking about becoming a hotspot for digital asset innovation for some time now. Its economy and reputation as a fintech hub was shaken after Covid-19 lockdowns and earlier regulatory crackdowns scared many crypto startups away.
-One of the most notable examples was the failed crypto exchange FTX, which left for the Bahamas while blaming Hong Kong’s confusing regulatory framework for the move. The exchange was once one of the biggest brands in crypto but went bust last year because of alleged mismanagement. 
-Hong Kong has since opened up consultations and dropped new rules to give retail investors access to digital assets. 
-Nikkei Asia reported today that a number of Chinese crypto companies are eying Hong Kong. These include Chinese securities companies and banks that are interested in allowing clients to trade Bitcoin and Ethereum on licensed exchanges, the newspaper reported. 
-Just last month, the Securities and Futures Commission of Hong Kong (SFC) proposed that the city “allow all types of investors, including retail investors, to access trading services provided by licensed VA [virtual asset] trading platform operators.”
-Mainland China’s government cracked down on crypto back in 2021, when it banned Bitcoin mining. 
-Hui said in his speech that Web3—the next evolution of the Internet, built on blockchains—has the “potential to enable more decentralized, efficient and inclusive platforms” that benefit users and creators. 
-“It will also create new opportunities for innovation, entrepreneurship and social impact,” he added. 
+Nexon, one of the largest game publishers across Asia, is creating a new Web3 game based on its popular pixelated 2D role-playing franchise, called MapleStory Universe—and it’s launching a private Supernet on Polygon for the new game, Nexon announced Tuesday at the Game Developers Conference in San Francisco.
+MapleStory, launched in 2003, is a long-running success story for Nexon. The game has generated more than $4 billion in revenue to date, the company announced earlier this year, and amassed more than 180 million registered users to date. The game's Steam page lists an even larger tally of over 260 million total players.
+“We are looking forward to expanding the NFT ecosystem envisioned by MapleStory Universe by building on Polygon,” MapleStory Universe Group Leader Hwang Sun-young said in a statement. “We will work closely with the team at Polygon Labs to develop and market the game.”
+
+Polygon is an Ethereum scaling network that enables faster and cheaper transactions than Ethereum’s own mainnet. The upcoming PC game’s Polygon Supernet will allow Nexon to have its own “dedicated app chain,” Polygon Labs VP, Global Games and Platform Business Development Urvit Goel told Decrypt in an interview.
+“They have the ability to scale in a way that you can't scale on a shared blockchain,” Goel said of Nexon and its planned Supernet. “They have a very broad vision of how many transactions they think they'll do daily, because the game and the IP is so large.”
+Polygon’s Supernets are similar in approach to Avalanche’s Subnets, for example, providing a dedicated sub-network for individual projects to utilize. They provide some customization options for creators while also insulating decentralized apps (dapps) and games from potential performance issues on the broader public network.
+MapleStory Universe was announced last year and does not yet have a confirmed release date. But Goel said there will be no NFT presales, and players will be able to earn items as NFTs simply by playing the game. 
+“They’re not pushing for in-app purchases,” he added, referring to the microtransactions that are common in mobile games on iOS and Android.
+MapleStory Universe is an NFT-centric game, meaning that tokenized assets will play a major role in the game itself and can be traded or transferred via the game’s marketplace. Nexon told Decrypt via email that MapleStory Universe will also eventually have its own crypto token, though the details on that have not yet been finalized.
+“We plan on issuing our unique coin, and specific details about this will be revealed later with our tokenomics,” the game studio said.
+Nexon is both a South Korean and Japanese company, but derives the majority of its revenue from the South Korean market. And it’s not the only South Korean studio leaning into Web3, according to Polygon Labs’ Goel.
+“Korea has been by far the leader from a developer standpoint,” Goel said. “If you look at the top 10 gaming companies in Korea, eight out of 10 have publicly stated that they’re building something on the blockchain, which is very unique globally.”
+Other major South Korean game publishers that are working on Web3 projects include NCSoft and Netmarble, both of whom are building on upstart blockchain network Sui. Meanwhile, Krafton—creator of the popular PUBG: Battlegrounds shooter series—is working on various blockchain initiatives, including in partnership with Solana Labs.
+In a statement, Polygon Labs President Ryan Wyatt affirmed that South Korea is “a critical market” for Web3 gaming.
