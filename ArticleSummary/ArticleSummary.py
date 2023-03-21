@@ -1,8 +1,7 @@
-# Python run at the following sites
-# https://replit.com/@Geckoyamori/ImpassionedDarkorangeInstructionset#main.py
-#
-# Function to extract only the text of the following articles, excluding advertisements and images
+# ①以下サイトの記事から本文を抽出
 # https://decrypt.co/
+#
+# ②抽出した内容をもとにChatGPTに連投ツイートを作成してもらうためのプロンプトをoutput.txtファイルに出力
 
 
 # pip3 install requests
@@ -11,17 +10,25 @@
 import requests
 from bs4 import BeautifulSoup
 
-url = "https://decrypt.co/123906/openai-gpt-text-custom-metaverse-worlds"
+# ファイルから文字列を読み込む
+with open("ArticleSummary/prompt.txt", "r", encoding="utf-8") as file:
+    prompt = file.read()
+
+url = "https://decrypt.co/124069/hong-kong-web3-crypto-hub"
 response = requests.get(url)
 
 soup = BeautifulSoup(response.text, "html.parser")
 
 text_content = soup.find("div", class_="post-content")
 
-if text_content is None:
-    print("Error: Could not find text content.")
-else:
-    paragraphs = text_content.find_all("p", recursive=False)
-    for paragraph in paragraphs:
-        if paragraph.parent.name != "article":
-            print(paragraph.get_text())
+# 新規テキストファイルを作成して出力する
+with open("ArticleSummary/output.txt", "w", encoding="utf-8") as file:
+    file.write(prompt + "\n")
+
+    if text_content is None:
+        file.write("Error: Could not find text content.")
+    else:
+        paragraphs = text_content.find_all("p", recursive=False)
+        for paragraph in paragraphs:
+            if paragraph.parent.name != "article":
+                file.write(paragraph.get_text() + "\n")
