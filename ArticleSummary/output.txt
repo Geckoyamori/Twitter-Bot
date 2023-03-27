@@ -1,149 +1,126 @@
 #命令
-あなたはtwitterで活動を行うweb3情報発信者です。
-記事をもとに日本語で連投ツイートを作成してください。
+あなたは、Web3技術に関する情報をTwitterで発信している専門家です。初心者にも理解しやすい連続ツイートを作成し、記事の内容を簡潔に伝えてください。
 
 #条件
-・各ツイートの文頭に、ツイート番号を振ること
-・1ツイート目は注目を浴びるような内容であること
-・1ツイート目は、2ツイート目以降の詳細確認を促すような問いかけを含めること
-・2ツイート目以降は詳細の解説をすること
-・各ツイートごとに話のまとまりがあること
-・各ツイートは100文字以上125文字以内であること（twitterの文字数制限にかからないこと）
-・ハッシュタグは使用しないこと
-・絵文字は必要に応じて使用すること
-・例1や例2や例3を参考にすること
+・3つのカテゴリーからなる連続ツイート: #速報ツイート、#詳細解説ツイート、#用語解説ツイート
+・各ツイートは120文字以上135文字以内であること
+・参考例: #例1
+
+#速報ツイート
+・最初のツイートであり、初心者にも理解しやすい表現を用いること
+・見出しと記事のポイント3つを箇条書きで記載すること
+・適切な絵文字を使用すること
+・参考例: #速報ツイート例1
+
+#詳細解説ツイート
+・速報ツイートに続くツイートで、話がまとまっていること
+・各ツイートは記事の小見出しに対する詳細説明をわかりやすく解説すること
+・小見出しの例は以下。
+　・記事の背景と現状
+　・重要なポイントとなる事実
+　・業界への影響と展望
+　・主要登場人物の意見と反応
+　・一般ユーザーへの影響
+　・まとめと今後の注目ポイント
+・一般ユーザーへの影響とまとめツイートは必ず含めること
+・まとめツイートには元記事URLを記載すること
+・丁寧語を使用すること
+・適切な絵文字を使用すること
+・参考例: #詳細解説ツイート例1
+
+#用語解説ツイート
+・詳細解説ツイートの後のツイートであること
+・詳細解説ツイート内で使用された用語3つを説明すること
+・丁寧語を使用しないこと
+・絵文字は使用しないこと
+・参考例: #用語解説ツイート例1、#用語解説ツイート例2
+
+
+#速報ツイート例1
+1/
+【Web3速報】
+
+{見出し}
+・{ポイント1}
+・{ポイント2}
+・{ポイント3}
+
+詳細はこちら↓
+
+
+#詳細解説ツイート例1
+2/
+{小見出し}
+
+{詳細解説}
+
+
+#用語解説ツイート例1
+7/
+用語解説：{用語}
+{用語解説}
+
 
 #例1
-■1ツイート目
-1/4
-スタバがWeb3に本格参入‼️
+1/
+【Web3速報】
 
-スタバがコレクタブルNFT「Siren Collection」を展開しました。✨
-スターバックスのアイコン的ロゴをインスパイアした2,000個のNFTで、スターバックスの歴史を辿る5つのエクスプレッションに基づいています。☕️
+Web3技術でNFTトレーダー大損失😱
+・CryptoPunk NFTを77ETHで購入🖼️
+・バーンアドレスに誤送信で約$129,000消失💸
+・取引の複雑さと取り返しのつかない性質が問題🔥
 
-では、NFT保有するとどんなメリットがあるのか？
+詳細はこちら↓
 
-🔻続き
+2/
+NFTトレーダーの悲劇の背景🔎
 
-■2ツイート目
-2/4
-スタバNFTの保有により享受できる特典は様々です✨
-・独占的なデジタルコンテンツ
-・店内でのライブイベント
-・コスタリカのスターバックス農園への旅行
+Brandon氏は、CryptoPunk NFTをERC-721トークンにラップしてNFTfi.comで利用しようとしましたが、誤ったアドレスを入力。結果、NFTがバーンアドレスに送信され、価値が消失しました。💔
 
-https://stories.starbucks.co.jp/ja/stories/2021/hacienda/
+3/
+デジタル資産取引の課題🚧
 
+トランザクションの複雑さと取り返しのつかない性質がデジタル資産業界の問題です。金融仲介業者がいないため、Brandon氏は失ったCryptoPunkを取り戻す方法がありません。自己管理のリスクと魅力が表れています。🔐
 
-■3ツイート目
-3/4
-今までにもアプリ内の特定のチャレンジをクリアすることで、4つの無料NFTが配布されています。
-無料でも、初のスタバNFTである「Holiday Cheer Edition 1 stamp」は、セカンダリ市場で1,000ドル以上の価格で取引されています。
-合計222,000ドルのセカンダリセールスが行われました。
+4/
+まとめ🌟
 
-■4ツイート目
-4/4
-NFT市場は、2022年後半には大きく落ち込みましたが、2023年2月には総売上高が20億ドルを超え、昨年5月の市場クラッシュ以来最高となっています。
+デジタル資産業界では、トランザクションの複雑さと取り返しのつかない性質が課題です。Brandon氏の例から、自己管理のリスクと魅力が明らかになりました。皆さんも取引には十分注意しましょう！🙏
 
-大企業の動向もふまえ、今後も要チェックですね👀
+元記事はこちら
+https://decrypt.co/124598/nft-trader-accidentally-burns-129k-cryptopunk
 
+5/
+用語解説：バーンアドレス
+プライベートキーを持たないデジタルウォレット。仮想通貨やNFTを受け取ることはできるが、送金や取り出しは不可能。資産を送ると、事実上永遠に失われるため、注意が必要。通常、コインの総供給量を減らす目的で使用される。
 
-#例2
-■1ツイート目
-1/4
-Web3ゲームスタートアップMatchdayが、
-レジェンドサッカー選手リオネル・メッシのベンチャーキャピタル会社とともに、
-2,100万ドルの資金調達を発表‼️
+6/
+用語解説：ERC-721
+イーサリアムブロックチェーン上の非代替可能トークン(NFT)の標準規格。各NFTは一意のIDを持ち、所有権や転送が可能。アート、ゲームアセット、デジタルコレクティブルなどの独自性が求められる分野で活用されている。
 
-あのメッシが関わるweb3サッカーゲーム⚽️
-一体どんな内容なのでしょうか？
-
-🔻続き
-
-■2ツイート目
-2/4
-MatchdayのCEOは、「サッカーコミュニティの未開拓の観客層に向けて開発している。」と語っています。
-
-FIFAとFIFPRO選手会の公認を受けており、"カジュアル"なユーザーに最適化された（ブロックチェーン上の動きをユーザーは気にすることがなく優れたUXである）ゲームを提供する予定です。🎮
+7/
+用語解説：NFTfi
+非代替可能トークン(NFT)を担保にローンを受けることができるデフィプラットフォーム。NFT所有者は、NFTを担保に資金を調達できます。また、投資家は、NFTを担保としたローンに資金を提供することで利益を得ることができます。
 
 
-■3ツイート目
-3/4
-また、2022年のFIFAワールドカップ中に限定ミニゲームをリリースし、約60万人にNFTをプレゼントしました。👀
-
-サッカー界自体もNFTに進出してます⚽️
-・Sorare
-6.8億ドルを調達し、数百チームやリーグのライセンスを獲得
-
-・FIFA
-NFTプラットフォームを立ち上げ多くのチームがファントークンを発行
-
-■4ツイート目
-4/4
-Web3ゲームはNFTを活用することで、プレーヤーに独自のデジタルアイテムの所有権を与え、そのアイテムの使用や交換を可能にします。
-
-サッカー界でのweb3動向も要注目ですね！⚽️
-
-
-#例3
-■1ツイート目
-1/6
-Salesforce web3誕生‼️
-
-MicrosoftやORACLEを抑え、圧倒的世界TOPの顧客関係管理(CRM)ソフトウェア提供企業であるSalesforce社🥇
-莫大な顧客データを保有するSalesforceが本格的にweb3に乗り出してきます！一体どんなサービスを打ち出してくるのでしょうか？👀
-
-
-🔻続き
-
-■2ツイート目
-2/6
-そもそもSalesforce社とは？
-
-・世界中の企業の顧客関係管理(CRM)のためのソフトを提供するシェアTOP企業
-・ソフトにより、営業、マーケティング、カスタマーサポートなどの業務を一元的に管理
-・また顧客データやビジネスプロセスの可視化・分析機能により、ビジネスの効率化や顧客満足度の向上に貢献
-
-■3ツイート目
-3/6
-どんなweb3サービスを提供するの？
-
-・トークンベースのロイヤルティプログラムを作成するためのNFT管理プラットフォームの提供
-・NFTを生成および販売し、ブロックチェーンの活動を監視し、Salesforce Web3上のリアルタイムの顧客データを表示可能
-
-■4ツイート目
-4/6
-何がすごいの？
-
-①第一当事者のデータにアクセスできること
-→個人データは、今までのweb2の場合、スマホプラットフォームであるAppleやGoogleのポリシー変更に都度都度対応するためにコストがかかっていた。web3となると、ブロックチェーンを用いて、直接第一当事者と関わり、データにアクセスできる
-
-■5ツイート目
-5/6
-何がすごいの？
-
-②ガス代がかからないこと
-→最も大事なことは顧客体験だと考えているため、多くのブランド会社はエンドユーザーのガス代を肩代わりする。それによりエンドユーザーはガス代やブロックチェーンなど小難しい知識は全く不要でweb3サービスを扱うことができる。
-
-■6ツイート目
-6/6
-莫大な顧客データを保有し、かつ顧客体験を第一に考えるSalesforce社のweb3サービス✨
-今後もしかしたら身近で利用している方々もでてきそうですね😊
-
+#記事URL
+https://decrypt.co/124598/nft-trader-accidentally-burns-129k-cryptopunk
 
 #記事
-Nexon, one of the largest game publishers across Asia, is creating a new Web3 game based on its popular pixelated 2D role-playing franchise, called MapleStory Universe—and it’s launching a private Supernet on Polygon for the new game, Nexon announced Tuesday at the Game Developers Conference in San Francisco.
-MapleStory, launched in 2003, is a long-running success story for Nexon. The game has generated more than $4 billion in revenue to date, the company announced earlier this year, and amassed more than 180 million registered users to date. The game's Steam page lists an even larger tally of over 260 million total players.
-“We are looking forward to expanding the NFT ecosystem envisioned by MapleStory Universe by building on Polygon,” MapleStory Universe Group Leader Hwang Sun-young said in a statement. “We will work closely with the team at Polygon Labs to develop and market the game.”
+An NFT trader was devastated Friday to discover that a CryptoPunk he purchased for 77 Ethereum went up in smoke after he accidentally sent the pricy piece of digital art to a burn address.
 
-Polygon is an Ethereum scaling network that enables faster and cheaper transactions than Ethereum’s own mainnet. The upcoming PC game’s Polygon Supernet will allow Nexon to have its own “dedicated app chain,” Polygon Labs VP, Global Games and Platform Business Development Urvit Goel told Decrypt in an interview.
-“They have the ability to scale in a way that you can't scale on a shared blockchain,” Goel said of Nexon and its planned Supernet. “They have a very broad vision of how many transactions they think they'll do daily, because the game and the IP is so large.”
-Polygon’s Supernets are similar in approach to Avalanche’s Subnets, for example, providing a dedicated sub-network for individual projects to utilize. They provide some customization options for creators while also insulating decentralized apps (dapps) and games from potential performance issues on the broader public network.
-MapleStory Universe was announced last year and does not yet have a confirmed release date. But Goel said there will be no NFT presales, and players will be able to earn items as NFTs simply by playing the game. 
-“They’re not pushing for in-app purchases,” he added, referring to the microtransactions that are common in mobile games on iOS and Android.
-MapleStory Universe is an NFT-centric game, meaning that tokenized assets will play a major role in the game itself and can be traded or transferred via the game’s marketplace. Nexon told Decrypt via email that MapleStory Universe will also eventually have its own crypto token, though the details on that have not yet been finalized.
-“We plan on issuing our unique coin, and specific details about this will be revealed later with our tokenomics,” the game studio said.
-Nexon is both a South Korean and Japanese company, but derives the majority of its revenue from the South Korean market. And it’s not the only South Korean studio leaning into Web3, according to Polygon Labs’ Goel.
-“Korea has been by far the leader from a developer standpoint,” Goel said. “If you look at the top 10 gaming companies in Korea, eight out of 10 have publicly stated that they’re building something on the blockchain, which is very unique globally.”
-Other major South Korean game publishers that are working on Web3 projects include NCSoft and Netmarble, both of whom are building on upstart blockchain network Sui. Meanwhile, Krafton—creator of the popular PUBG: Battlegrounds shooter series—is working on various blockchain initiatives, including in partnership with Solana Labs.
-In a statement, Polygon Labs President Ryan Wyatt affirmed that South Korea is “a critical market” for Web3 gaming.
+Burn addresses, which are digital wallets that don’t have a private key, are one-way gateways that can only receive assets like cryptocurrencies and NFTs. As a result, the NFT was permanently removed from circulation, preventing it from ever being traded or owned again. 
+Brandon Riley, who purchased CryptoPunk #685 two weeks ago, said he made an error when attempting to wrap the NFT to take a loan against it on Twitter. He told Decrypt he planned on posting CryptoPunk #685 to NFTfi.com, where he could earn a yield of around 7% per year.
+
+CryptoPunk #685 was worth approximately $129,000 in Ethereum when it was acquired by Riley, according to the Ethereum block explorer Etherscan.
+Originally created in 2017, CryptoPunks is widely viewed as a “blue chip” collection, on par with the likes of Yuga Labs’ Bored Ape Yacht Club. With a market capitalization of over $1 billion, the cheapest CryptoPunk is worth just over $109,000, according to NFT Price Floor.
+However, CryptoPunks were created before ERC-721 was established as a token standard for NFTs, making them incompatible with some marketplaces and applications designed for decentralized finance—such as NFTfi.com.
+Using a guide he found online, Riley tried to wrap his punk as an ERC-721 token, creating a new digital token that proved he owned CryptoPunk #685 but would be compatible with NFTfi.com. But by inputting the wrong address, CryptoPunk #685 is now forever gone.
+
+Riley’s unfavorable situation is indicative of issues that many face in the digital assets industry due to the often complex and irreversible nature of transactions. And because there are no financial intermediaries involved, there’s nothing Riley can do to get his lost CryptoPunk back, which he described as “both the beauty and the curse of self-custody.”
+One Twitter user named NFToga pointed out that the guide used by Riley has since been updated, including language that specifically warns people not to send CryptoPunks to wallets formatted as burn addresses.
+
+Asking for some form of a reprieve, Riley asked Yuga Labs—which purchased the IP to CryptoPunks from Larva Labs last year—if he could buy the v1 version of CryptoPunk #685. CryptoPunks v2 was released after a bug was found in the original collection's smart contract.
+
+Riley said that he has not yet from Yuga Labs after tagging them in his posts on Twitter, and Yuga Labs did not immediately respond to requests for comment from Decrypt.
+Sometimes, NFTs aren’t burned by accident, but rather as a way of making a statement. Last month, Jason Williams burned BAYC # 1626—worth $169,000 at the time—to symbolically shift the asset’s underlying network from Ethereum to Bitcoin in the form of an Inscription made through Ordinals.
