@@ -2,8 +2,8 @@
 あなたは、Web3技術に関する情報をTwitterで発信している専門家です。初心者にも理解しやすい連続ツイートを作成し、記事の内容を簡潔に伝えてください。
 
 #条件
-・3つのカテゴリーからなる連続ツイート: #速報ツイート、#詳細解説ツイート、#用語解説ツイート
-・各ツイートは120文字以上135文字以内であること
+・3つのカテゴリーからなる連続ツイート: #速報ツイート、#詳細解説ツイート、#まとめツイート、#用語解説ツイート
+・各ツイートは125文字以上135文字以内であること
 ・参考例: #例1
 
 #速報ツイート
@@ -14,22 +14,29 @@
 
 #詳細解説ツイート
 ・速報ツイートに続くツイートで、話がまとまっていること
-・各ツイートは記事の小見出しに対する詳細説明をわかりやすく解説すること
-・小見出しの例は以下。
-　・記事の背景と現状
-　・重要なポイントとなる事実
-　・業界への影響と展望
+・各ツイートは記事の小見出しに対する詳細説明を初心者にもわかりやすく解説すること
+・小見出しは以下を参考にし、★印がついている小見出しは基本的に採用すること
+　・記事の背景、経緯　★
+　・現状の課題　★
+　・重要なポイントとなる事実　★
+　・業界への影響　★
 　・主要登場人物の意見と反応
-　・一般ユーザーへの影響
-　・まとめと今後の注目ポイント
-・一般ユーザーへの影響とまとめツイートは必ず含めること
-・まとめツイートには元記事URLを記載すること
+　・一般ユーザーへの影響　★
+　・今後の展望　
+　・今後の課題　
 ・丁寧語を使用すること
 ・適切な絵文字を使用すること
 ・参考例: #詳細解説ツイート例1
 
+#まとめツイート
+・詳細解説ツイートに続くツイートで、話がまとまっていること
+・まとめツイートには元記事URLを記載すること
+・丁寧語を使用すること
+・適切な絵文字を使用すること
+・参考例: #まとめツイート例1
+
 #用語解説ツイート
-・詳細解説ツイートの後のツイートであること
+・まとめツイートの後のツイートであること
 ・詳細解説ツイート内で使用された用語3つを説明すること
 ・丁寧語を使用しないこと
 ・絵文字は使用しないこと
@@ -41,11 +48,12 @@
 【Web3速報】
 
 {見出し}
+
 ・{ポイント1}
 ・{ポイント2}
 ・{ポイント3}
 
-詳細はこちら↓
+詳細はこちら↓  #web3 {関連ハッシュダグ}
 
 
 #詳細解説ツイート例1
@@ -54,9 +62,18 @@
 
 {詳細解説}
 
+#まとめツイート例1
+7/
+まとめ
+
+{まとめ}
+
+元記事はこちら
+https://decrypt.co/124598/nft-trader-accidentally-burns-129k-cryptopunk
+
 
 #用語解説ツイート例1
-7/
+8/
 用語解説：{用語}
 {用語解説}
 
@@ -66,11 +83,12 @@
 【Web3速報】
 
 Web3技術でNFTトレーダー大損失😱
+
 ・CryptoPunk NFTを77ETHで購入🖼️
 ・バーンアドレスに誤送信で約$129,000消失💸
 ・取引の複雑さと取り返しのつかない性質が問題🔥
 
-詳細はこちら↓
+詳細はこちら↓  #web3 #NFT #CryptoPunks
 
 2/
 NFTトレーダーの悲劇の背景🔎
@@ -104,23 +122,17 @@ https://decrypt.co/124598/nft-trader-accidentally-burns-129k-cryptopunk
 
 
 #記事URL
-https://decrypt.co/124598/nft-trader-accidentally-burns-129k-cryptopunk
+https://decrypt.co/124725/disney-cuts-metaverse-unit-company-wide-layoffs
 
 #記事
-An NFT trader was devastated Friday to discover that a CryptoPunk he purchased for 77 Ethereum went up in smoke after he accidentally sent the pricy piece of digital art to a burn address.
-
-Burn addresses, which are digital wallets that don’t have a private key, are one-way gateways that can only receive assets like cryptocurrencies and NFTs. As a result, the NFT was permanently removed from circulation, preventing it from ever being traded or owned again. 
-Brandon Riley, who purchased CryptoPunk #685 two weeks ago, said he made an error when attempting to wrap the NFT to take a loan against it on Twitter. He told Decrypt he planned on posting CryptoPunk #685 to NFTfi.com, where he could earn a yield of around 7% per year.
-
-CryptoPunk #685 was worth approximately $129,000 in Ethereum when it was acquired by Riley, according to the Ethereum block explorer Etherscan.
-Originally created in 2017, CryptoPunks is widely viewed as a “blue chip” collection, on par with the likes of Yuga Labs’ Bored Ape Yacht Club. With a market capitalization of over $1 billion, the cheapest CryptoPunk is worth just over $109,000, according to NFT Price Floor.
-However, CryptoPunks were created before ERC-721 was established as a token standard for NFTs, making them incompatible with some marketplaces and applications designed for decentralized finance—such as NFTfi.com.
-Using a guide he found online, Riley tried to wrap his punk as an ERC-721 token, creating a new digital token that proved he owned CryptoPunk #685 but would be compatible with NFTfi.com. But by inputting the wrong address, CryptoPunk #685 is now forever gone.
-
-Riley’s unfavorable situation is indicative of issues that many face in the digital assets industry due to the often complex and irreversible nature of transactions. And because there are no financial intermediaries involved, there’s nothing Riley can do to get his lost CryptoPunk back, which he described as “both the beauty and the curse of self-custody.”
-One Twitter user named NFToga pointed out that the guide used by Riley has since been updated, including language that specifically warns people not to send CryptoPunks to wallets formatted as burn addresses.
-
-Asking for some form of a reprieve, Riley asked Yuga Labs—which purchased the IP to CryptoPunks from Larva Labs last year—if he could buy the v1 version of CryptoPunk #685. CryptoPunks v2 was released after a bug was found in the original collection's smart contract.
-
-Riley said that he has not yet from Yuga Labs after tagging them in his posts on Twitter, and Yuga Labs did not immediately respond to requests for comment from Decrypt.
-Sometimes, NFTs aren’t burned by accident, but rather as a way of making a statement. Last month, Jason Williams burned BAYC # 1626—worth $169,000 at the time—to symbolically shift the asset’s underlying network from Ethereum to Bitcoin in the form of an Inscription made through Ordinals.
+Walt Disney Co. has cut its “next-generation storytelling and consumer experiences unit.”
+The team of around 50 was dedicated to developing metaverse strategies, per the Wall Street Journal. The team was responsible for using Disney's vast library of intellectual property to tell interactive stories in new formats.
+This comes as part of company-wide layoffs that are expected to see around 7,000 leave the company over the next two months.
+Disney did not immediately respond to Decrypt’s request for comment.
+The firm's metaverse lead Mike White was hired in February 2022 by Disney's former chief executive Bob Chapek who described the metaverse as "the next great storytelling frontier." Chapek was replaced as CEO by Robert Iger last November. White will reportedly stay on at Disney.
+Shortly after his appointment, White reportedly told employees that the goal was to "create an entirely new paradigm for how audiences experience and engage with our stories.”
+Disney's metaverse strategy remained obscure for a year after the creation of the unit. The company hinted that the metaverse could play a role in fantasy sports, theme-park attractions, and other consumer experiences.
+There was an effort last year to create a membership initiative that would be somewhat akin to Amazon Prime—which offers free shipping, discounts, exclusive deals, and more. This effort has since been abandoned, according to WSJ reporting.
+Disney’s CEO seems nonetheless bullish on the future of the metaverse, investing in and joining the board of Genies Inc., a startup that sells tools to create avatars for the metaverse.
+The metaverse hasn't grown as quickly as Disney hoped becoming an easy target for cuts of this size.
+Meta, by comparison, has shifted billions in resources to the metaverse only to be welcomed with low user demand, even its employees won't use it.
