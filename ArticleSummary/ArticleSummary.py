@@ -14,7 +14,7 @@ from bs4 import BeautifulSoup
 with open("ArticleSummary/prompt.txt", "r", encoding="utf-8") as file:
     prompt = file.read()
 
-url = "https://decrypt.co/124725/disney-cuts-metaverse-unit-company-wide-layoffs"
+url = "https://decrypt.co/124084/luxury-fashion-house-balmain-drops-unicorn-sneakers-bundled-with-nft-version"
 response = requests.get(url)
 
 soup = BeautifulSoup(response.text, "html.parser")

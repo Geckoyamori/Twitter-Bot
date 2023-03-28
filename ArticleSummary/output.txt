@@ -122,17 +122,22 @@ https://decrypt.co/124598/nft-trader-accidentally-burns-129k-cryptopunk
 
 
 #記事URL
-https://decrypt.co/124725/disney-cuts-metaverse-unit-company-wide-layoffs
+https://decrypt.co/124084/luxury-fashion-house-balmain-drops-unicorn-sneakers-bundled-with-nft-version
 
 #記事
-Walt Disney Co. has cut its “next-generation storytelling and consumer experiences unit.”
-The team of around 50 was dedicated to developing metaverse strategies, per the Wall Street Journal. The team was responsible for using Disney's vast library of intellectual property to tell interactive stories in new formats.
-This comes as part of company-wide layoffs that are expected to see around 7,000 leave the company over the next two months.
-Disney did not immediately respond to Decrypt’s request for comment.
-The firm's metaverse lead Mike White was hired in February 2022 by Disney's former chief executive Bob Chapek who described the metaverse as "the next great storytelling frontier." Chapek was replaced as CEO by Robert Iger last November. White will reportedly stay on at Disney.
-Shortly after his appointment, White reportedly told employees that the goal was to "create an entirely new paradigm for how audiences experience and engage with our stories.”
-Disney's metaverse strategy remained obscure for a year after the creation of the unit. The company hinted that the metaverse could play a role in fantasy sports, theme-park attractions, and other consumer experiences.
-There was an effort last year to create a membership initiative that would be somewhat akin to Amazon Prime—which offers free shipping, discounts, exclusive deals, and more. This effort has since been abandoned, according to WSJ reporting.
-Disney’s CEO seems nonetheless bullish on the future of the metaverse, investing in and joining the board of Genies Inc., a startup that sells tools to create avatars for the metaverse.
-The metaverse hasn't grown as quickly as Disney hoped becoming an easy target for cuts of this size.
-Meta, by comparison, has shifted billions in resources to the metaverse only to be welcomed with low user demand, even its employees won't use it.
+French luxury fashion house Balmain today launched its latest Web3 initiative, dropping a limited series of NFT sneakers based on its Unicorn footwear line that each come with a pair of matching limited-edition real world shoes. 
+The Unicorn Phygital Wearable Collection, on sale starting today, consists of 130 Unicorn sneaker NFTs bundled with identical physical counterparts. Five unique sneaker designs are debuting via the collection’s Unicorn bundles, which each cost between $1595 and $2095 payable in either traditional currency or ETH. The sale is now live.
+The collection’s Ethereum NFTs were crafted in collaboration with Space Runners, a digital fashion company backed by Pantera, Polychain, Jump Capital, and Animoca Brands’ Yat Siu, among other investors.
+
+“As the physical and digital continue to merge, Balmain is dedicated to constantly exploring emerging pathways that help add new recruits to the very engaged, diverse, and global Balmain Army,” Balmain Chief Marketing Officer Txampi Diz said in a statement shared with Decrypt. “This collaboration allows us to introduce this historic house to a broader audience.”
+Along with rare physical sneakers, holders of Balmain Unicorn NFTs will be granted certain other perks, including early access to future Balmain drops and other exclusive Balmain products, plus additional digital wearables for use in online games and metaverse platforms. 
+To Space Runners Creative Director Rohan Chhabra, those tangible, more traditional add-ons are the sugar necessary to make the medicine of digital fashion go down with the currently crypto-cautious masses.
+“Metaverse has become a dirty word. So has NFT,” Chhabra told Decrypt. “But we need to get Web2 customers and Web 2.5 customers—our biggest potential customer base—into this space. This is an introduction for them to come into this world.”
+Chhabra is unshakable in his conviction that digital wearables will one day come to dominate luxury fashion, even eclipsing physical clothing in desirability. But he concedes that such a reality may be further off than originally thought, given the current condition of the metaverse and public perceptions of the concept.
+“Imagine this: a bunch of guys who don't know each other go to a bar, where there’s no alcohol, no games, and no activities. It becomes very awkward, very fast,” Chhabra said of the state of affairs in leading open metaverse platforms like The Sandbox and Decentraland. 
+Whereas early ventures into the digital realm by leading luxury brands focused mainly on targeting Web3-savvy audiences in crypto-native environments, Chhabra has found the trials of the last year to indicate that to onboard users to a digital existence, companies need to work harder to meet those customers where they currently are. And that’s not the metaverse. 
+“At this point, [offerings] need to be far more casual, far more approachable, and far more accessible, he said. “It’s baby steps.”
+Balmain Unicorn NFTs are not yet compatible with any metaverse gaming platforms. They will eventually be wearable in Space Runners’ own, closed-loop metaverse, which is set to launch by the end of this year. That metaverse will be less focused on experiential gaming and more dedicated to commerce, people familiar with the matter told Decrypt.
+Today’s drop marks only the latest Web3 experiment for Balmain, which over the last year has aggressively pursued partnerships, membership programs, and limited edition drops that incorporate blockchain technology. 
+“To us, Web3 is like social media 10 years ago or e-commerce 20 years ago,” Balmain CMO Diz told Decrypt in 2022. “We need to test which [Web3] experiments make sense for us as a luxury house. This has to be part of the global marketing strategy for every brand.”
+Despite the current bearish environment for metaverse endeavors, the digital fashion industry continues to barrel ahead. Last week, digital fashion house DressX announced a $15 million fundraise to continue designing exclusively virtual clothing pieces. 
