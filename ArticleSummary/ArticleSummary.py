@@ -16,7 +16,7 @@ with open("ArticleSummary/prompt.txt", "r", encoding="utf-8") as file:
     prompt = file.read()
 
 # URLのレスポンスを取得
-url = "https://decrypt.co/124779/f1-team-crypto-sponsor-kraken-after-ftx-tezos-exits"
+url = "https://decrypt.co/124887/at-least-37m-worth-of-y00ts-nfts-migrate-to-polygon-from-solana-in-one-day"
 parsed_url = urlparse(url)
 domain = parsed_url.netloc
 response = requests.get(url)

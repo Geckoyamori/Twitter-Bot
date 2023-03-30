@@ -17,6 +17,7 @@
 ・各ツイートは記事の小見出しに対する詳細説明を初心者にもわかりやすく解説すること
 ・小見出しは以下を参考にし、★印がついている小見出しは基本的に採用すること
 　・記事の背景、経緯　★
+　・記事にメインで登場する固有名詞の説明　★
 　・現状の課題　★
 　・重要なポイントとなる事実　★
 　・業界への影響　★
@@ -24,6 +25,7 @@
 　・一般ユーザーへの影響　★
 　・今後の展望　
 　・今後の課題　
+・固有名詞はそれが何か初心者にも伝わるように修飾語をつけること
 ・丁寧語を使用すること
 ・適切な絵文字を使用すること
 ・参考例: #詳細解説ツイート例1
@@ -122,22 +124,21 @@ https://decrypt.co/124598/nft-trader-accidentally-burns-129k-cryptopunk
 
 
 #記事URL
-https://decrypt.co/124084/luxury-fashion-house-balmain-drops-unicorn-sneakers-bundled-with-nft-version
+https://decrypt.co/124887/at-least-37m-worth-of-y00ts-nfts-migrate-to-polygon-from-solana-in-one-day
 
 #記事
-French luxury fashion house Balmain today launched its latest Web3 initiative, dropping a limited series of NFT sneakers based on its Unicorn footwear line that each come with a pair of matching limited-edition real world shoes. 
-The Unicorn Phygital Wearable Collection, on sale starting today, consists of 130 Unicorn sneaker NFTs bundled with identical physical counterparts. Five unique sneaker designs are debuting via the collection’s Unicorn bundles, which each cost between $1595 and $2095 payable in either traditional currency or ETH. The sale is now live.
-The collection’s Ethereum NFTs were crafted in collaboration with Space Runners, a digital fashion company backed by Pantera, Polychain, Jump Capital, and Animoca Brands’ Yat Siu, among other investors.
+Solana profile picture (PFP) collection y00ts is the most prominent NFT project to date to migrate from one chain to another—and early data suggests the community of holders is supporting the move, with nearly 77% of the NFTs already migrated to Polygon since the late Monday launch.
+DeLabs, the Web3 startup behind both y00ts and the even more valuable DeGods project on Solana, announced in December that both collections would undergo the process of “bridging” to a new blockchain in the coming months—y00ts to Polygon and DeGods to Ethereum. Both moves were ultimately set for March.
+Late Monday night, DeLabs and associated tech startup Dust Labs launched the migration for y00ts, which is effectively a “burn and mint” process that sees holders burn (or destroy) the original Solana version of the NFT and receive a newly-minted Polygon version on the other end of the Wormhole-based bridge.
+In just over 24 hours, more than 75% of the total supply of y00ts NFTs (11,362 out of 15,000) had reportedly already been migrated to Polygon. As of this writing, less than two days after the migration tool launched, the tally stands at 11,506 migrated NFTs—or nearly 77% of the total collection.
+Based on the current 1.79 ETH ($3,230) floor price at the OpenSea marketplace—or the price of the cheapest listed NFT in the project—that represents nearly $37 million worth of NFTs that had moved chains in just over a day. And since some of the NFTs are valued higher than the floor, the actual tally is potentially much higher.
 
-“As the physical and digital continue to merge, Balmain is dedicated to constantly exploring emerging pathways that help add new recruits to the very engaged, diverse, and global Balmain Army,” Balmain Chief Marketing Officer Txampi Diz said in a statement shared with Decrypt. “This collaboration allows us to introduce this historic house to a broader audience.”
-Along with rare physical sneakers, holders of Balmain Unicorn NFTs will be granted certain other perks, including early access to future Balmain drops and other exclusive Balmain products, plus additional digital wearables for use in online games and metaverse platforms. 
-To Space Runners Creative Director Rohan Chhabra, those tangible, more traditional add-ons are the sugar necessary to make the medicine of digital fashion go down with the currently crypto-cautious masses.
-“Metaverse has become a dirty word. So has NFT,” Chhabra told Decrypt. “But we need to get Web2 customers and Web 2.5 customers—our biggest potential customer base—into this space. This is an introduction for them to come into this world.”
-Chhabra is unshakable in his conviction that digital wearables will one day come to dominate luxury fashion, even eclipsing physical clothing in desirability. But he concedes that such a reality may be further off than originally thought, given the current condition of the metaverse and public perceptions of the concept.
-“Imagine this: a bunch of guys who don't know each other go to a bar, where there’s no alcohol, no games, and no activities. It becomes very awkward, very fast,” Chhabra said of the state of affairs in leading open metaverse platforms like The Sandbox and Decentraland. 
-Whereas early ventures into the digital realm by leading luxury brands focused mainly on targeting Web3-savvy audiences in crypto-native environments, Chhabra has found the trials of the last year to indicate that to onboard users to a digital existence, companies need to work harder to meet those customers where they currently are. And that’s not the metaverse. 
-“At this point, [offerings] need to be far more casual, far more approachable, and far more accessible, he said. “It’s baby steps.”
-Balmain Unicorn NFTs are not yet compatible with any metaverse gaming platforms. They will eventually be wearable in Space Runners’ own, closed-loop metaverse, which is set to launch by the end of this year. That metaverse will be less focused on experiential gaming and more dedicated to commerce, people familiar with the matter told Decrypt.
-Today’s drop marks only the latest Web3 experiment for Balmain, which over the last year has aggressively pursued partnerships, membership programs, and limited edition drops that incorporate blockchain technology. 
-“To us, Web3 is like social media 10 years ago or e-commerce 20 years ago,” Balmain CMO Diz told Decrypt in 2022. “We need to test which [Web3] experiments make sense for us as a luxury house. This has to be part of the global marketing strategy for every brand.”
-Despite the current bearish environment for metaverse endeavors, the digital fashion industry continues to barrel ahead. Last week, digital fashion house DressX announced a $15 million fundraise to continue designing exclusively virtual clothing pieces. 
+DeLabs has incentivized holders to make the move swiftly. Anyone who migrated to Polygon within the first 24 hours would have network gas fees reimbursed by marketplace Magic Eden, plus they’d receive $5 in USDC stablecoin for listing the Polygon-based NFT on the same marketplace. Furthermore, they’d have fee-free y00ts trading for 30 days.
+On top of that, DeLabs said it would randomly airdrop a free Bitcoin-based DeGods NFT (or Ordinal) to one of the y00ts holders who migrated within the first 24 hours. On the flip side, NFT holders who don’t migrate to Polygon by April 3 will be hit by a 33.3% “Paper Hands Bridge Tax” creator royalty fee on secondary sales—10 times the standard rate set by DeLabs.
+DeLabs and Dust Labs plan to carry through with the other half of the plan this week, as DeGods will commence migration from Solana to the Ethereum blockchain on March 31st.
+In an exclusive conversation with Decrypt in February, DeLabs founder Rohun ”Frank” Vora and Dust Labs CEO Kevin Henrikson spoke at length about the team’s intentions to migrate both y00ts and DeGods away from the Solana blockchain, in favor of Polygon and Ethereum, respectively.
+Frank revealed that the lure of y00ts to Polygon didn’t originate from the $3 million grant paid by Polygon Labs, but rather the roster of corporate giants building on the network—including Reddit, Disney, Nike, and Starbucks, among others. 
+Envisioning easier accessibility to forge partnerships with Polygon-native brands, Frank revealed that the visual design of the y00ts avatars was created with the possibility for brands to “imprint their logos."
+In the case of DeGods, Henrikson said that “it wasn't about if, it was just a matter of when” the collection would move to Ethereum. “If we're gonna be the biggest, most popular NFT collection in the world, you're gonna have to be on Ethereum,” he said.
+“We're trying to take big swings, and we are trying to do it in a way that is going to make it exciting on the upside for people to participate,” Frank said in February, teasing the types of incentives that ultimately accompanied the y00ts migration.
+Teasing the DeGods move ahead, Frank tweeted today: “Friday gonna be iconic.”
