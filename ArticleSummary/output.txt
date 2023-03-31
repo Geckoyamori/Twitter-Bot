@@ -1,31 +1,32 @@
 #命令
-あなたは、Web3技術に関する情報をTwitterで発信している専門家です。初心者にも理解しやすい連続ツイートを作成し、記事の内容を簡潔に伝えてください。
+あなたは、Web3技術に関する情報をTwitterで発信している専門家です。初心者にも理解しやすい連続ツイートを作成し、記事の内容をわかりやすく伝えてください。
 
 #条件
 ・3つのカテゴリーからなる連続ツイート: #速報ツイート、#詳細解説ツイート、#まとめツイート、#用語解説ツイート
-・各ツイートは125文字以上135文字以内であること
+・各ツイートは130文字以上135文字以内であること
 ・参考例: #例1
 
 #速報ツイート
 ・最初のツイートであり、初心者にも理解しやすい表現を用いること
 ・見出しと記事のポイント3つを箇条書きで記載すること
+・インプレッション数を稼げる内容であること
 ・適切な絵文字を使用すること
 ・参考例: #速報ツイート例1
 
 #詳細解説ツイート
 ・速報ツイートに続くツイートで、話がまとまっていること
 ・各ツイートは記事の小見出しに対する詳細説明を初心者にもわかりやすく解説すること
-・小見出しは以下を参考にし、★印がついている小見出しは基本的に採用すること
-　・記事の背景、経緯　★
-　・記事にメインで登場する固有名詞の説明　★
-　・現状の課題　★
-　・重要なポイントとなる事実　★
-　・業界への影響　★
+・小見出しは以下を参考すること
+　・記事の背景、経緯
+　・現状の課題
+　・重要なポイントとなる事実
+　・具体例
+　・業界への影響
 　・主要登場人物の意見と反応
-　・一般ユーザーへの影響　★
+　・一般ユーザーへの影響
 　・今後の展望　
 　・今後の課題　
-・固有名詞はそれが何か初心者にも伝わるように修飾語をつけること
+・記事の出来事に対する具体例があれば、明記すること
 ・丁寧語を使用すること
 ・適切な絵文字を使用すること
 ・参考例: #詳細解説ツイート例1
@@ -39,7 +40,7 @@
 
 #用語解説ツイート
 ・まとめツイートの後のツイートであること
-・詳細解説ツイート内で使用された用語3つを説明すること
+・詳細解説ツイート内で使用された用語を3つ程度説明すること
 ・丁寧語を使用しないこと
 ・絵文字は使用しないこと
 ・参考例: #用語解説ツイート例1、#用語解説ツイート例2
@@ -124,21 +125,25 @@ https://decrypt.co/124598/nft-trader-accidentally-burns-129k-cryptopunk
 
 
 #記事URL
-https://decrypt.co/124887/at-least-37m-worth-of-y00ts-nfts-migrate-to-polygon-from-solana-in-one-day
+https://decrypt.co/124551/all-centralized-firms-are-alike-every-dao-decentralized-own-way
 
 #記事
-Solana profile picture (PFP) collection y00ts is the most prominent NFT project to date to migrate from one chain to another—and early data suggests the community of holders is supporting the move, with nearly 77% of the NFTs already migrated to Polygon since the late Monday launch.
-DeLabs, the Web3 startup behind both y00ts and the even more valuable DeGods project on Solana, announced in December that both collections would undergo the process of “bridging” to a new blockchain in the coming months—y00ts to Polygon and DeGods to Ethereum. Both moves were ultimately set for March.
-Late Monday night, DeLabs and associated tech startup Dust Labs launched the migration for y00ts, which is effectively a “burn and mint” process that sees holders burn (or destroy) the original Solana version of the NFT and receive a newly-minted Polygon version on the other end of the Wormhole-based bridge.
-In just over 24 hours, more than 75% of the total supply of y00ts NFTs (11,362 out of 15,000) had reportedly already been migrated to Polygon. As of this writing, less than two days after the migration tool launched, the tally stands at 11,506 migrated NFTs—or nearly 77% of the total collection.
-Based on the current 1.79 ETH ($3,230) floor price at the OpenSea marketplace—or the price of the cheapest listed NFT in the project—that represents nearly $37 million worth of NFTs that had moved chains in just over a day. And since some of the NFTs are valued higher than the floor, the actual tally is potentially much higher.
-
-DeLabs has incentivized holders to make the move swiftly. Anyone who migrated to Polygon within the first 24 hours would have network gas fees reimbursed by marketplace Magic Eden, plus they’d receive $5 in USDC stablecoin for listing the Polygon-based NFT on the same marketplace. Furthermore, they’d have fee-free y00ts trading for 30 days.
-On top of that, DeLabs said it would randomly airdrop a free Bitcoin-based DeGods NFT (or Ordinal) to one of the y00ts holders who migrated within the first 24 hours. On the flip side, NFT holders who don’t migrate to Polygon by April 3 will be hit by a 33.3% “Paper Hands Bridge Tax” creator royalty fee on secondary sales—10 times the standard rate set by DeLabs.
-DeLabs and Dust Labs plan to carry through with the other half of the plan this week, as DeGods will commence migration from Solana to the Ethereum blockchain on March 31st.
-In an exclusive conversation with Decrypt in February, DeLabs founder Rohun ”Frank” Vora and Dust Labs CEO Kevin Henrikson spoke at length about the team’s intentions to migrate both y00ts and DeGods away from the Solana blockchain, in favor of Polygon and Ethereum, respectively.
-Frank revealed that the lure of y00ts to Polygon didn’t originate from the $3 million grant paid by Polygon Labs, but rather the roster of corporate giants building on the network—including Reddit, Disney, Nike, and Starbucks, among others. 
-Envisioning easier accessibility to forge partnerships with Polygon-native brands, Frank revealed that the visual design of the y00ts avatars was created with the possibility for brands to “imprint their logos."
-In the case of DeGods, Henrikson said that “it wasn't about if, it was just a matter of when” the collection would move to Ethereum. “If we're gonna be the biggest, most popular NFT collection in the world, you're gonna have to be on Ethereum,” he said.
-“We're trying to take big swings, and we are trying to do it in a way that is going to make it exciting on the upside for people to participate,” Frank said in February, teasing the types of incentives that ultimately accompanied the y00ts migration.
-Teasing the DeGods move ahead, Frank tweeted today: “Friday gonna be iconic.”
+Just as DAOs find more traction in the industry, so too have a series of different tools to measure how decentralized autonomous organizations stack up alongside one another.
+Now the question emerges: What makes one DAO better than another?
+Sure, you can use the size of their treasury as a metric, but it’s also important that an autonomous organization is also decentralized, something one may crudely measure by determining the number of token holders.
+Then there’s voter apathy and the myriad ways one measures how active those token holders actually are.
+Even the number of token holders is a splotchy metric. Wallet addresses don’t equal the number of users one for one; oftentimes one user can have multiple wallets, each of which may be holding tokens for the same project.
+If one person, with 150 different wallets, holds 60% of a token’s supply across all those wallets, is a project really decentralized?
+It’s sort of like measuring the quality of various democracies around the world; it’s super messy and there’s clearly no one right answer.
+“Some DAOs maximize for decentralization, trustlessness and transparency. Others will focus on efficiency, with a focus on a sufficient decentralization to avoid capture or control,” Snapshot’s head of growth Nathan van der Heyden told Decrypt. “Worst than that, some start off as the first, and then become the second, and vice-versa.”
+To make clearer how difficult it is to rank DAOs, let's look at a few examples.
+According to OpenOrgs, Uniswap currently has a treasury of $2.5 billion. Much farther down the list is Decentraland, with a treasury of $88,666. If we flip over to DeepDAO, a convenient data dashboard for DAO data, Uniswap’s community has posted just 124 proposals. Conversely, Decentraland’s community has made roughly 2,000 different governance proposals.
+A high number of proposals certainly seems like evidence that a community is highly-active in stewarding the project’s direction. But if those proposals fall outside the scope of what a DAO can actually do to influence a project, then it doesn’t really matter.
+The Web2 equivalent would be something like spam mail; just because you’re firing off emails doesn’t mean you're actually being productive.
+Finally, beyond measuring how active or large a DAO is, one need also be mindful of whether the community’s votes are actually being effectuated.
+Last Summer, for example, TribeDAO took some flak on crypto Twitter after it announced it would be doing a revote on a very sensitive subject after its community had already voiced their wishes. This is a surefire route to kill voter enthusiasm.
+Arbitrum’s newly-formed DAO has thus implemented self-executing votes, which means that as soon as a change is voted on, it will be pushed directly on-chain.
+Ultimately, it’s quite the spectrum. DAOs come in all shapes and sizes, some optimizing for one metric while others optimize for another.
+And some projects may only care about one thing.
+“For some DAOs, the price of the token can be a good representation of how well they’re achieving their mission,” Snapshot’s van der Heyden told Decrypt.
+Decrypting DeFi is our DeFi newsletter, led by this essay. Subscribers to our emails get to read the essay before it goes on the site. Subscribe here. 
