@@ -4,13 +4,14 @@
 #条件
 ・3つのカテゴリーからなる連続ツイート: #速報ツイート、#詳細解説ツイート、#まとめツイート、#用語解説ツイート
 ・各ツイートは130文字以上135文字以内であること
+・丁寧語を使用すること
+・適切な絵文字を使用すること
 ・参考例: #例1
 
 #速報ツイート
 ・最初のツイートであり、初心者にも理解しやすい表現を用いること
 ・見出しと記事のポイント3つを箇条書きで記載すること
 ・インプレッション数を稼げる内容であること
-・適切な絵文字を使用すること
 ・参考例: #速報ツイート例1
 
 #詳細解説ツイート
@@ -27,22 +28,16 @@
 　・今後の展望　
 　・今後の課題　
 ・記事の出来事に対する具体例があれば、明記すること
-・丁寧語を使用すること
-・適切な絵文字を使用すること
 ・参考例: #詳細解説ツイート例1
 
 #まとめツイート
 ・詳細解説ツイートに続くツイートで、話がまとまっていること
 ・まとめツイートには元記事URLを記載すること
-・丁寧語を使用すること
-・適切な絵文字を使用すること
 ・参考例: #まとめツイート例1
 
 #用語解説ツイート
 ・まとめツイートの後のツイートであること
-・詳細解説ツイート内で使用された用語を3つ程度説明すること
-・丁寧語を使用しないこと
-・絵文字は使用しないこと
+・詳細解説ツイート内で明記した用語を3つ程度説明すること
 ・参考例: #用語解説ツイート例1、#用語解説ツイート例2
 
 
@@ -85,65 +80,66 @@ https://decrypt.co/124598/nft-trader-accidentally-burns-129k-cryptopunk
 1/
 【Web3速報】
 
-Web3技術でNFTトレーダー大損失😱
+DAOの評価方法📊
 
-・CryptoPunk NFTを77ETHで購入🖼️
-・バーンアドレスに誤送信で約$129,000消失💸
-・取引の複雑さと取り返しのつかない性質が問題🔥
+・資産規模だけでは不十分❌
+・トークンホルダー数も曖昧👥
+・投票数や実行される提案も重要🗳️
 
-詳細はこちら↓  #web3 #NFT #CryptoPunks
+詳細はこちら↓ #web3 #DAO #Decentralization
 
 2/
-NFTトレーダーの悲劇の背景🔎
+DAOの評価基準について🔍
 
-Brandon氏は、CryptoPunk NFTをERC-721トークンにラップしてNFTfi.comで利用しようとしましたが、誤ったアドレスを入力。結果、NFTがバーンアドレスに送信され、価値が消失しました。💔
+DAOの評価は資産規模やトークンホルダー数だけでなく、投票数や実行される提案なども重要です。例えばUniswapのトレジャリーは25億ドルですが、提案数は124件。対してDecentralandは資産88,666ドルで提案数2000件。📈
 
 3/
-デジタル資産取引の課題🚧
+トークンホルダー数の問題点🤔
 
-トランザクションの複雑さと取り返しのつかない性質がデジタル資産業界の問題です。金融仲介業者がいないため、Brandon氏は失ったCryptoPunkを取り戻す方法がありません。自己管理のリスクと魅力が表れています。🔐
+1人が複数のウォレットを持つ場合があるため、トークンホルダー数は必ずしも分散度を示すものではありません。1人が150のウォレットで60%のトークンを持っていたら、本当に分散化されていると言えるでしょうか。🎭
 
 4/
-まとめ🌟
+投票数や実行される提案の重要性✅
 
-デジタル資産業界では、トランザクションの複雑さと取り返しのつかない性質が課題です。Brandon氏の例から、自己管理のリスクと魅力が明らかになりました。皆さんも取引には十分注意しましょう！🙏
+DAOの評価において、投票数や実行される提案も大切です。しかし、投票内容がプロジェクトに影響を与えない場合、投票数はあまり意味を持ちません。コミュニティの意見が実際に効果を発揮しているかを見ることが重要です。👀
+
+5/
+まとめ📝
+
+DAOの評価は資産規模やトークンホルダー数だけでなく、投票数や実行される提案も重要です。各DAOは様々な評価基準を持っています。プロジェクトに適切な評価基準を見つけることが重要です。🌟
 
 元記事はこちら
-https://decrypt.co/124598/nft-trader-accidentally-burns-129k-cryptopunk
+https://decrypt.co/124551/all-centralized-firms-are-alike-every-dao-decentralized-own-way
 
 5/
 用語解説：バーンアドレス
 プライベートキーを持たないデジタルウォレット。仮想通貨やNFTを受け取ることはできるが、送金や取り出しは不可能。資産を送ると、事実上永遠に失われるため、注意が必要。通常、コインの総供給量を減らす目的で使用される。
 
 6/
-用語解説：ERC-721
-イーサリアムブロックチェーン上の非代替可能トークン(NFT)の標準規格。各NFTは一意のIDを持ち、所有権や転送が可能。アート、ゲームアセット、デジタルコレクティブルなどの独自性が求められる分野で活用されている。
+用語解説：DAO
+分散型自治組織。ブロックチェーン技術を用いて運営される組織で、メンバーが投票や提案を行うことで、組織の意思決定が行われます。中央集権的な管理者がいないため、透明性や効率性が向上します。🌐
 
 7/
-用語解説：NFTfi
-非代替可能トークン(NFT)を担保にローンを受けることができるデフィプラットフォーム。NFT所有者は、NFTを担保に資金を調達できます。また、投資家は、NFTを担保としたローンに資金を提供することで利益を得ることができます。
+用語解説：トレジャリー
+DAOの資金プールのことで、組織が保有する資金です。資金は、プロジェクト開発やマーケティング、報酬などの目的で使用されます。DAOのトレジャリーの規模は、その組織の健全性や活動性を示す指標となります。💰
 
+8/
+用語解説：トークンホルダー
+仮想通貨やデジタルトークンを保有する人のこと。トークンホルダーは、保有しているトークンに応じて、投票権を持ち、組織の意思決定に関与できます。トークンホルダーの数は、DAOの分散性を示す指標となります。🔑
 
 #記事URL
-https://decrypt.co/124551/all-centralized-firms-are-alike-every-dao-decentralized-own-way
+https://decrypt.co/125028/stopping-chatgpt-development-is-bad-idea-coinbase-ceo
 
 #記事
-Just as DAOs find more traction in the industry, so too have a series of different tools to measure how decentralized autonomous organizations stack up alongside one another.
-Now the question emerges: What makes one DAO better than another?
-Sure, you can use the size of their treasury as a metric, but it’s also important that an autonomous organization is also decentralized, something one may crudely measure by determining the number of token holders.
-Then there’s voter apathy and the myriad ways one measures how active those token holders actually are.
-Even the number of token holders is a splotchy metric. Wallet addresses don’t equal the number of users one for one; oftentimes one user can have multiple wallets, each of which may be holding tokens for the same project.
-If one person, with 150 different wallets, holds 60% of a token’s supply across all those wallets, is a project really decentralized?
-It’s sort of like measuring the quality of various democracies around the world; it’s super messy and there’s clearly no one right answer.
-“Some DAOs maximize for decentralization, trustlessness and transparency. Others will focus on efficiency, with a focus on a sufficient decentralization to avoid capture or control,” Snapshot’s head of growth Nathan van der Heyden told Decrypt. “Worst than that, some start off as the first, and then become the second, and vice-versa.”
-To make clearer how difficult it is to rank DAOs, let's look at a few examples.
-According to OpenOrgs, Uniswap currently has a treasury of $2.5 billion. Much farther down the list is Decentraland, with a treasury of $88,666. If we flip over to DeepDAO, a convenient data dashboard for DAO data, Uniswap’s community has posted just 124 proposals. Conversely, Decentraland’s community has made roughly 2,000 different governance proposals.
-A high number of proposals certainly seems like evidence that a community is highly-active in stewarding the project’s direction. But if those proposals fall outside the scope of what a DAO can actually do to influence a project, then it doesn’t really matter.
-The Web2 equivalent would be something like spam mail; just because you’re firing off emails doesn’t mean you're actually being productive.
-Finally, beyond measuring how active or large a DAO is, one need also be mindful of whether the community’s votes are actually being effectuated.
-Last Summer, for example, TribeDAO took some flak on crypto Twitter after it announced it would be doing a revote on a very sensitive subject after its community had already voiced their wishes. This is a surefire route to kill voter enthusiasm.
-Arbitrum’s newly-formed DAO has thus implemented self-executing votes, which means that as soon as a change is voted on, it will be pushed directly on-chain.
-Ultimately, it’s quite the spectrum. DAOs come in all shapes and sizes, some optimizing for one metric while others optimize for another.
-And some projects may only care about one thing.
-“For some DAOs, the price of the token can be a good representation of how well they’re achieving their mission,” Snapshot’s van der Heyden told Decrypt.
-Decrypting DeFi is our DeFi newsletter, led by this essay. Subscribers to our emails get to read the essay before it goes on the site. Subscribe here. 
+While some prominent voices in the tech industry are calling for a temporary pause in ChatGPT’s upgrades, the CEO of America’s largest crypto exchange Coinbase made it clear he opposes the move.
+“Count me among the people who think this is a bad idea,” Brian Armstrong wrote in a recent tweet. “There are no 'experts' to adjudicate this issue, and many disparate actors will never agree. Committees and bureaucracy won’t solve anything.”
+Armstrong’s comments came shortly after the publication of an open letter calling for a six-month moratorium on developing artificial intelligence (AI) more powerful than GPT-4, the latest iteration of ChatGPT, an AI chatbot created by OpenAI.
+The letter, signed by Twitter chief Elon Musk, Apple co-founder Steve Wozniak, American entrepreneur and politician Andrew Yang, among more than 1,700 other signees, claims that “AI systems with human-competitive intelligence can pose profound risks to society and humanity.”
+It also argues that the focus of AI research and development should be on making existing systems “more accurate, safe, interpretable, transparent, robust, aligned, trustworthy, and loyal.”
+The Coinbase chief, however, disagrees, saying that “as with many technologies, there are dangers, but we should keep marching forward with progress because the good outweighs the bad.”
+“Don’t ever let fear stop progress, and be wary of anyone trying to capture control in some central authority,” said Armstrong, whose company recently turned to AI in an attempt to understand how accurately ChatGPT could perform a token security review—a requirement for all tokens listed on the exchange.
+
+GPT (Generative Pre-trained Transformer) models, such as ChatGPT, are designed to generate human-like language and are used in a wide range of natural language processing (NLP) applications, including chatbots, language translation, and content creation.
+GPT-4 was released about two weeks ago, featuring enhanced capabilities in areas like advanced reasoning and complex instructions, with OpenAI also claiming that the tool boasts “more creativity.”
+While AI systems have been receiving increased attention in recent months, their growing popularity also sparked concerns, including ethical questions around the role of machines in human communication and decision-making, as well as the potential impact on employment and social inequality.
+There are also concerns that software developers may use ChatGPT to make deceptive performance claims, with the Center for AI and Digital Policy filing a formal complaint with the U.S. Federal Trade Commission on Thursday, in which it accused OpenAI of violating section five of the FTC Act that targets deceptive and unfair practices.
