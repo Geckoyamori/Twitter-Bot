@@ -3,151 +3,101 @@
 
 #条件
 ・3つのカテゴリーからなる連続ツイート: #速報ツイート、#詳細解説ツイート、#まとめツイート、#用語解説ツイート
-・各ツイートは130文字以上135文字以内であること
+・各ツイートは130文字程度であること
 ・丁寧語を使用すること
 ・参考例: #例1
 
 #速報ツイート
-・最初のツイートであり、初心者にも理解しやすい表現を用いること
 ・見出しと記事のポイント3つを箇条書きで記載すること
-・インプレッション数を稼げる内容であること
-・参考例: #速報ツイート例1
+・多くの人から注目を集めるような記載であること
+・初心者にもわかりやすい記載であること
 
 #詳細解説ツイート
-・速報ツイートに続くツイートで、話がまとまっていること
-・各ツイートは記事の小見出しに対する詳細説明を初心者にもわかりやすく解説すること
+・詳細解説ツイートは5ツイート以上7ツイート以下であること
+・各ツイートは記事の小見出しに対する内容を、具体例や数字を入れながら初心者にもわかりやすく解説すること
 ・小見出しは以下を参考すること
-　・背景、経緯
 　・現状の課題
-　・重要なポイントとなる事実
-　・具体例
+　・背景、経緯
+　・事実、データ
+　・引用、コメント
 　・業界への影響
-　・主要登場人物の意見と反応
 　・一般ユーザーへの影響
-　・今後の展望　
-　・今後の課題　
-・記事の出来事に対する具体例があれば、明記すること
-・詳細解説ツイートは4ツイート以上7ツイート以下であること
-・参考例: #詳細解説ツイート例1
+　・今後の展望 
 
 #まとめツイート
-・詳細解説ツイートに続くツイートで、話がまとまっていること
 ・まとめツイートには元記事URLを記載すること
-・参考例: #まとめツイート例1
 
 #用語解説ツイート
-・まとめツイートの後のツイートであること
 ・詳細解説ツイート内で明記した用語を3つ程度説明すること
-・参考例: #用語解説ツイート例1、#用語解説ツイート例2
-
-
-#速報ツイート例1
-1/
-【Web3速報】
-
-{見出し}{絵文字}
-
-✅{ポイント1}
-✅{ポイント2}
-✅{ポイント3}
-
-詳細はこちら↓  #web3 {関連ハッシュダグ}
-
-
-#詳細解説ツイート例1
-2/
-{小見出し}{絵文字}
-
-{詳細解説}{絵文字}
-
-#まとめツイート例1
-7/
-まとめ{絵文字}
-
-{まとめ}{絵文字}
-
-元記事はこちら
-https://decrypt.co/124598/nft-trader-accidentally-burns-129k-cryptopunk
-
-
-#用語解説ツイート例1
-8/
-用語解説：{用語}
-{用語解説}
-
 
 #例1
 1/
 【Web3速報】
 
-DAOの評価方法📊
+CentrifugeがAmazon出品者に融資を提供🌐
 
-✅資産規模だけでは不十分
-✅トークンホルダー数も曖昧
-✅投票数や実行される提案も重要
+✅DeFi活用で融資難解消
+✅資産を担保に流動性確保
+✅伝統的金融とDeFiの橋渡し
 
-詳細はこちら↓ #web3 #DAO #Decentralization
+詳細はこちら↓ #web3 #Centrifuge #DeFi
 
 2/
-DAOの評価基準について🔍
+現状の課題🤔
 
-DAOの評価は資産規模やトークンホルダー数だけでなく、投票数や実行される提案なども重要です。例えばUniswapのトレジャリーは25億ドルですが、提案数は124件。対してDecentralandは資産88,666ドルで提案数2000件。📈
+Amazon出品者は、拡大のための信用が得られず苦戦しています。資産から資本を引き出す選択肢は、高額であったり、大手企業に限定されていました。しかし、DeFiの登場でこれが変わります。🔄
 
 3/
-トークンホルダー数の問題点🤔
+Centrifugeとは？🌐
 
-1人が複数のウォレットを持つ場合があるため、トークンホルダー数は必ずしも分散度を示すものではありません。1人が150のウォレットで60%のトークンを持っていたら、本当に分散化されていると言えるでしょうか。🎭
+Centrifugeは、構造化クレジットのオンチェーンエコシステムで、小規模事業者が資産を担保にチェーン上で流動性を確保できるようにします。これにより、Amazon出品者は資金調達のアクセスが容易になります。🔓
 
 4/
-投票数や実行される提案の重要性✅
+データベース・ファイナンスとの連携🤝
 
-DAOの評価において、投票数や実行される提案も大切です。しかし、投票内容がプロジェクトに影響を与えない場合、投票数はあまり意味を持ちません。コミュニティの意見が実際に効果を発揮しているかを見ることが重要です。👀
+インベントリ技術プロバイダーのDatabased.Financeは、Centrifugeプロトコルを使用しています。これにより、Amazon出品者の資産をプールし、Centrifugeのマーケットプレイスに配置し、資金調達の担保として使用できます。💼
 
 5/
-まとめ📝
+業界への影響📈
 
-DAOの評価は資産規模やトークンホルダー数だけでなく、投票数や実行される提案も重要です。各DAOは様々な評価基準を持っています。プロジェクトに適切な評価基準を見つけることが重要です。🌟
-
-元記事はこちら
-https://decrypt.co/124551/all-centralized-firms-are-alike-every-dao-decentralized-own-way
+Centrifugeは、伝統的金融とDeFiの橋渡しを行い、両セクターの強みを活用しながら、数兆ドル規模のクレジット市場をDeFiにもたらします。これにより、DeFiの成長ポテンシャルは無限大になります。🚀
 
 6/
-用語解説：DAO
-分散型自治組織。ブロックチェーン技術を用いて運営される組織で、メンバーが投票や提案を行うことで、組織の意思決定が行われます。中央集権的な管理者がいないため、透明性や効率性が向上します。🌐
+まとめ📝
+
+Centrifugeは、Amazon出品者に融資を提供し、資産を担保にして流動性を確保することができます。これにより、伝統的金融とDeFiの橋渡しを果たし、DeFi市場に多大な影響を与えます。🌉
+
+元記事はこちら
+https://decrypt.co/122242/how-centrifuge-is-making-defi-impactful-with-real-world-assets
 
 7/
-用語解説：トレジャリー
-DAOの資金プールのことで、組織が保有する資金です。資金は、プロジェクト開発やマーケティング、報酬などの目的で使用されます。DAOのトレジャリーの規模は、その組織の健全性や活動性を示す指標となります。💰
+用語解説：DeFi
+分散型金融。ブロックチェーン技術を利用して、中央権力や仲介者を排除した金融サービスを提供します。DeFiは透明性が高く、効率的な取引が可能です。代表的なサービスには、貸借、保険、投資などがあります。🌐
 
 8/
-用語解説：トークンホルダー
-仮想通貨やデジタルトークンを保有する人のこと。トークンホルダーは、保有しているトークンに応じて、投票権を持ち、組織の意思決定に関与できます。トークンホルダーの数は、DAOの分散性を示す指標となります。🔑
+用語解説：セントリフュージ（Centrifuge）
+オンチェーンの構造化クレジットエコシステムで、小規模事業者が資産を担保にしてDeFiの流動性にアクセスする方法を提供します。セントリフュージは、伝統的な金融とDeFiの橋渡し役として機能し、両セクターの強みを活用します。🌉
+
+9/
+用語解説：Databased.Finance
+在庫技術プロバイダーで、セントリフュージプロトコルを利用しています。これにより、Amazonセラーの資産がプールされ、セントリフュージのマーケットプレイスに配置され、資金調達の担保として使用することができます。🛍️
 
 #記事URL
-https://decrypt.co/125044/how-doodles-2-plans-scale-genesis-box-millions-nft-avatars
+https://decrypt.co/124932/aptos-op-ed-web2-web3-gaming-advantages-global-ownership
 
 #記事
-Doodles 2, the larger-scale successor to the popular Ethereum NFT collection, takes its next step towards a broader launch today with the long-awaited opening of the Genesis Box: a tokenized bundle of digital wearable items first auctioned last June.
-Inside each Genesis Box are two pieces of digital apparel—which could include headwear, clothes, shoes, and accessories—along with a beta pass for the upcoming Doodles 2 platform. That will let holders customize full-body avatars featuring the same kind of pastel, cartoonish pop that made the original Doodles such eye-catching profile pictures (PFPs).
-Doodles 2 was announced alongside major ambitions in June 2022, as the team revealed plans to deliver a follow-up project spanning potentially millions of NFT avatars, instead of just 10,000 for the original collection. The project focuses on customizable avatars with tradeable digital clothes and multi-chain use cases, rather than pre-defined Ethereum PFPs.
-
-The first step launched in January, as Doodles owners could use a Dooplicator NFT (airdropped to holders) to create wearable items inspired by the traits of their existing PFP. But the Genesis Box is different, Doodles CEO Julian Holguin told Decrypt this week: it’s an entirely new set of wearables with fresh original art from co-founder Scott “Burnt Toast” Martin.
-“There's going to be some stuff that is completely not bound by the laws of physics,” Holguin said, “and just stuff that was cooked up in Scott’s and our other creators’ minds that is going to be completely out there.”
-In other words, while the “Dooplicated” wearables helped get Doodles owners familiar with the forthcoming concept of customizable NFT avatars—and get them trading wearables—the contents of the Genesis Box will broaden the look and feel of the Doodles IP. And Holguin teased that the closed beta launch of the Doodles 2 platform is coming “very, very soon.”
-“You’re gonna be able to build the Doodle of your dreams,” Holguin said.
-As announced in January, Doodles 2 is a cross-chain experience that bridges Ethereum NFTs like the Dooplicator and Genesis Box over to Flow, where the wearable NFTs are minted and can be traded. Holguin said Flow was chosen for its ease of use for non-Web3-savvy collectors, but also its ability to scale to potentially reach a broad audience.
-But how will Doodles 2 make the leap from an initially closed-beta platform to something that can reach the masses? It won’t happen immediately: Holguin said that the initial messaging around the scale of Doodles 2 may have been muddled, and that bringing custom-made Doodles avatars to millions of users is ultimately a longer-term aim.
-“We probably could have communicated that a little bit better, but we were never in 2023 going to launch millions of NFTs,” he said. “The goal was always to build up to that, and never outserve demand.”
-Generating that kind of demand and expanding the Doodles IP will be a multi-pronged effort. Holguin teased everything from brand partnerships to events and even a “very big flagship retail experience” coming this summer. The plan also includes social media content from animation studio Golden Wolf, which Doodles acquired earlier this year, and music drops in partnership with musician Pharrell Williams—Doodles’ Chief Brand Officer.
-It’s an ambitious plan for the startup, which raised $54 million last year at a $704 million valuation. But conveying those aspirations to NFT holders hasn’t always been easy.
-Some Doodles owners have accused leadership of insufficient communication and not being transparent enough about how they’re executing on those plans. The tension boiled over earlier this month when a Discord post from Doodles co-founder Jordan “poopie” Castro went viral.
-“We’re trying to go from a startup to a leading media franchise. We are no longer an ‘NFT project,’” Castro wrote. “The more time/money/resources we invest in following the latest ‘build in public’ trends that fuel speculation, the less we have to achieve our long-term vision.”
-Castro stood behind the message in a tweet shared the next day, but given the controversy and complaints it generated, he also said he would “take the L on this one.” Furthermore, Castro emphasized that Doodles would “continue to use NFT tech as the connective tissue between everything we do.”
-Holguin told Decrypt that he understood why there were questions around Castro’s message, but also believes that it was “taken out of context.” And broadly, he reinforced what he said was the intent of Castro’s message: that Doodles is rapidly expanding around its NFT-centric origins, but ultimately not away from them.
-“We've grown outside of a very, very small operation [and] we are now building a major business and a company, and scaling our infrastructure,” Holguin said. “No, it is not a ‘project’—we have several projects happening within our larger business and company right now.”
-The goal now, Holguin continued, is to retain the NFT-driven “collecting ecosystem” at the heart of Doodles, but build it out into an entertainment property that can take many shapes and forms.
-It’ll be a two-tiered model. Doodles 2 will focus on customization and user identity, letting users design their own Doodles avatar and bring it across platforms and experiences. The goal is to attract a broad audience—potentially with millions of avatars, as originally teased.
-
-And while the Doodles 2 platform may ultimately reach many more people, the O.G. Doodles collection will provide more access, features, and benefits to holders. For example, some of the planned projects may license NFT characters from the original collection’s holders, but Doodles 2 NFT avatar owners won't have the same option.
-As such, Holguin sees the original 10,000 NFTs being like the “black card” of the Doodles ecosystem, borrowing a concept from the credit card industry: an elite, exclusive access pass of sorts. From what he’s described, membership will indeed have benefits in that world. And if people fall in love with Doodles 2, Holguin thinks some will also want to own one of the originals.
-“We really believe that you're not going to want one or the other,” he said. “You're going to want both.”
+There’s no cheat code for creating games that people actually want to play, and marketing them on a global scale.
+Whether you’re a billion-dollar publishing house or an individual developer, success takes time, investment, technical expertise, testing, and a strong go-to-market strategy. 
+The global gaming industry is expected to be worth $321 billion by 2026, and many players are crowding into the market. But the most important factor in game development is the sense of community and shared experiences that gaming provides to an estimated 3.2 billion gamers (40% of the world's population). This community spirit has always been a fundamental aspect of gaming, regardless of financial figures. 
+Web3 gaming offers the best of both worlds: decentralized game-making for developers and companies, as well as both social and economic value for gamers looking to compete and connect with people around the world. 
+The early adopters of Web3 gaming are highly engaged in pre- and post-launch game development, user experience upgrades, and funding, which directly translates to game maker success. In-game transactions, including the ability to mint NFTs of gaming attributes and avatars, offer new revenue streams for companies and more personalized experiences for gamers.
+Gaming accounts for over half of all transactions on the blockchain. And the community is just getting started.
+The downsides of centralization, as experienced by Ethereum founder Vitalik Buterin while playing World of Warcraft, are eliminated with Web3 gaming. By integrating smart contacts and turning the game’s virtual items into NFTs, the power is given back to players who can now own their gaming attributes. Even if a game gets shut down, the player’s gaming attributes look can live on—as long as there is a community to support the game doing so.
+Web3 gaming offers everyone the benefits of decentralization, meaning there is no threat or risk of a leader or corporation emerging to limit experiences. Gamers from all over the world can access Web3 games and own core elements of their experiences. Game makers can then transition from sole arbiter to access broker, enabling gamers to monetize their game experiences.
+Web3 gaming has the potential to be a natural bridge between Web2 and Web3. It’s fundamentally built to allow gamers to move seamlessly between game play, socializing, and commerce, in both physical and virtual worlds. And the possibilities from a finance, social, and gameplay standpoint are endless, with 164 million gamers aged 13 to 64 in the United States alone primed for new experiences. 
+In order for Web3 gaming standards to emerge and become the norm, the gaming world needs access to a performant blockchain and developer resources that accelerate progress even further across the ecosystem.
+Web3 gaming allows gamers to invest in owning NFTs tied to their individual game play. They can create DAOs, which are like fan clubs with direct input on game production and direction. A specific game’s community members can vote on important issues that relate to everything about the player experience and have confidence that the results will translate to better, more accessible gameplay.
+On a platform level, building gaming on the blockchain offers fundamental benefits: verification, security, connectivity, and creativity for everyone involved. It also helps prevent fraud, which is one of the most common challenges in modern-day gaming platforms.
+Blockchain tech ensures that all transactions (like NFT sales) and interactions between different parties are verified and legitimate. Companies can also use blockchain tech to guarantee that no individual or party has been paid twice for the same service or goods rendered, since each transaction is recorded.
+But we do need to solidify asset portability as the glue that connects and enhances the entire gaming experience—and what separates Web2 and Web3 gaming.
+The ability to own and transfer pieces of a gaming experience helps get players invested, and builds  communities and economies. It also offers individual developers and Web2 gaming publishers like EA or Nintendo creative ways to build games on chains, attract funding, and market to those 3.2 billion gamers (and counting) worldwide.
