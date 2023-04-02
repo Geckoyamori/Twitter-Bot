@@ -54,7 +54,7 @@
 
 #例1
 1/
-【速報】
+【Web3報】
 
 CentrifugeがAmazon出品者に融資を提供🌐
 
@@ -105,15 +105,22 @@ https://decrypt.co/122242/how-centrifuge-is-making-defi-impactful-with-real-worl
 在庫技術プロバイダーで、セントリフュージプロトコルを利用しています。これにより、Amazonセラーの資産がプールされ、セントリフュージのマーケットプレイスに配置され、資金調達の担保として使用することができます。🛍️
 
 #記事URL
-https://www.coindesk.com/web3/2023/03/30/argentinian-airline-issues-every-ticket-as-an-nft/
+https://www.coindesk.com/learn/what-are-dynamic-nfts-understanding-the-evolving-nft/
 
 #記事
-Argentinian low-cost airline Flybondi is integrating Web3 into its ticketing process by issuing e-tickets as non-fungible tokens (NFT).
-The new integration announced Thursday is called Ticket 3.0 and is an expansion of its existing relationship with NFT ticketing company TravelX, which launched in September 2022. The NFT ticketing technology, built on the Algorand blockchain, allows passengers to change their name, transfer or sell their "NFTickets" independently.
-Flybondi says the NFT ticket "offers a more flexible travel experience that allows passengers to even buy in advance without having to define their travel plans or who the travelers will be." In return, the airline is able to reduce customer service costs and increase its revenue from trading fees.
-TravelX chief blockchain officer Facundo Martin Diaz told CoinDesk in September that the company does not charge a fee when users initially purchase a ticket but it does receive a 2% transaction fee when trades are made on the secondary market. Airlines also get a 2% cut, he said.
-Passengers can purchase travel tickets through the Flybondi website using fiat currency, and TravelX issues a synchronized NFT ticket on top of the regular e-ticket. Travelers can then create a Ticket 3.0 account to manage and store their NFTs through Flybondi. Ticket-related rules and conditions are integrated into the NFT's smart contract by the airline.
-"With this launch, we seek to generate a positive impact in the aviation industry through innovation and an application of blockchain technology," said Flybondi CEO Mauricio Sana in a press release. "Changing the rules of the game is never easy, but we know that it is our objective to evolve and offer our passengers a new stage of the freedom to fly."
-TravelX partnered with Spanish airline Air Europa in April 2022 to launch a series of NFT tickets linked to special perks and events. Latin American crypto exchange Lemon integrated TravelX onto its platform in October 2022, allowing users to buy and sell airline tickets.
-TravelX has also made its infrastructure open so that other exchanges or marketplaces can use the TravelX API. According to the company, over 60 airlines worldwide are also exploring the use cases of its NFT tickets.
-See Also: Latin American Travel Agency Despegar Begins Accepting Crypto Payments
+As non-fungible tokens (NFTs) have grown in popularity, so have their use cases and functions. Discussions about a new class of NFTs known as dynamic NFTs are gaining momentum as digital assets evolve. While many NFTs are static, dynamic NFTs can change over time.
+An NFT is a unique digital token that is stored on the blockchain and represents ownership of an item, real or digital. This unique crypto asset is differentiated from others through various data points, including a unique contract address and token ID. This means that no two NFTs are identical and they aren't interchangeable with one another.
+A contract address refers to where the smart contract for the NFT is stored, in most cases for NFTs that's on the Ethereum blockchain. A smart contract can automatically execute actions when certain conditions are met without the need for an intermediary. A token ID is a unique numerical identifier for each NFT.
+Some NFTs are static, meaning that once a token is minted to a blockchain, the data associated with that token cannot be changed. For example, if you mint a rare, one-of-a-kind artwork as an NFT, that digital image and the data associated with it will remain the same, no matter how much time passes or how many times it changes hands.
+On the other hand, a dynamic NFT is a type of NFT that changes based on external conditions. Also known as a “living NFT,” the token has characteristics that can be triggered to change due to an event or achievement. For example, if you are a gamer, your NFT avatar can be programmed to change its appearance depending on your advancement in the game.
+For clarity, GIFs and videos can also be considered static NFTs, as long as the specific JPEG image or MP4 video linked to the NFT doesn't change once it's minted. Dynamic NFTs only refer an NFT if it is able to be altered after mint. The alteration occurs in the NFT’s metadata and can also reflect in the appearance of the token.
+An NFT’s metadata provides information about the content of the NFT, like its name, description, traits and transaction history. Typically, an NFT's metadata is stored off-chain and is specified as a JSON file.
+Once an NFT is minted, its token ID and contract address cannot be changed. And although the metadata of an NFT can be modified after it has been minted, doing so can be a difficult and time-consuming procedure that requires knowledge of code. As a result, many existing NFTs are static and possess permanently immutable traits.
+Although this static NFT model has found wide usage in NFT art projects, play-to-earn games and digital collectibles, its utility can be limiting for projects that need to regularly update aspects of their metadata, such as real-world assets, blockchain-based fantasy sports leagues and progression-based video games. This is where the concept of dynamic NFTs comes in.
+Dynamic NFTs function by storing data in a format that can be edited. While static NFTs are usually created using the ERC-721 token standard, dynamic NFTs use the ERC-1155 standard. That type of token standard is sometimes referred to as “semi-fungible” because it can be changed if required.
+Changes to a dynamic NFT can be triggered by a smart contract. Typically, an oracle will send external data to the smart contract, which triggers a change in the NFT's metadata. The characteristics of that NFT, like its appearance, will then be updated.
+One of the early examples of a dynamic NFT is a one-of-one artwork by Mike Winkelmann, aka Beeple, titled "Crossroad." It was created before the 2020 U.S. presidential election and was meant to change its appearance depending on the result. After Joe Biden became president, the image changed to depict former President Donald Trump laying in a heap after losing the election.
+The popular NFT-based game Cryptokitties is another example of a dynamic NFT. In it, players can buy, sell or breed digital cats. Each cat is represented by a dynamic NFT, giving owners the ability to update some of the data associated with the token, such as the cat’s genes, personality and appearance.
+The digital collectibles of rising National Basketball Association star LaMelo Ball are dynamic NFTs. The NFTs incorporate on-chain sports data and change depending on the outcome of a game. For instance, if a player scores more than 1,000 points in a season, some NFT avatars in the collection could transform to reflect that. Notably, the Gold Evolve NFT came with a promise that if Ball won Rookie of the Year for the 2021 NBA season, the dNFT would evolve into a new image. The NBA star won the award and the NFT evolved.
+In December 2021, Regenerative Resources, a company trying to transform degraded land into productive seawater landscapes, announced that it was launching five short films as dynamic NFTs. Although each short film will initially have a single frame, more frames will be released every time the token is bought or resold, until the holder can view the entire film.
+Read More: The Different Types of NFTs: A Simple Guide
