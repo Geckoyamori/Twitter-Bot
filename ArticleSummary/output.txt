@@ -15,7 +15,7 @@
 #詳細解説ツイート
 ・詳細解説ツイートは5ツイート以上7ツイート以下であること
 ・各ツイートは記事の小見出しに対する内容を、具体例や数字を入れながら初心者にもわかりやすく解説すること
-・小見出しは以下を参考すること
+・小見出しは以下を参考に作成すること
 　・現状の課題
 　・背景、経緯
 　・事実、データ
@@ -58,7 +58,7 @@ Centrifugeは、構造化クレジットのオンチェーンエコシステム�
 インベントリ技術プロバイダーのDatabased.Financeは、Centrifugeプロトコルを使用しています。これにより、Amazon出品者の資産をプールし、Centrifugeのマーケットプレイスに配置し、資金調達の担保として使用できます。💼
 
 5/
-業界への影響📈
+web3業界への影響📈
 
 Centrifugeは、伝統的金融とDeFiの橋渡しを行い、両セクターの強みを活用しながら、数兆ドル規模のクレジット市場をDeFiにもたらします。これにより、DeFiの成長ポテンシャルは無限大になります。🚀
 
@@ -83,21 +83,34 @@ https://decrypt.co/122242/how-centrifuge-is-making-defi-impactful-with-real-worl
 在庫技術プロバイダーで、セントリフュージプロトコルを利用しています。これにより、Amazonセラーの資産がプールされ、セントリフュージのマーケットプレイスに配置され、資金調達の担保として使用することができます。🛍️
 
 #記事URL
-https://decrypt.co/124932/aptos-op-ed-web2-web3-gaming-advantages-global-ownership
+https://www.coindesk.com/web3/2023/03/31/metabirkins-artist-mason-rothschilds-latest-nft-project-ignites-market/
 
 #記事
-There’s no cheat code for creating games that people actually want to play, and marketing them on a global scale.
-Whether you’re a billion-dollar publishing house or an individual developer, success takes time, investment, technical expertise, testing, and a strong go-to-market strategy. 
-The global gaming industry is expected to be worth $321 billion by 2026, and many players are crowding into the market. But the most important factor in game development is the sense of community and shared experiences that gaming provides to an estimated 3.2 billion gamers (40% of the world's population). This community spirit has always been a fundamental aspect of gaming, regardless of financial figures. 
-Web3 gaming offers the best of both worlds: decentralized game-making for developers and companies, as well as both social and economic value for gamers looking to compete and connect with people around the world. 
-The early adopters of Web3 gaming are highly engaged in pre- and post-launch game development, user experience upgrades, and funding, which directly translates to game maker success. In-game transactions, including the ability to mint NFTs of gaming attributes and avatars, offer new revenue streams for companies and more personalized experiences for gamers.
-Gaming accounts for over half of all transactions on the blockchain. And the community is just getting started.
-The downsides of centralization, as experienced by Ethereum founder Vitalik Buterin while playing World of Warcraft, are eliminated with Web3 gaming. By integrating smart contacts and turning the game’s virtual items into NFTs, the power is given back to players who can now own their gaming attributes. Even if a game gets shut down, the player’s gaming attributes look can live on—as long as there is a community to support the game doing so.
-Web3 gaming offers everyone the benefits of decentralization, meaning there is no threat or risk of a leader or corporation emerging to limit experiences. Gamers from all over the world can access Web3 games and own core elements of their experiences. Game makers can then transition from sole arbiter to access broker, enabling gamers to monetize their game experiences.
-Web3 gaming has the potential to be a natural bridge between Web2 and Web3. It’s fundamentally built to allow gamers to move seamlessly between game play, socializing, and commerce, in both physical and virtual worlds. And the possibilities from a finance, social, and gameplay standpoint are endless, with 164 million gamers aged 13 to 64 in the United States alone primed for new experiences. 
-In order for Web3 gaming standards to emerge and become the norm, the gaming world needs access to a performant blockchain and developer resources that accelerate progress even further across the ecosystem.
-Web3 gaming allows gamers to invest in owning NFTs tied to their individual game play. They can create DAOs, which are like fan clubs with direct input on game production and direction. A specific game’s community members can vote on important issues that relate to everything about the player experience and have confidence that the results will translate to better, more accessible gameplay.
-On a platform level, building gaming on the blockchain offers fundamental benefits: verification, security, connectivity, and creativity for everyone involved. It also helps prevent fraud, which is one of the most common challenges in modern-day gaming platforms.
-Blockchain tech ensures that all transactions (like NFT sales) and interactions between different parties are verified and legitimate. Companies can also use blockchain tech to guarantee that no individual or party has been paid twice for the same service or goods rendered, since each transaction is recorded.
-But we do need to solidify asset portability as the glue that connects and enhances the entire gaming experience—and what separates Web2 and Web3 gaming.
-The ability to own and transfer pieces of a gaming experience helps get players invested, and builds  communities and economies. It also offers individual developers and Web2 gaming publishers like EA or Nintendo creative ways to build games on chains, attract funding, and market to those 3.2 billion gamers (and counting) worldwide.
+Non-fungible token (NFT) artist Mason Rothschild has been keeping busy since his provocative MetaBirkins project pierced the cultural mainstream and grabbed headlines after Hermès filed a trademark lawsuit against the project.
+The NFT collection of 100 furry digital handbags named after Hermès' signature Birkin handbag was released in December 2021 as a commentary on the fashion industry's embrace of alternative textiles. This raised the ire of the French luxury house, resulting in a years-long legal battle that challenged the limits of art and trademark law.
+The 28-year-old artist told CoinDesk that the lawsuit represented a battle not just over Web3 technologies, but also over the future of art.
+"Just because it's an NFT doesn't mean it's not art," he said. "An NFT is kind of the vessel and the artwork that it's attached to is the art."
+The jury ultimately ruled in Hermés' favor last month, though he and his legal team have appealed the decision and have pledged to continue the fight for artistic expression.
+Dusting himself off, the Los Angeles native has continued to create art, curate fashion and advise brands in Web3. He continues to split his time between Terminal 27, a retail concept located in Los Angeles and Tokyo that he co-founded in 2020, and Gasoline, his creative studio and full-service Web3 branding agency he launched in 2021.
+Gasoline's latest NFT collection, titled "This Artwork Is Subject to Change," launched as an open edition on Manifold last month. Priced at an affordable 0.008 ETH (about $1.35 at the time), 10,987 dynamic NFTs were minted. Interest on secondary markets quickly picked up, and the project has a trading volume of 931 ETH (just under $1.7 million) so far. At the time of publishing, the collection's floor is at 0.04 ETH (about $72).
+Rothschild has been stoking the proverbial fire since he created his artistic moniker over a decade ago. As a kid, he was "deep into conspiracy theories," with both "Mason" and "Rothschild" referencing fringe conspiracies about secret societies and powerful people. "I've literally been going by it since I was 11 or 12," he said, noting that he is in the process of legally changing his name to Mason Aston.
+Over the past few years, Rothschild has expanded his creative endeavors and integrated NFTs into his artwork, often blending elements of design, realism and social commentary. "Everything I do is kind of ironic or taking a jab at something," he said.
+In January 2021, he founded Gasoline as a "disruptive creative studio" focused on Web3. His first NFT collection was titled "Do Not Sit," and featured chairs that could not be used for sitting. His next NFT, the predecessor to the MetaBirkins project titled "Baby Birkin," features a handbag with a fetus inside of it. It sold at auction for $47,000.
+"I knew that this was something that was going to be massive," he said of his move to create NFT art.
+Gasoline has since expanded its offerings and has partnered with major brands on special projects. Last week, it announced a partnership with Ledger to produce a gold hardware wallet – the new "gold standard" for crypto, it claims.
+According to Gasoline's recently released whitepaper, Gasoline plans to expand its ecosystem through partnerships with global brands, focusing on driving artistic value that allows Web2 brands to authentically enter Web3. This includes plans for NFT projects, memberships, physical activations and rewards.
+"In 2023, we are betting AGAINST 10k cartoon animal collections and betting ON art, access and onboarding some household names into the space with more than just a one and done drop," it reads, a dig at PFP collections like Bored Ape Yacht Club. According to the whitepaper, Gasoline already has over a dozen collaborations scheduled for this year and received "close to seven figures in outside funding" to start its business.
+"We do not have to rely on a community treasury, bolstered by royalties, to deliver," it reads. "We believe Gasoline will create the new standard for what it means to be a part of an "'NFT project.'"
+Rothschild said this approach to NFT creation allows him to exert creative freedom over his projects and build out the Gasoline ecosystem while working with major brands to expand their intellectual property (IP).
+"When I see projects today, I see them kind of get a little stagnant when their only strength is their own IP," he explained. "What our solution is ... we'll do about four projects a year, and [collectors] get access to all those. They'll all be in our voice. They'll all be in our style and level of quality."
+This Artwork Is Subject to Change (TAISTC) follows the same satirical, tongue-in-cheek structure of Rothschild's previous Gasoline projects. As its name suggests, the artwork attached to the NFT metadata is "subject to change" at any point. Rothschild told CoinDesk that the title also encompasses the ethos of what Gasoline is trying to do.
+"It plays into the whole ideology of what Gasoline is, which is constantly moving and evolving," he explained. "We wanted to have a project that constantly spoke to whatever the meta was ... we change that maybe weekly or bi-weekly, depending on what's going on in the space."
+Taking inspiration from Jack Butcher's Checks VV and Opepen NFT projects, TAISTC deploys several interesting mechanics to differentiate its project from others in a way that feels fresh.
+For one, the project plans to collaborate with several NFT artists to design its rotating artwork. Collectors have the option to "freeze" their NFT's metadata on an artwork that they like, resulting in a collection with evolving rarity that will reveal itself over time. However, users will not know which artist Gasoline has commissioned until the next artwork shift is made, shifting the focus to the art rather than the artist.
+"We wanted people to really judge how they felt about something truly based on the art and not based on who's behind it," Rothschild said. "You always hear people say 'oh, we like the art' – yeah, right. You like it because people are hyping it up and it's pumping and the price is up."
+The project will also feature a burn mechanism that incentivizes holders to "burn" their NFTs to collect smaller and rarer monetary increments. This gamifies the collecting experience and will impact the project's overall supply over time.
+The idea of "burning" assets has been visually represented by the project in its promotional materials showing wads of money being lit on fire. On a more "meta" level, Rothschild said the project serves as an introspective on the evolution of money and the human desire to chase it. "If everyone is a millionaire, does it still feel special? It creates a race to adapt to the rapidly evolving value of the currency," the project states.
+"I wanted to speak to how cryptocurrencies are kind of displacing traditional fiat and how it's the future," Rothschild added.
+In the future, Rothschild said TAISTC will continue to evolve as holders play with the collection's supply and artwork. He also teased that the collection will be used as a "marketing opportunity" to promote other projects that Gasoline is working on. "Let's say we collaborate with a fashion company. We'll use the open edition and change [the art] to promote what's going on with that," he said. "It's a massive tool for us."
+In Rothschild's view, the NFT world needs to continue to evolve to stay relevant and onboard new users into Web3. "I think the best thing for Web3 is really to encompass access," he said. "Rarely does humanity move backward when it comes to technology."
+Edited by Toby Leah Bochan.

@@ -16,7 +16,7 @@ with open("ArticleSummary/prompt.txt", "r", encoding="utf-8") as file:
     prompt = file.read()
 
 # URLのレスポンスを取得
-url = "https://decrypt.co/124932/aptos-op-ed-web2-web3-gaming-advantages-global-ownership"
+url = "https://www.coindesk.com/web3/2023/03/31/metabirkins-artist-mason-rothschilds-latest-nft-project-ignites-market/"
 parsed_url = urlparse(url)
 domain = parsed_url.netloc
 response = requests.get(url)
@@ -42,4 +42,16 @@ if domain == "decrypt.co":
                     file.write(paragraph.get_text() + "\n")
 
 elif domain == "www.coindesk.com":
-    print('a')
+    text_content = soup.find("div", class_="at-content-wrapper")
+
+    # 新規テキストファイルを作成して出力する
+    with open("ArticleSummary/output.txt", "w", encoding="utf-8") as file:
+        file.write(prompt + "\n")
+        file.write(url + "\n\n")
+        file.write("#記事" + "\n")
+
+        # 本文の段落要素（<p>タグ）を取得し、テキストを表示
+        for paragraph in text_content.find_all("p"):
+            if paragraph.text == "DISCLOSURE":
+                break
+            file.write(paragraph.get_text() + "\n")
