@@ -23,9 +23,9 @@
 詳細はこちら↓ #web3 {関連ハッシュタグ}
 
 #詳細解説ツイート
-・詳細解説ツイートは5ツイート以上7ツイート以下であること
-・各ツイートは記事の小見出しに対する内容を、具体例や数字を入れながら初心者にもわかりやすく解説すること
-・小見出しは以下を参考に作成すること
+・詳細解説ツイートは6ツイート程度で構成されること
+・各ツイートは記事の詳細を、具体例や数字を入れながら初心者にもわかりやすく解説すること
+・以下のグルーピングを意識して、適切な小見出しを記載すること
 　・現状の課題
 　・背景、経緯
 　・事実、データ
@@ -65,7 +65,7 @@ CentrifugeがAmazon出品者に融資を提供🌐
 詳細はこちら↓ #web3 #Centrifuge #DeFi
 
 2/
-現状の課題🤔
+現状直面している課題🤔
 
 Amazon出品者は、拡大のための信用が得られず苦戦しています。資産から資本を引き出す選択肢は、高額であったり、大手企業に限定されていました。しかし、DeFiの登場でこれが変わります。🔄
 
@@ -105,19 +105,15 @@ https://decrypt.co/122242/how-centrifuge-is-making-defi-impactful-with-real-worl
 在庫技術プロバイダーで、セントリフュージプロトコルを利用しています。これにより、Amazonセラーの資産がプールされ、セントリフュージのマーケットプレイスに配置され、資金調達の担保として使用することができます。🛍️
 
 #記事URL
-https://decrypt.co/125063/policymakers-didnt-regulate-crypto-because-they-thought-would-die-barclays-head-of-digital-policy
+https://www.coindesk.com/web3/2023/03/30/argentinian-airline-issues-every-ticket-as-an-nft/
 
 #記事
-The latest uptick in regulatory action around the globe may be due to policymakers finally waking up to cryptocurrencies.
-On a recent panel at the Citi Digital Money Symposium in London, which touched on crypto regulations in the United Kingdom, Europe, and the United States, Barclays head of digital policy Nicole Sandler argued that the apparent late arrival from policymakers was actually intentional.
-"I think one thing certain policymakers have said is that they left this market to do what it wanted to do because they thought it would essentially die," she said. "And it hasn't died, it's grown, it's grown, it's grown."
-Drawing from her experience in 2016, when she discussed a legal framework around digital assets with the European Commission, Sandler argued that the space may have been nascent then, but it certainly isn't now—and again repeated that its nascence wasn't why regulators stayed away until recently.
-"It wasn't that it was nascent and they couldn't regulate it, it was a choice to see where the market went," she said. "And now they know that they have to regulate it. But the problem is regulation takes a long time from start to finish."
-The regulatory crackdown has been especially fierce in the United States.
-Following the collapse of Sam Bankman-Fried's FTX empire in November, the Securities and Exchange Commission (SEC) has taken swift and decisive action. After charging Bankman-Fried, the SEC also charged the crypto exchange's co-lead engineer Nishad Singh with defrauding investors.
-Still, insisted Sandler, the FTX collapse had "nothing to do with the technology."
-And though regulations would've certainly helped, the exchange's downfall revolved primarily around a "bad actor," she said, adding that the firm's terms and conditions "didn't say you can take your client funds and use it for something other than what they've said."
-The Commission has also gone after other crypto firms for different reasons. On March 22, the SEC issued Coinbase with a Wells Notice, informing the California-based exchange that it would be pursuing enforcement action against the company. The notice alleged that Coinbase's staking products constituted unregistered securities.
-A source close to the matter told Decrypt that Coinbase leadership is frustrated that the SEC allowed American investors to participate in crypto for years before "suddenly deciding to pull the rug out."
-The crypto community has been up in arms over the matter, taking aim at the SEC chair in particular.
-"People don't like Gary Gensler, who's the chair of the SEC, in the crypto space," said fellow panelist Ijeoma Okoli. "But if people think back to about ten years ago, in the aftermath of the financial crisis, when the same man was the chair of the CFTC, the vast majority of the derivatives sector–the global derivatives sector–hated him. So it's not that he's picking on crypto, this is just his M.O."
+Argentinian low-cost airline Flybondi is integrating Web3 into its ticketing process by issuing e-tickets as non-fungible tokens (NFT).
+The new integration announced Thursday is called Ticket 3.0 and is an expansion of its existing relationship with NFT ticketing company TravelX, which launched in September 2022. The NFT ticketing technology, built on the Algorand blockchain, allows passengers to change their name, transfer or sell their "NFTickets" independently.
+Flybondi says the NFT ticket "offers a more flexible travel experience that allows passengers to even buy in advance without having to define their travel plans or who the travelers will be." In return, the airline is able to reduce customer service costs and increase its revenue from trading fees.
+TravelX chief blockchain officer Facundo Martin Diaz told CoinDesk in September that the company does not charge a fee when users initially purchase a ticket but it does receive a 2% transaction fee when trades are made on the secondary market. Airlines also get a 2% cut, he said.
+Passengers can purchase travel tickets through the Flybondi website using fiat currency, and TravelX issues a synchronized NFT ticket on top of the regular e-ticket. Travelers can then create a Ticket 3.0 account to manage and store their NFTs through Flybondi. Ticket-related rules and conditions are integrated into the NFT's smart contract by the airline.
+"With this launch, we seek to generate a positive impact in the aviation industry through innovation and an application of blockchain technology," said Flybondi CEO Mauricio Sana in a press release. "Changing the rules of the game is never easy, but we know that it is our objective to evolve and offer our passengers a new stage of the freedom to fly."
+TravelX partnered with Spanish airline Air Europa in April 2022 to launch a series of NFT tickets linked to special perks and events. Latin American crypto exchange Lemon integrated TravelX onto its platform in October 2022, allowing users to buy and sell airline tickets.
+TravelX has also made its infrastructure open so that other exchanges or marketplaces can use the TravelX API. According to the company, over 60 airlines worldwide are also exploring the use cases of its NFT tickets.
+See Also: Latin American Travel Agency Despegar Begins Accepting Crypto Payments
