@@ -4,7 +4,7 @@
 #条件
 ・4つのカテゴリーからなる連続ツイート: #速報ツイート、#詳細解説ツイート、#まとめツイート、#用語解説ツイート
 ・各ツイートは130文字程度であること
-・丁寧語は使用しないこと
+・常体で記載すること
 ・具体例: #例1
 
 #速報ツイート
@@ -12,6 +12,7 @@
 ・多くのインプレッション数を稼げる見出しであること
 ・後続の詳細解説ツイートもチェックしたくなる内容であること
 ・初心者にもわかりやすい記載であること
+・ツイートにインパクトを与えるキーワードや絵文字を使うこと
 ・構成例
 【web3報】
 
@@ -68,77 +69,57 @@ CentrifugeがAmazon出品者に融資を提供❗️
 2/
 現状直面している課題🤔
 
-Amazon出品者は、拡大のための信用が得られず苦戦しています。資産から資本を引き出す選択肢は、高額であったり、大手企業に限定されていました。しかし、DeFiの登場でこれが変わります。🔄
+Amazon出品者は、拡大のための信用が得られず苦戦している。資産から資本を引き出す選択肢は、高額であったり、大手企業に限定されていた。しかし、DeFiの登場でこれが変わる。🔄
 
 3/
 Centrifugeとは？🌐
 
-Centrifugeは、構造化クレジットのオンチェーンエコシステムで、小規模事業者が資産を担保にチェーン上で流動性を確保できるようにします。これにより、Amazon出品者は資金調達のアクセスが容易になります。🔓
+Centrifugeは、構造化クレジットのオンチェーンエコシステムで、小規模事業者が資産を担保にチェーン上で流動性を確保できるようになる。これにより、Amazon出品者は資金調達のアクセスが容易になる。🔓
 
 4/
 データベース・ファイナンスとの連携🤝
 
-インベントリ技術プロバイダーのDatabased.Financeは、Centrifugeプロトコルを使用しています。これにより、Amazon出品者の資産をプールし、Centrifugeのマーケットプレイスに配置し、資金調達の担保として使用できます。💼
+インベントリ技術プロバイダーのDatabased.Financeは、Centrifugeプロトコルを使用している。これにより、Amazon出品者の資産をプールし、Centrifugeのマーケットプレイスに配置し、資金調達の担保として使用できる。💼
 
 5/
 web3業界への影響📈
 
-Centrifugeは、伝統的金融とDeFiの橋渡しを行い、両セクターの強みを活用しながら、数兆ドル規模のクレジット市場をDeFiにもたらします。これにより、DeFiの成長ポテンシャルは無限大になります。🚀
+Centrifugeは、伝統的金融とDeFiの橋渡しを行い、両セクターの強みを活用しながら、数兆ドル規模のクレジット市場をDeFiにもたらす。これにより、DeFiの成長ポテンシャルは無限大になる。🚀
 
 6/
 まとめ📝
 
-Centrifugeは、Amazon出品者に融資を提供し、資産を担保にして流動性を確保することができます。これにより、伝統的金融とDeFiの橋渡しを果たし、DeFi市場に多大な影響を与えます。🌉
+Centrifugeは、Amazon出品者に融資を提供し、資産を担保にして流動性を確保することができる。これにより、伝統的金融とDeFiの橋渡しを果たし、DeFi市場に多大な影響を与える。🌉
 
 元記事はこちら
 https://decrypt.co/122242/how-centrifuge-is-making-defi-impactful-with-real-world-assets
 
 7/
 用語解説：DeFi
-分散型金融。ブロックチェーン技術を利用して、中央権力や仲介者を排除した金融サービスを提供します。DeFiは透明性が高く、効率的な取引が可能です。代表的なサービスには、貸借、保険、投資などがあります。🌐
+分散型金融。ブロックチェーン技術を利用して、中央権力や仲介者を排除した金融サービスを提供。DeFiは透明性が高く、効率的な取引が可能。代表的なサービスには、貸借、保険、投資などがある。🌐
 
 8/
 用語解説：セントリフュージ（Centrifuge）
-オンチェーンの構造化クレジットエコシステムで、小規模事業者が資産を担保にしてDeFiの流動性にアクセスする方法を提供します。セントリフュージは、伝統的な金融とDeFiの橋渡し役として機能し、両セクターの強みを活用します。🌉
+オンチェーンの構造化クレジットエコシステムで、小規模事業者が資産を担保にしてDeFiの流動性にアクセスする方法を提供する。セントリフュージは、伝統的な金融とDeFiの橋渡し役として機能し、両セクターの強みを活用する。🌉
 
 9/
 用語解説：Databased.Finance
-在庫技術プロバイダーで、セントリフュージプロトコルを利用しています。これにより、Amazonセラーの資産がプールされ、セントリフュージのマーケットプレイスに配置され、資金調達の担保として使用することができます。🛍️
+在庫技術プロバイダーで、セントリフュージプロトコルを利用。これにより、Amazonセラーの資産がプールされ、セントリフュージのマーケットプレイスに配置され、資金調達の担保として使用することができる。🛍️
 
 #記事URL
-https://www.coindesk.com/tech/2023/02/17/bitcoin-nfts-challenge-the-blockchains-largest-use-case-money/
+https://decrypt.co/125262/circle-vp-uk-banks-actively-unbanking-people-not-just-companies-over-crypto
 
 #記事
-There has been a lot of noise and questions recently about Ordinal Inscriptions.
-So what are they? The simple answer is that ordinals are non-fungible tokens (NFT) you can mint on the Bitcoin blockchain.
-But Ordinal Inscriptions aren’t your usual NFTs. Unlike Ethereum NFTs, which depend on off-chain metadata that can be modified, Ordinal Inscriptions enable all data to be inscribed directly on-chain.
-You're reading Crypto for Advisors, a weekly look at digital assets and the future of finance for financial advisors. Subscribe here to receive the mailing every Thursday.
-It was this flaw in Ethereum NFTs that caused software engineer Casey Rodarmor to deem Ethereum NFTs incomplete and launch the Bitcoin Ordinals protocol.
-Those in favor of change believe Ordinal Inscriptions could cause an important shift in the bitcoin community and improve the technology behind NFTs.
-Yet, many questions I’ve been receiving from clients boil down to, “is this good or bad for bitcoin?” and “will this disrupt the usability of it.”
-Despite the potential benefits of Ordinal Inscriptions, there has been a lot of debate over whether they are a “good use” of block space.
-The challenge has been that as more Ordinals are being inscribed, the cost of bitcoin transactions has risen. That’s because Ordinals introduce additional, non-financial data on the Bitcoin blockchain that bog down on-chain confirmation times. This includes images, audio clips, even games.
-Those not in favor of Ordinals see this as an impediment to the ability of Bitcoin to scale and reach full global adoption.
-Inscribing non-fungible characteristics to satoshis, the individual increments of bitcoin, may challenge bitcoin’s use case as first and foremost money.
-Ordinals challenge the fungibility of satoshis in the Bitcoin network. All satoshis should be equal or they begin to lose a significant trait of money.
-But Ordinals can alter the value of these units of money. Take rare collectible coins as an example: While a penny may have a face value of exactly 1 cent, its design and mint year could make it worth a dollar or more in the eyes of some beholders.
-This debate over whether these individual units must be deemed equal is unfolding before our eyes, and I think it needs to be understood.
-Bitcoin is money, and that’s the largest and most important use case, impacting the most people in the world. Which is why I believe that Ordinals and other use cases both known today and yet to emerge will remain niche.
-I view this as an exciting period – but one that, as many fads do, will fade. I don’t see Ordinals being the desire for many to use Bitcoin’s block space.
-Bitcoin is money. In my opinion, any changes to the protocol should be slow and methodological.
-Read more: To Understand Bitcoin, We Need to Understand What Money Is
-One of the biggest yet baseless claims I often hear is how Bitcoin doesn’t evolve or change.
-Now, are there kernels of truth in that? Sure. You don’t “move fast and break things” when working to build the next global monetary system; we’ll leave that for VC start-up tech firms.
-However, there have been some upgrades that demonstrate the need and merit of change. The Lightning Network, for example, could accelerate bitcoin commerce and everyday use.
-Inscriptions are yet another example of attempts to change the blockchain. Inscriptions became eligible in bitcoin blocks with the most recent upgrade to the protocol called Taproot.
-Read more: Taproot, Bitcoin’s Long-Anticipated Upgrade, Has Activated
-Ultimately, the beautiful thing about Bitcoin is that it’s permissionless and the ultimate free market for uses. And this is what fosters change.
-At the same time, free and open markets will dictate if Ordinals are demanded and are valuable. The permissionless nature of Bitcoin allows for this competition to play out.
-Ordinals may stick around if individuals want to see them become a mainstay in Bitcoin. Bitcoin is governed by consensus rule – which is why running a node is essential and why the "blocksize war" was foundational for Bitcoin.
-Ordinals are not an attack on Bitcoin but could begin conversations again with a hard or soft fork. I view a hard fork as Ordinals' most painful and trying outcome.
-As an advisor with clients with bitcoin and questions on Ordinals, the most significant takeaways revolve around what makes bitcoin unique. Most, if not all, other cryptocurrencies are decentralized in name only – Bitcoin is not.
-But due to the decentralized nature of Bitcoin, developers are free to modify Bitcoin’s current rule set. If demand is there and the modifications result in splits in bitcoin holders and the community, investors will have a choice over what to do with their money.
-If we see a hard fork, any new tokens or projects would accrue to clients and they could then decide if they want to hold, sell or buy.
-While it might seem scary, I doubt Ordinals will create that much friction and division within Bitcoin. Even if it did, one could be passive and simply let the market forces play out. Being an open, permissionless protocol allows for moments like this to occur, and that’s healthy in the long term.
-Regardless of opinions of “right” or “wrong,” seeing the conversations and debates happening about Ordinals is good. It allows bitcoin to test its resilience and robustness. We will continue having these conversations as Bitcoin proceeds on its path toward global adoption.
-Learn more about Consensus 2023, CoinDesk’s longest-running and most influential event that brings together all sides of crypto, blockchain and Web3. Head to consensus.coindesk.com to register and buy your pass now.
+Actions taken by UK banks to restrict customer access to crypto are “not in the spirit of consumer protection,” Circle’s European policy lead said at an event last week.
+Amid concerns that crypto firms are facing difficulties accessing banking services in the UK, Teana Baker-Taylor said individual customers were also being affected.
+“One thing I think that is pretty clear is the UK banks are now actively unbanking people, not just companies,” Baker-Taylor said during a panel discussion at Citi's Digital Asset Symposium. “It's not about just refusing to give bank accounts to companies,” she said, claiming that banks were unbanking individuals because of their decision to buy “crypto assets that are perfectly legal.”
+“Then your bank turns you off,” she said. “That, to me, feels very, very wrong, and not in the spirit of consumer protection. It feels very patriarchal.”
+While there is no evidence of a UK bank shuttering a customer’s account altogether on account of crypto usage, there are several recorded instances of users facing temporary freezes on their accounts when trying to buy crypto.
+Banks have publicly detailed their policies, which include limits on how much can be transferred at once, and even blanket bans on transfers into crypto.
+In February, Alison Rose, the chief executive of one of Britain’s so-called ‘big four’ banks, NatWest Group, told politicians the bank had taken a “hard line” on cryptocurrencies.
+“We're blocking retail and wealth customers from transferring into crypto assets because of the volatility and the stability of the platform,” she said at a meeting of Parliament’s Treasury Select Committee.
+Santander, a Spanish bank with a major presence in the UK, last year limited transactions to crypto exchanges to just £1,000 ($1,234), while Nationwide put in a £5,000 limit on card payments to crypto assets last month. NatWest soon followed suit, introducing restrictions of £1,000 a day and £5,000 over a 30-day period.
+The situation prompted Su Carpenter, director of Operations for industry body CryptoUK (where Baker-Taylor serves as a non-executive director), to write to the Treasury in March, warning that without action the banking industry’s cautious approach could undermine the UK government’s crypto ambitions.
+Banks generally cite the risk of fraud in their policies limiting how customers can use crypto, but Baker-Taylor argued that “all of those things happen equally in the traditional finance ecosystem.”
+Circle has had its own troubles with the world of traditional finance. Its USDC stablecoin briefly broke its peg to the U.S. dollar last month after it revealed that $3.3 billion of its reserves were stuck at the failed Silicon Valley Bank.
+“It’s somewhat ironic that there has been a lot of talk of protecting the banking system from crypto, here we are in a situation where we are trying to protect a digital dollar from the banking system,” Circle’s CEO Jeremy Allaire said in a CNBC appearance in the days following the crisis.
