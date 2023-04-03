@@ -1,18 +1,19 @@
 #命令
-あなたは、Web3技術に関する情報をTwitterで発信している専門家です。初心者にも理解しやすい連続ツイートを作成し、記事の内容をわかりやすく伝えてください。
+あなたは、Web3技術に関する情報をTwitterで発信している専門家です。初心者向けの連続ツイートを作成し、情報をわかりやすく伝えてください。
 
 #条件
 ・4つのカテゴリーからなる連続ツイート: #速報ツイート、#詳細解説ツイート、#まとめツイート、#用語解説ツイート
 ・各ツイートは130文字程度であること
-・丁寧語を使用すること
+・丁寧語は使用しないこと
 ・具体例: #例1
 
 #速報ツイート
 ・見出しと記事のポイント3つを箇条書きで記載すること
-・多くの人から注目を集めるような記載であること
+・多くのインプレッション数を稼げる見出しであること
+・後続の詳細解説ツイートもチェックしたくなる内容であること
 ・初心者にもわかりやすい記載であること
 ・構成例
-【速報】
+【web3報】
 
 {見出し}{絵文字}
 
@@ -56,7 +57,7 @@
 1/
 【Web3報】
 
-CentrifugeがAmazon出品者に融資を提供🌐
+CentrifugeがAmazon出品者に融資を提供❗️
 
 ✅DeFi活用で融資難解消
 ✅資産を担保に流動性確保
@@ -105,22 +106,39 @@ https://decrypt.co/122242/how-centrifuge-is-making-defi-impactful-with-real-worl
 在庫技術プロバイダーで、セントリフュージプロトコルを利用しています。これにより、Amazonセラーの資産がプールされ、セントリフュージのマーケットプレイスに配置され、資金調達の担保として使用することができます。🛍️
 
 #記事URL
-https://www.coindesk.com/learn/what-are-dynamic-nfts-understanding-the-evolving-nft/
+https://www.coindesk.com/tech/2023/02/17/bitcoin-nfts-challenge-the-blockchains-largest-use-case-money/
 
 #記事
-As non-fungible tokens (NFTs) have grown in popularity, so have their use cases and functions. Discussions about a new class of NFTs known as dynamic NFTs are gaining momentum as digital assets evolve. While many NFTs are static, dynamic NFTs can change over time.
-An NFT is a unique digital token that is stored on the blockchain and represents ownership of an item, real or digital. This unique crypto asset is differentiated from others through various data points, including a unique contract address and token ID. This means that no two NFTs are identical and they aren't interchangeable with one another.
-A contract address refers to where the smart contract for the NFT is stored, in most cases for NFTs that's on the Ethereum blockchain. A smart contract can automatically execute actions when certain conditions are met without the need for an intermediary. A token ID is a unique numerical identifier for each NFT.
-Some NFTs are static, meaning that once a token is minted to a blockchain, the data associated with that token cannot be changed. For example, if you mint a rare, one-of-a-kind artwork as an NFT, that digital image and the data associated with it will remain the same, no matter how much time passes or how many times it changes hands.
-On the other hand, a dynamic NFT is a type of NFT that changes based on external conditions. Also known as a “living NFT,” the token has characteristics that can be triggered to change due to an event or achievement. For example, if you are a gamer, your NFT avatar can be programmed to change its appearance depending on your advancement in the game.
-For clarity, GIFs and videos can also be considered static NFTs, as long as the specific JPEG image or MP4 video linked to the NFT doesn't change once it's minted. Dynamic NFTs only refer an NFT if it is able to be altered after mint. The alteration occurs in the NFT’s metadata and can also reflect in the appearance of the token.
-An NFT’s metadata provides information about the content of the NFT, like its name, description, traits and transaction history. Typically, an NFT's metadata is stored off-chain and is specified as a JSON file.
-Once an NFT is minted, its token ID and contract address cannot be changed. And although the metadata of an NFT can be modified after it has been minted, doing so can be a difficult and time-consuming procedure that requires knowledge of code. As a result, many existing NFTs are static and possess permanently immutable traits.
-Although this static NFT model has found wide usage in NFT art projects, play-to-earn games and digital collectibles, its utility can be limiting for projects that need to regularly update aspects of their metadata, such as real-world assets, blockchain-based fantasy sports leagues and progression-based video games. This is where the concept of dynamic NFTs comes in.
-Dynamic NFTs function by storing data in a format that can be edited. While static NFTs are usually created using the ERC-721 token standard, dynamic NFTs use the ERC-1155 standard. That type of token standard is sometimes referred to as “semi-fungible” because it can be changed if required.
-Changes to a dynamic NFT can be triggered by a smart contract. Typically, an oracle will send external data to the smart contract, which triggers a change in the NFT's metadata. The characteristics of that NFT, like its appearance, will then be updated.
-One of the early examples of a dynamic NFT is a one-of-one artwork by Mike Winkelmann, aka Beeple, titled "Crossroad." It was created before the 2020 U.S. presidential election and was meant to change its appearance depending on the result. After Joe Biden became president, the image changed to depict former President Donald Trump laying in a heap after losing the election.
-The popular NFT-based game Cryptokitties is another example of a dynamic NFT. In it, players can buy, sell or breed digital cats. Each cat is represented by a dynamic NFT, giving owners the ability to update some of the data associated with the token, such as the cat’s genes, personality and appearance.
-The digital collectibles of rising National Basketball Association star LaMelo Ball are dynamic NFTs. The NFTs incorporate on-chain sports data and change depending on the outcome of a game. For instance, if a player scores more than 1,000 points in a season, some NFT avatars in the collection could transform to reflect that. Notably, the Gold Evolve NFT came with a promise that if Ball won Rookie of the Year for the 2021 NBA season, the dNFT would evolve into a new image. The NBA star won the award and the NFT evolved.
-In December 2021, Regenerative Resources, a company trying to transform degraded land into productive seawater landscapes, announced that it was launching five short films as dynamic NFTs. Although each short film will initially have a single frame, more frames will be released every time the token is bought or resold, until the holder can view the entire film.
-Read More: The Different Types of NFTs: A Simple Guide
+There has been a lot of noise and questions recently about Ordinal Inscriptions.
+So what are they? The simple answer is that ordinals are non-fungible tokens (NFT) you can mint on the Bitcoin blockchain.
+But Ordinal Inscriptions aren’t your usual NFTs. Unlike Ethereum NFTs, which depend on off-chain metadata that can be modified, Ordinal Inscriptions enable all data to be inscribed directly on-chain.
+You're reading Crypto for Advisors, a weekly look at digital assets and the future of finance for financial advisors. Subscribe here to receive the mailing every Thursday.
+It was this flaw in Ethereum NFTs that caused software engineer Casey Rodarmor to deem Ethereum NFTs incomplete and launch the Bitcoin Ordinals protocol.
+Those in favor of change believe Ordinal Inscriptions could cause an important shift in the bitcoin community and improve the technology behind NFTs.
+Yet, many questions I’ve been receiving from clients boil down to, “is this good or bad for bitcoin?” and “will this disrupt the usability of it.”
+Despite the potential benefits of Ordinal Inscriptions, there has been a lot of debate over whether they are a “good use” of block space.
+The challenge has been that as more Ordinals are being inscribed, the cost of bitcoin transactions has risen. That’s because Ordinals introduce additional, non-financial data on the Bitcoin blockchain that bog down on-chain confirmation times. This includes images, audio clips, even games.
+Those not in favor of Ordinals see this as an impediment to the ability of Bitcoin to scale and reach full global adoption.
+Inscribing non-fungible characteristics to satoshis, the individual increments of bitcoin, may challenge bitcoin’s use case as first and foremost money.
+Ordinals challenge the fungibility of satoshis in the Bitcoin network. All satoshis should be equal or they begin to lose a significant trait of money.
+But Ordinals can alter the value of these units of money. Take rare collectible coins as an example: While a penny may have a face value of exactly 1 cent, its design and mint year could make it worth a dollar or more in the eyes of some beholders.
+This debate over whether these individual units must be deemed equal is unfolding before our eyes, and I think it needs to be understood.
+Bitcoin is money, and that’s the largest and most important use case, impacting the most people in the world. Which is why I believe that Ordinals and other use cases both known today and yet to emerge will remain niche.
+I view this as an exciting period – but one that, as many fads do, will fade. I don’t see Ordinals being the desire for many to use Bitcoin’s block space.
+Bitcoin is money. In my opinion, any changes to the protocol should be slow and methodological.
+Read more: To Understand Bitcoin, We Need to Understand What Money Is
+One of the biggest yet baseless claims I often hear is how Bitcoin doesn’t evolve or change.
+Now, are there kernels of truth in that? Sure. You don’t “move fast and break things” when working to build the next global monetary system; we’ll leave that for VC start-up tech firms.
+However, there have been some upgrades that demonstrate the need and merit of change. The Lightning Network, for example, could accelerate bitcoin commerce and everyday use.
+Inscriptions are yet another example of attempts to change the blockchain. Inscriptions became eligible in bitcoin blocks with the most recent upgrade to the protocol called Taproot.
+Read more: Taproot, Bitcoin’s Long-Anticipated Upgrade, Has Activated
+Ultimately, the beautiful thing about Bitcoin is that it’s permissionless and the ultimate free market for uses. And this is what fosters change.
+At the same time, free and open markets will dictate if Ordinals are demanded and are valuable. The permissionless nature of Bitcoin allows for this competition to play out.
+Ordinals may stick around if individuals want to see them become a mainstay in Bitcoin. Bitcoin is governed by consensus rule – which is why running a node is essential and why the "blocksize war" was foundational for Bitcoin.
+Ordinals are not an attack on Bitcoin but could begin conversations again with a hard or soft fork. I view a hard fork as Ordinals' most painful and trying outcome.
+As an advisor with clients with bitcoin and questions on Ordinals, the most significant takeaways revolve around what makes bitcoin unique. Most, if not all, other cryptocurrencies are decentralized in name only – Bitcoin is not.
+But due to the decentralized nature of Bitcoin, developers are free to modify Bitcoin’s current rule set. If demand is there and the modifications result in splits in bitcoin holders and the community, investors will have a choice over what to do with their money.
+If we see a hard fork, any new tokens or projects would accrue to clients and they could then decide if they want to hold, sell or buy.
+While it might seem scary, I doubt Ordinals will create that much friction and division within Bitcoin. Even if it did, one could be passive and simply let the market forces play out. Being an open, permissionless protocol allows for moments like this to occur, and that’s healthy in the long term.
+Regardless of opinions of “right” or “wrong,” seeing the conversations and debates happening about Ordinals is good. It allows bitcoin to test its resilience and robustness. We will continue having these conversations as Bitcoin proceeds on its path toward global adoption.
+Learn more about Consensus 2023, CoinDesk’s longest-running and most influential event that brings together all sides of crypto, blockchain and Web3. Head to consensus.coindesk.com to register and buy your pass now.
