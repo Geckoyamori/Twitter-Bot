@@ -10,7 +10,7 @@
 #速報ツイート
 ・見出しと記事のポイント3つを箇条書きで記載すること
 ・多くのインプレッション数を稼げる見出しであること
-・後続の詳細解説ツイートもチェックしたくなる内容であること
+・詳細が気になるような煽り文句を明記すること
 ・初心者にもわかりやすい記載であること
 ・ツイートにインパクトを与えるキーワードや絵文字を使うこと
 ・構成例
@@ -21,6 +21,8 @@
 ✅{ポイント1}
 ✅{ポイント2}
 ✅{ポイント3}
+
+{煽り文句}
 
 詳細はこちら↓ #web3 {関連ハッシュタグ}
 
@@ -58,11 +60,13 @@
 1/
 【Web3報】
 
-CentrifugeがAmazon出品者に融資を提供❗️
+CentrifugeがAmazon出品者に融資を提供🌐
 
 ✅DeFi活用で融資難解消
 ✅資産を担保に流動性確保
 ✅伝統的金融とDeFiの橋渡し
+
+これであなたも気軽に融資を受けれるように⁉️
 
 詳細はこちら↓ #web3 #Centrifuge #DeFi
 
@@ -107,19 +111,19 @@ https://decrypt.co/122242/how-centrifuge-is-making-defi-impactful-with-real-worl
 在庫技術プロバイダーで、セントリフュージプロトコルを利用。これにより、Amazonセラーの資産がプールされ、セントリフュージのマーケットプレイスに配置され、資金調達の担保として使用することができる。🛍️
 
 #記事URL
-https://decrypt.co/125262/circle-vp-uk-banks-actively-unbanking-people-not-just-companies-over-crypto
+https://decrypt.co/125360/yuga-labs-joins-gucci-to-announce-otherside-themed-jewelry
 
 #記事
-Actions taken by UK banks to restrict customer access to crypto are “not in the spirit of consumer protection,” Circle’s European policy lead said at an event last week.
-Amid concerns that crypto firms are facing difficulties accessing banking services in the UK, Teana Baker-Taylor said individual customers were also being affected.
-“One thing I think that is pretty clear is the UK banks are now actively unbanking people, not just companies,” Baker-Taylor said during a panel discussion at Citi's Digital Asset Symposium. “It's not about just refusing to give bank accounts to companies,” she said, claiming that banks were unbanking individuals because of their decision to buy “crypto assets that are perfectly legal.”
-“Then your bank turns you off,” she said. “That, to me, feels very, very wrong, and not in the spirit of consumer protection. It feels very patriarchal.”
-While there is no evidence of a UK bank shuttering a customer’s account altogether on account of crypto usage, there are several recorded instances of users facing temporary freezes on their accounts when trying to buy crypto.
-Banks have publicly detailed their policies, which include limits on how much can be transferred at once, and even blanket bans on transfers into crypto.
-In February, Alison Rose, the chief executive of one of Britain’s so-called ‘big four’ banks, NatWest Group, told politicians the bank had taken a “hard line” on cryptocurrencies.
-“We're blocking retail and wealth customers from transferring into crypto assets because of the volatility and the stability of the platform,” she said at a meeting of Parliament’s Treasury Select Committee.
-Santander, a Spanish bank with a major presence in the UK, last year limited transactions to crypto exchanges to just £1,000 ($1,234), while Nationwide put in a £5,000 limit on card payments to crypto assets last month. NatWest soon followed suit, introducing restrictions of £1,000 a day and £5,000 over a 30-day period.
-The situation prompted Su Carpenter, director of Operations for industry body CryptoUK (where Baker-Taylor serves as a non-executive director), to write to the Treasury in March, warning that without action the banking industry’s cautious approach could undermine the UK government’s crypto ambitions.
-Banks generally cite the risk of fraud in their policies limiting how customers can use crypto, but Baker-Taylor argued that “all of those things happen equally in the traditional finance ecosystem.”
-Circle has had its own troubles with the world of traditional finance. Its USDC stablecoin briefly broke its peg to the U.S. dollar last month after it revealed that $3.3 billion of its reserves were stuck at the failed Silicon Valley Bank.
-“It’s somewhat ironic that there has been a lot of talk of protecting the banking system from crypto, here we are in a situation where we are trying to protect a digital dollar from the banking system,” Circle’s CEO Jeremy Allaire said in a CNBC appearance in the days following the crisis.
+Luxury fashion house Gucci recently teased a metaverse-oriented partnership with Yuga Labs, the $4 billion company behind the dominant NFT collection Bored Ape Yacht Club, that would blur “the boundaries between the physical and digital.”
+That collaboration is now starting to take shape. 
+On Monday, Yuga announced Otherside: Relics by Gucci, a limited-edition series of physical Gucci products and associated NFTs tied into the lore of Otherside, Yuga’s long-awaited ape-themed metaverse game. 
+Otherside, which remains largely under wraps, centers around a mysterious species of aliens called “Koda,” and their as-of-yet murky relationship to the titular apes of the BAYC. The game has been previewed by owners of Otherdeeds—NFTs that grant rights to virtual land plots within the game’s virtual landscape—but has yet to fully launch. 
+The first "Relic" to be released via Yuga’s collaboration with Gucci will be the KodaPendant, an NFT representing both a physical piece of jewelry and a nonfungible token that will unlock numerous perks within the Otherside metaverse. Exactly 3,333 KodaPendants will be made available for sale beginning on Thursday, April 6, at 6:00 pm EST. 
+They can only be bought with Apecoin, Yuga’s native cryptocurrency, and will each cost 450 APE, or $1,917 at writing. 
+KodaPendants will only be available to current holders of Koda or Vessel NFTs. 10,000 Koda NFTs were quietly embedded among the 100,000 Otherdeeds released last year, and every Otherdeed holder is entitled to claim a Vessel NFT, which was revealed by Yuga during its reveal last week of Legends of the Mara, an upcoming 2D standalone gaming experience that expands the mythology of the Otherside universe.
+In effect, the rule means that KodaPendants will be available for purchase by any Otherdeed holder.
+The Koda and Vessel NFTs affiliated with KodaPendants will each be visually updated to sport a virtual version of the jewelry. The KodaPendant will also unlock unique cosmetic options for Otherside avatars, which will launch this summer, according to Yuga. 
+For no additional cost, holders of KodaPendants will also be able to claim a real, physical piece of jewelry from Gucci later this year. Each KodaPendant NFT will come with one physical KodaPendant, a silver chain adorned with a silver pendant in the shape of a Koda alien, inscribed with “GG,” a shorthand among gamers for “good game.” Each physical KodaPendant will be also inscribed with a unique edition number on the back. 
+The physical pendants will only be made available via mail to residents of select countries, including the United States, Canada, most European nations, and a select number of Gulf states: Kuwait, Qatar, Saudi Arabia, and the UAE. Notably, no residents of any African, Central American, or South American nation are eligible to receive a pendant, nor are residents of any Asian countries—with the single exception of Japan. 
+Monday’s announcement is not the first time a high-profile NFT company has collaborated with a luxury fashion giant to create rarified physical goods tied to digital ownership.
+Last year, CryptoPunks, which is also owned by Yuga, collaborated with luxury jeweler Tiffany’s to create a limited edition NFT-backed series of 250 gold, ruby, and diamond necklaces, each modeled in the likeness of purchasers’ unique CryptoPunk NFT avatars. Those necklaces, which each cost $51,000, sold out instantly, and skyrocketed Cryptopunk trading volume in the process. 
