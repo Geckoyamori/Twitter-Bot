@@ -16,7 +16,7 @@ with open("ArticleSummary/prompt.txt", "r", encoding="utf-8") as file:
     prompt = file.read()
 
 # URLのレスポンスを取得
-url = "https://decrypt.co/125360/yuga-labs-joins-gucci-to-announce-otherside-themed-jewelry"
+url = "https://www.coindesk.com/web3/2023/04/05/carbon-backed-nft-collection-ecosapiens-raises-35m/"
 parsed_url = urlparse(url)
 domain = parsed_url.netloc
 response = requests.get(url)
@@ -31,7 +31,7 @@ if domain == "decrypt.co":
     with open("ArticleSummary/output.txt", "w", encoding="utf-8") as file:
         file.write(prompt + "\n")
         file.write(url + "\n\n")
-        file.write("#記事" + "\n")
+        file.write("[記事]" + "\n")
 
         if text_content is None:
             file.write("Error: Could not find text content.")
@@ -48,7 +48,7 @@ elif domain == "www.coindesk.com":
     with open("ArticleSummary/output.txt", "w", encoding="utf-8") as file:
         file.write(prompt + "\n")
         file.write(url + "\n\n")
-        file.write("#記事" + "\n")
+        file.write("[記事]" + "\n")
 
         # 本文の段落要素（<p>タグ）を取得し、テキストを表示
         for paragraph in text_content.find_all("p"):
