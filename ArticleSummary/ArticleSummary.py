@@ -16,7 +16,7 @@ with open("ArticleSummary/prompt.txt", "r", encoding="utf-8") as file:
     prompt = file.read()
 
 # URLのレスポンスを取得
-url = "https://www.coindesk.com/web3/2023/04/05/carbon-backed-nft-collection-ecosapiens-raises-35m/"
+url = "https://www.coindesk.com/web3/2023/04/04/ralph-lauren-miami-store-to-accept-crypto-payments/"
 parsed_url = urlparse(url)
 domain = parsed_url.netloc
 response = requests.get(url)

@@ -34,7 +34,7 @@
 [詳細解説ツイート]
 ・詳細解説ツイートは5ツイート程度で構成されること
 ・各ツイートは記事の詳細を、具体例や数字を入れながら初心者にもわかりやすく解説すること
-・以下のグルーピングを意識して、記事の内容に応じた適切な小見出しを作成すること
+・以下小見出しの案から、記事の内容に応じて適切に修正した小見出しを作成すること
 　・現状の課題
 　・背景、経緯
 　・事実、データ
@@ -75,7 +75,6 @@
   ②①の質問に対する回答を詳細解説ツイートに取り入れる
 
 [例1]
-1/
 【Web3報】
 
 CentrifugeがAmazon出品者に融資を提供🌐
@@ -87,55 +86,59 @@ CentrifugeがAmazon出品者に融資を提供🌐
 これであなたも気軽に融資を受けれるように⁉️
 
 詳細はこちら↓ #web3 #Centrifuge #DeFi
+--------------------------------------------
 
-2/
 現状直面している課題🤔
 
 Amazon出品者は、拡大のための信用が得られず苦戦している。資産から資本を引き出す選択肢は、高額であったり、大手企業に限定されていた。しかし、DeFiの登場でこれが変わる。🔄
+--------------------------------------------
 
-3/
 Centrifugeとは？🌐
 
 Centrifugeは、構造化クレジットのオンチェーンエコシステムで、小規模事業者が資産を担保にチェーン上で流動性を確保できるようになる。これにより、Amazon出品者は資金調達のアクセスが容易になる。🔓
+--------------------------------------------
 
-4/
 データベース・ファイナンスとの連携🤝
 
 インベントリ技術プロバイダーのDatabased.Financeは、Centrifugeプロトコルを使用している。これにより、Amazon出品者の資産をプールし、Centrifugeのマーケットプレイスに配置し、資金調達の担保として使用できる。💼
+--------------------------------------------
 
-5/
 web3業界への影響📈
 
 Centrifugeは、伝統的金融とDeFiの橋渡しを行い、両セクターの強みを活用しながら、数兆ドル規模のクレジット市場をDeFiにもたらす。これにより、DeFiの成長ポテンシャルは無限大になる。🚀
+--------------------------------------------
 
-6/
 まとめ📝
 
 Centrifugeは、Amazon出品者に融資を提供し、資産を担保にして流動性を確保することができる。これにより、伝統的金融とDeFiの橋渡しを果たし、DeFi市場に多大な影響を与える。🌉
 
 元記事はこちら
 https://decrypt.co/122242/how-centrifuge-is-making-defi-impactful-with-real-world-assets
+--------------------------------------------
 
-7/
 用語解説：DeFi
+
 分散型金融。ブロックチェーン技術を利用して、中央権力や仲介者を排除した金融サービスを提供。DeFiは透明性が高く、効率的な取引が可能。代表的なサービスには、貸借、保険、投資などがある。🌐
+--------------------------------------------
 
-8/
 用語解説：セントリフュージ（Centrifuge）
-オンチェーンの構造化クレジットエコシステムで、小規模事業者が資産を担保にしてDeFiの流動性にアクセスする方法を提供する。セントリフュージは、伝統的な金融とDeFiの橋渡し役として機能し、両セクターの強みを活用する。🌉
 
-9/
+オンチェーンの構造化クレジットエコシステムで、小規模事業者が資産を担保にしてDeFiの流動性にアクセスする方法を提供する。セントリフュージは、伝統的な金融とDeFiの橋渡し役として機能し、両セクターの強みを活用する。🌉
+--------------------------------------------
+
 用語解説：Databased.Finance
+
 在庫技術プロバイダーで、セントリフュージプロトコルを利用。これにより、Amazonセラーの資産がプールされ、セントリフュージのマーケットプレイスに配置され、資金調達の担保として使用することができる。🛍️
 
 [元記事URL]
-https://www.coindesk.com/web3/2023/04/05/carbon-backed-nft-collection-ecosapiens-raises-35m/
+https://www.coindesk.com/web3/2023/04/04/ralph-lauren-miami-store-to-accept-crypto-payments/
 
 [記事]
-Non-fungible token (NFT) project Ecosapiens has raised $3.5 million in seed funding towards its mission to make blockchain collectibles more environmentally conscious.
-The round was led by Web3 fund Collab + Currency, with participation from investors including gmoney, the founder of digital fashion company 9dcc; Shan Aggrawal, vice president and head of corporate development at Coinbase Ventures; and Ryan Carson, former chief operating officer of Moonbirds, among others.
-The nature-inspired avatars act as a vehicle for collectors to offset carbon emissions. Each Ecosapien owner can also purchase additional carbon credits to evolve their NFT and gain rarity traits.
-Nihar Neelakanti, a co-founder of Ecosapiens, told CoinDesk that he was driven by a mission to help the environment. He said that utilizing NFTs as a channel for selling carbon credits is the most efficient way to participate in “impact-to-earn,” which allows consumers to help take climate action and earn rewards through activism.
-“What if we could take carbon credits that actually made a big impact in the world, bring them on-chain to make it one-click accessible, but, really, just disguise these credits as the perfect signaling art piece?” said Neelakanti. “In that way, it's easy, economical and engaging to make a difference.”
-Neelakanti told CoinDesk he plans to use the funding to build out the Ecopsapiens marketplace, test out minting strategies such as open editions and forge brand partnerships to expand its presence within Web3.
-According to data from OpenSea, Ecosapiens’ Alpha Collection, which launched in February, has a floor price of 0.055 ether (ETH), or about $100. The collection’s trading volume is hovering around 18 ETH, or about $32,300. So far, the collection says it has helped offset over 1,000 tons of carbon dioxide, equivalent to planting 40,000 trees.
+American fashion brand Ralph Lauren will begin accepting cryptocurrency payments at its newly opened store in Miami's Design District, becoming the retailer's first location to do so.
+According to a press release, the store is working with service provider BitPay to allow customers to purchase merchandise using bitcoin (BTC), ether (ETH) and Polygon's token, MATIC.
+In addition, the brand is working with Web3 community Poolsuite to release a co-branded non-fungible token (NFT) that will be gifted to existing holders of the Poolsuite NFT membership collection. Members will gain exclusive access to a "special event" and be able to update their "Leisurist" avatars with digital Ralph Lauren wearables.
+The brand is planning an immersive three-day experience at a private estate in North Miami at the end of April in conjunction with the store opening.
+"This store will be an opportunity for us as a brand to gather key insights as we continue to explore the space," Ralph Lauren's chief innovation and branding officer, David Lauren, said in an interview with WWD. "We are in the early stages of our road map, but we see an exciting opportunity ahead across digital goods and virtual experiences to build upon our past touchpoints in the metaverse."
+Ralph Lauren has recently been testing the waters of Web3 and released digital clothing collections with popular gaming worlds Roblox and Fortnite. The company's CEO, Patrice Louvet, said in January 2022 the company was actively seeking new ways to connect with younger consumers, including through metaverse activations. "There are a lot of parallels actually between the metaverse and Ralph’s vision because we are not a fashion company. We are in the dreams business," he said, adding that the company was "experimenting" with NFTs.
+See Also: Gucci and Yuga Labs Are Bringing High Fashion to the Otherside
+Edited by Toby Leah Bochan.
