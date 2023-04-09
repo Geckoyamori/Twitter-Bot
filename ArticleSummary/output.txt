@@ -4,11 +4,10 @@
 
 [条件]
 ・[手順1]を実行、その後[手順2]、その後[手順3]を実行し、最終的な連続ツイートを完成させること
-・[手順1]、[手順2]、[手順3]のプロセスの出力は不要
+・[手順1]、[手順2]、[手順3]のプロセスの出力はしないこと
 ・最終的な連続ツイートのみを出力すること
 ・各ツイートは125文字以上135字以内であること
-・各ツイートは常体で記載すること
-・具体例: [例1]
+・各ツイートは丁寧語で記載すること
 
 [手順1]
 ・以下4つのカテゴリーからなる連続ツイートを作成すること
@@ -20,8 +19,10 @@
 ・詳細が気になるような煽り文句を明記すること
 ・初心者にもわかりやすい記載であること
 ・ツイートにインパクトを与えるキーワードや絵文字を使うこと
-・以下は構成例
-【web3報】
+・構成を[速報ツイート構成]、具体例を[速報ツイート具体例]にて示す
+
+[速報ツイート構成]
+【Web3報】
 
 {見出し}{絵文字}
 
@@ -33,43 +34,7 @@
 
 詳細はこちら↓ #web3 {関連ハッシュタグ}
 
-[詳細解説ツイート]
-・詳細解説ツイートは5ツイート程度で構成されること
-・各ツイートは記事の詳細を、具体例や数字を入れながら初心者にもわかりやすく解説すること
-・以下は構成例
-{小見出し}{絵文字}
-
-{詳細解説}{絵文字}
-
-[まとめツイート]
-・まとめツイートには元記事URLを記載すること
-・構成例
-まとめ{絵文字}
-
-{まとめ}{絵文字}
-
-元記事はこちら
-{元記事URL}
-
-[用語解説ツイート]
-・詳細解説ツイート内で明記した用語を3つ程度、初心者にもわかりやすく詳細に説明すること
-・以下は構成例
-用語解説：{用語}
-
-{用語解説}{絵文字}
-
-[手順2]
-・出力した速報ツイートの内容に対して以下を3回繰り返し、よりインプレッション数が増える内容にアップデートすること
-  ①twitterのインプレッション数を稼ぐ専門家が考えそうなインプレッション数を増やすための指摘を考える
-  ②①の指摘に対する対応を速報ツイートに取り入れる
-
-[手順3]
-・出力した詳細解説ツイートの各ツイートの内容に対して以下を3回繰り返し、より初心者にわかりやすい内容にアップデートすること
-  ①知識に乏しい初心者がしそうな質問を考える
-  ②①の質問に対する回答を詳細解説ツイートに取り入れる
-
-[例1]
-1/
+[速報ツイート具体例]
 【Web3報】
 
 CentrifugeがAmazon出品者に融資を提供🌐
@@ -82,27 +47,34 @@ CentrifugeがAmazon出品者に融資を提供🌐
 
 詳細はこちら↓ #web3 #Centrifuge #DeFi
 
-2/
+[詳細解説ツイート]
+・詳細解説ツイートは5ツイート程度で構成されること
+・各ツイートは記事の詳細を、具体例や数字を入れながら初心者にもわかりやすく解説すること
+・構成を[詳細解説ツイート構成]、具体例を[詳細解説ツイート具体例]にて示す
+
+[詳細解説ツイート構成]
+{小見出し}{絵文字}
+
+{詳細解説}{絵文字}
+
+[詳細解説ツイート具体例]
 現状直面している課題🤔
 
-Amazon出品者は、拡大のための信用が得られず苦戦している。資産から資本を引き出す選択肢は、高額であったり、大手企業に限定されていた。しかし、DeFiの登場でこれが変わる。🔄
+Amazon出品者は、拡大のための信用が得られず苦戦しています。資産から資本を引き出す選択肢は、高額であったり、大手企業に限定されていました。しかし、DeFiの登場でこれが変わります。🔄
 
-3/
-Centrifugeとは？🌐
+[まとめツイート]
+・まとめツイートには元記事URLを記載すること
+・構成を[まとめツイート構成]、具体例を[まとめツイート具体例]にて示す
 
-Centrifugeは、構造化クレジットのオンチェーンエコシステムで、小規模事業者が資産を担保にチェーン上で流動性を確保できるようになる。これにより、Amazon出品者は資金調達のアクセスが容易になる。🔓
+[まとめツイート構成]
+まとめ{絵文字}
 
-4/
-データベース・ファイナンスとの連携🤝
+{まとめ}{絵文字}
 
-インベントリ技術プロバイダーのDatabased.Financeは、Centrifugeプロトコルを使用している。これにより、Amazon出品者の資産をプールし、Centrifugeのマーケットプレイスに配置し、資金調達の担保として使用できる。💼
+元記事はこちら
+{元記事URL}
 
-5/
-web3業界への影響📈
-
-Centrifugeは、伝統的金融とDeFiの橋渡しを行い、両セクターの強みを活用しながら、数兆ドル規模のクレジット市場をDeFiにもたらす。これにより、DeFiの成長ポテンシャルは無限大になる。🚀
-
-6/
+[まとめツイート具体例]
 まとめ📝
 
 Centrifugeは、Amazon出品者に融資を提供し、資産を担保にして流動性を確保することができる。これにより、伝統的金融とDeFiの橋渡しを果たし、DeFi市場に多大な影響を与える。🌉
@@ -110,37 +82,44 @@ Centrifugeは、Amazon出品者に融資を提供し、資産を担保にして�
 元記事はこちら
 https://decrypt.co/122242/how-centrifuge-is-making-defi-impactful-with-real-world-assets
 
-7/
-用語解説：DeFi
+[用語解説ツイート]
+・詳細解説ツイート内で明記した用語を3つ程度、初心者にもわかりやすく詳細に説明すること
+・構成を[用語解説イート構成]にて示す
 
-分散型金融。ブロックチェーン技術を利用して、中央権力や仲介者を排除した金融サービスを提供。DeFiは透明性が高く、効率的な取引が可能。代表的なサービスには、貸借、保険、投資などがある。🌐
+[用語解説イート構成]
+用語解説：{用語}
 
-8/
-用語解説：セントリフュージ（Centrifuge）
+{用語解説}{絵文字}
 
-オンチェーンの構造化クレジットエコシステムで、小規模事業者が資産を担保にしてDeFiの流動性にアクセスする方法を提供する。セントリフュージは、伝統的な金融とDeFiの橋渡し役として機能し、両セクターの強みを活用する。🌉
+[手順2]
+・出力した[速報ツイート]の内容に対して以下を3回繰り返し、よりインプレッション数が増える内容にアップデートすること
+  ①twitterのインプレッション数を稼ぐ専門家が考えそうなインプレッション数を増やすための指摘を考える
+  ②①の指摘に対する対応を[速報ツイート]に取り入れる
 
-9/
-用語解説：Databased.Finance
-
-在庫技術プロバイダーで、セントリフュージプロトコルを利用。これにより、Amazonセラーの資産がプールされ、セントリフュージのマーケットプレイスに配置され、資金調達の担保として使用することができる。🛍️
+[手順3]
+・出力した[詳細解説ツイート]の各ツイートの内容に対して以下を3回繰り返し、より初心者にわかりやすく、具体的な内容にアップデートすること
+  ①知識に乏しい初心者がしそうな質問を考える
+  ②①の質問に対する回答を[詳細解説ツイート]に取り入れる
 
 [元記事URL]
-https://decrypt.co/125653/unreleased-david-bowie-recording-debut-music-nft
+https://decrypt.co/125737/winner-decentraland-metaverse-fashion-week-2023
 
 [記事]
-In his lifetime, David Bowie—widely considered one of the most influential musicians of the 20th century—produced a prodigious catalog of 27 studio albums, 11 live albums, 4 soundtracks, and 128 singles. But it appears that the singer-songwriter, who passed away in 2016, still has one song left to sing.  
-On Thursday, Gala Music, an offshoot of Web3 startup Gala Games, announced a partnership with music producer Larry Dvoskin and publisher Warner-Chappell Music to release a never-before-heard version of Bowie’s hit 1983 song “Let’s Dance” via a limited series of NFTs. 
-On April 14th, 40 years to the day after “Let’s Dance” originally debuted, Gala Music will release 3,003 NFTs, each featuring a piece of Bowie-inspired artwork, that will unlock the holder access to the unheard version of “Let’s Dance” that Dvoskin produced with Bowie in 2002.
+Last week, Metaverse Fashion Week took its second-ever strut down the virtual runway, a year after debuting in the thick of 2022’s metaverse frenzy. 
+A lot can change in a year. 
+The event, hosted primarily in metaverse gaming platform Decentraland, saw a massive drop in attendance on its second run. By Decentraland’s own admission, Metaverse Fashion Week (MFW) unique visitors dropped from 108,000 in 2022 to just 26,000 this year.
+According to third-party metaverse analytics firm GEEIQ, however, last week’s events—which featured presences from Dolce & Gabbana, Balmain, Coach, and Tommy Hilfiger—garnered less than 9,000 unique visitors, a staggering 92% dropoff from last year.
+While dismal, those figures are not necessarily a shock to anyone keeping track of the ongoing deterioration of the metaverse in the public eye. Due to brutal market conditions, the repeated humiliations suffered by self-appointed metaverse poster child Meta, and lackluster response to other metaverse gaming platforms deemed premature, the “m” word has in recent months become a toxic one, best avoided at all costs. 
+“No one cares about the metaverse anymore,” Charles Hambro, co-founder and CEO of GEEIQ, told Decrypt. “But the reality of the situation is, more people are gaming this year than last year. So one needs to ask the question: is it the metaverse that’s failing, or just particular virtual environments that haven’t been built for purpose?”
+Hambro is of the belief that many brands and platforms operating in the metaverse have not yet tapped into the novel medium’s full potential. 
+“This is not like Instagram," he said, "where you have to just think about aesthetics—3D virtual environments require a whole other skill set.”
+Case in point: consider that MFW’s top brand this year in terms of “dwell time,” a coveted metric measuring minutes spent in an online experience, was not Gucci, Coach, or any other glossy, celebrity-friendly label known to dominate in-person fashion weeks. It was Ben Bridge, a jewelry chain typically found in suburban shopping malls. 
+Ben Bridge garnered 47,695 minutes of dwell time at MFW last week, according to GEEIQ. Adidas and Coach, brands with far larger global reputations, both placed in the low 30,000s, by comparison.
+Even more eyebrow-raising is the degree to which that dwell time was concentrated. The average Ben Bridge MFW visitor spent 14 minutes engaging with the company’s virtual store, according to GEEIQ—a near unheard-of statistic in the world of online advertising, where social media-originated brand impressions often clock in around three seconds.
+How did Ben Bridge manage to keep consumers so engaged? The jeweler, unlike many other brands at MFW, offered visitors the ability to participate in elaborate, gamified “quests” throughout a virtually reconstructed Ben Bridge store. Furthermore, it gave away 11 types of exclusive digital wearables to users who engaged with and completed those quests. 
 
-The NFTs will be sold on a pay-what-you-wish model; all initial proceeds from the sale will benefit MusiCares, a charity that provides health and human services to the music community. 
-Dvoskin described the track in a statement as a “more dreamy, electronic” version of the smash song, which remains one of Bowie’s most popular tracks ever released. The music producer and songwriter has long wished for the song’s revamp to see the light of day.
-With the 40th anniversary of the release of “Let’s Dance” approaching, Dvoskin turned to Bowie’s estate to attempt to convince it to release the song via NFTs.
-“When I first talked with the executor of the Bowie Estate, he told me he initially planned to listen to my pitch about releasing this as an NFT and then politely pass,” Dvoskin said in a statement. “But when he pulled up the original 2002 email in which Bowie expressed his enthusiasm for doing the recording, that changed his mind. This was a creative endeavor David never got to see released during his lifetime. We are honoring his wish by releasing it now.”
-Next week’s release will not, however, mark the Bowie Estate’s first foray onto the blockchain.
-In September, Bowie's estate launched a series of NFTs in partnership with marketplace OpenSea titled “Bowie on the Blockchain.” That collection, which was also sold to raise money for charity, received substantial backlash from Bowie fans who derided the blockchain experiment as inconsistent with the late artist’s ethos and values. 
-Bowie’s entire music catalog is currently owned by Warner Chappell Music, a subsidiary of Warner Music Group, which purchased the collection early last year for upwards of $250 million. In November 2022, the music label announced a deal with Web3 entertainment incubator Defient to “unlock the power of Web3 for songwriters.”
-Dvoskin's deal with the label is described as Warner Chappell Music's "first completely native NFT agreement" for a song that had never been released through physical or digital formats.
-Last week, in the midst of a large-scale layoff, Warner Music Group said that it planned to spare employees involved in its burgeoning slate of Web3 and AI initiatives, citing “new tech initiatives as central to the company’s future."
-Gala Games is best known for its titular Web3 gaming efforts, but has also made inroads into music and film as it explores other entertainment use cases for NFTs and tokens.
-The startup faced some scrutiny earlier this year when it tweeted about upcoming film projects with actors Dwayne “The Rock” Johnson and Mark Wahlberg—an announcement that appears to have boosted its native token GALA some 115%—only to later delete the tweet and call it a “bit overzealous." Gala clarified that both actors' respective production companies are co-producing documentary film projects unrelated to their own lives or careers.
+Those sorts of captivating, gamified engagements with consumers will become increasingly critical as advertisers come to see the value of immersive technology over existing modes of generating online engagement, according to Hambro. 
+“Brands now want to have a deeper, more enriched experience with their consumers,” he said. “A three-second impression is not a deep and enriched experience.”
+Last year at MFW, and this year as well, most brands opened digital storefronts and showcased virtual versions of their wares, but didn’t do much beyond those standard measures to actively court visitors. 
+“There has to be more creativity within what platforms are offering as tools, and brands deliver as an experience,” Richard Hobbs, CEO of digital fashion platform BNV, told Decrypt. “Just having a gallery of products with minimal interaction is not going to create excitement and engagement.”
+It appears that just because the novelty of the metaverse has worn off, it doesn’t mean that virtual worlds lack massive potential to engage and entice users. Unlocking that potential, however, may take more now than just showing up. 
