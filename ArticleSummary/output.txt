@@ -107,24 +107,16 @@ https://decrypt.co/122242/how-centrifuge-is-making-defi-impactful-with-real-worl
   ②①の質問に対する回答を[詳細解説ツイート]に取り入れる
 
 [元記事URL]
-https://decrypt.co/125737/winner-decentraland-metaverse-fashion-week-2023
+https://cointelegraph.com/news/25-of-nft-owners-have-a-collection-of-51-or-more-coingecko-report
 
 [記事]
-Last week, Metaverse Fashion Week took its second-ever strut down the virtual runway, a year after debuting in the thick of 2022’s metaverse frenzy. 
-A lot can change in a year. 
-The event, hosted primarily in metaverse gaming platform Decentraland, saw a massive drop in attendance on its second run. By Decentraland’s own admission, Metaverse Fashion Week (MFW) unique visitors dropped from 108,000 in 2022 to just 26,000 this year.
-According to third-party metaverse analytics firm GEEIQ, however, last week’s events—which featured presences from Dolce & Gabbana, Balmain, Coach, and Tommy Hilfiger—garnered less than 9,000 unique visitors, a staggering 92% dropoff from last year.
-While dismal, those figures are not necessarily a shock to anyone keeping track of the ongoing deterioration of the metaverse in the public eye. Due to brutal market conditions, the repeated humiliations suffered by self-appointed metaverse poster child Meta, and lackluster response to other metaverse gaming platforms deemed premature, the “m” word has in recent months become a toxic one, best avoided at all costs. 
-“No one cares about the metaverse anymore,” Charles Hambro, co-founder and CEO of GEEIQ, told Decrypt. “But the reality of the situation is, more people are gaming this year than last year. So one needs to ask the question: is it the metaverse that’s failing, or just particular virtual environments that haven’t been built for purpose?”
-Hambro is of the belief that many brands and platforms operating in the metaverse have not yet tapped into the novel medium’s full potential. 
-“This is not like Instagram," he said, "where you have to just think about aesthetics—3D virtual environments require a whole other skill set.”
-Case in point: consider that MFW’s top brand this year in terms of “dwell time,” a coveted metric measuring minutes spent in an online experience, was not Gucci, Coach, or any other glossy, celebrity-friendly label known to dominate in-person fashion weeks. It was Ben Bridge, a jewelry chain typically found in suburban shopping malls. 
-Ben Bridge garnered 47,695 minutes of dwell time at MFW last week, according to GEEIQ. Adidas and Coach, brands with far larger global reputations, both placed in the low 30,000s, by comparison.
-Even more eyebrow-raising is the degree to which that dwell time was concentrated. The average Ben Bridge MFW visitor spent 14 minutes engaging with the company’s virtual store, according to GEEIQ—a near unheard-of statistic in the world of online advertising, where social media-originated brand impressions often clock in around three seconds.
-How did Ben Bridge manage to keep consumers so engaged? The jeweler, unlike many other brands at MFW, offered visitors the ability to participate in elaborate, gamified “quests” throughout a virtually reconstructed Ben Bridge store. Furthermore, it gave away 11 types of exclusive digital wearables to users who engaged with and completed those quests. 
-
-Those sorts of captivating, gamified engagements with consumers will become increasingly critical as advertisers come to see the value of immersive technology over existing modes of generating online engagement, according to Hambro. 
-“Brands now want to have a deeper, more enriched experience with their consumers,” he said. “A three-second impression is not a deep and enriched experience.”
-Last year at MFW, and this year as well, most brands opened digital storefronts and showcased virtual versions of their wares, but didn’t do much beyond those standard measures to actively court visitors. 
-“There has to be more creativity within what platforms are offering as tools, and brands deliver as an experience,” Richard Hobbs, CEO of digital fashion platform BNV, told Decrypt. “Just having a gallery of products with minimal interaction is not going to create excitement and engagement.”
-It appears that just because the novelty of the metaverse has worn off, it doesn’t mean that virtual worlds lack massive potential to engage and entice users. Unlocking that potential, however, may take more now than just showing up. 
+Crypto data website CoinGecko has released survey findings indicating that most nonfungible token (NFT) holders own 51 or more NFTs. Those who only hold a single NFT comprised the smallest group among the respondents.
+Published on April 6, the CoinGecko report examined 438 responses from Dec. 2022 to Jan. 2023 in conjunction with Blockchain Research Labs.
+At least one in four NFT holders (26.5%) said they were “avid collectors” with 51 or more NFTs at the time of the survey. The report states this group likely represents people who are the most enthusiastic about NFTs. It noted:
+“This suggests that people rarely stop participating in NFTs after their first one.”
+It was closely followed by holders holding between two and five NFTs (17.6%), with those who hold just one NFT accounted for a mere 4.8%.
+Almost four out of every 10 people surveyed (38.8%) acquired their first NFT during the first bull market of 2021.
+Despite 2022 seeing crypto enter a bear market, it still recorded the second-highest influx of new NFT collectors over the past five years, with just over 25% acquiring their first NFT during the year.
+Meanwhile, only 2.9% acquired their first NFT in 2017, the same year Crypto Kitties and CryptoPunks were launched.
+The report went on to state that NFT development might accelerate adoption in 2023, citing Bitcoin Ordinals and Stamps NFTs, as well as Blur overtaking OpenSea to become the top NFT marketplace.
+In recent news, OpenSea launched OpenSea Pro on April 5, an NFT marketplace aggregator aimed at serving the needs of professional users, which is a refined version of an NFT aggregator acquired by OpenSea in April 2022.
