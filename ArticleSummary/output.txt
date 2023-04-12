@@ -109,56 +109,19 @@ https://decrypt.co/122242/how-centrifuge-is-making-defi-impactful-with-real-worl
   ②①の質問に対する回答を[詳細解説ツイート]に取り入れる
 
 [元記事URL]
-https://dappradar.com/blog/best-move-to-earn-web3-crypto
+https://decrypt.co/126031/azuki-nft-creator-chiru-labs-reveals-collaboration-line-friends
 
 [記事]
-Move-to-earn is one of the hottest innovations in the blockchain space
-What are the best move-to-earn games encouraging users to stay active and earn crypto as a reward? Move-to-earn is an innovative step in blockchain gaming that brings real benefits to our day-to-day lives. This Top 5 list of move-to-earn projects is the best place to begin if you’re looking to become active and earn crypto while you’re doing it. 
-Contents
-- The move-to-earn movement
-- Top 5 move-to-earn dapps1. StepN2. Genopets3. Step App4. Sweat Economy5. The Dustland
-- 1. StepN
-- 2. Genopets
-- 3. Step App
-- 4. Sweat Economy
-- 5. The Dustland
-- Discover the best new Web3 gamesUseful links
-- Useful links
-- 1. StepN
-- 2. Genopets
-- 3. Step App
-- 4. Sweat Economy
-- 5. The Dustland
-- Useful links
-The move-to-earn movement
-Like the play-to-earn movement, these games leverage blockchain technology to store users’ performance and reward them for time spent playing with cryptocurrency.
-
-Despite being a rather new idea that seems to have come out of nowhere, many of the companies operating in the move-to-earn sector have been around for a few years already. Some clearly have big goals in mind as they look to connect the physical and the virtual worlds, one step at a time.
-And as the industry evolves in 2023, so does the quality of these projects. As observed in the DappRadar x BGA Games Report of March 2023:
-“Move-to-earn dapps remain a popular trend in the dapp world, despite some fluctuations in user activity. (…) With new features and developments on the horizon, these dapps are likely to continue growing and attracting new users in the coming months.”
-Top 5 move-to-earn dapps
-1. StepN
-STEPN is the flagship move-to-earn platform. Originally built on Solana and later also on BNB Chain, it kickstarted the fitness movement on Web3.
-Users need to set up an account, purchase a pair of StepN Sneakers NFTs (with SOL or BNB) and then start moving around in the real world. The more you move, the more Green Satoshi Tokens (GST) you earn.
-In-game challenges like Marathon Mode keep players engaged and working towards a challenge. At the moment, though, there is a time-gated mechanic which caps players’ earning potential at a certain point.
-2. Genopets
-Genopets began life back in August 2021 and is also one of the best move-to-earn dapps in 2023. Currently part of the BNB Chain ecosystem, the first-of-its-kind game combines NFT collectibles, battle arena gameplay, and move-to-earn functionality.
-Players can level up their Genopet NFT avatars by doing exercises in the real world. The stronger your Genopet grows, the more likely they will be to conquer your opponents. 
-3. Step App
-The Web3 fitness movement reached the Avalanche blockchain with the popular game Step App. Similar to StepN, users need to buy an NFT to get started earning from playing. 
-This game enters 2023 in style having as brand ambassador Olympic athlete Usain Bolt.
-The platform’s utility token, KCAL, can be used to purchase it. As you exercise and register your performance using Step App, you are eligible for real-world rewards.
-4. Sweat Economy
-Powered by the NEAR blockchain technology, Sweat Economy is another fitness dapp worth exploring this summer. It has already motivated over 120 thousand users to exercise – on Web2 and Web3.
-It was first created in 2016 and only later added the crypto concept to it.
-The project created its own cryptocurrency called SWEAT, that users can earn by walking and tracking their performance using the Sweat Economy app, Sweat Wallet. Learn more about this move-to-earn project in our complete guide.
-5. The Dustland in OliveX
-Part of the Polygon blockchain ecosystem, the Dustland is a move-to-earn game in OliveX’s fitness metaverse. Like others on our list, it rewards players in real life for exercising. This time, whether you’re running or cycling.
-OliveX is a digital fitness company that uses gamification, augmented reality and play-to-earn gaming to deliver an entire ecosystem with the aim of improving people’s health. Not only is the platform building its own interactive virtual world within The Sandbox, it also has the Dustland series of games.
-By going on runs and moving around in the real world, players get virtual rewards (NFTs/DOSE tokens) they can use to upgrade their avatar and progress on their adventure.
-Discover the best new Web3 games
-DappRadar is the best place to find the best blockchain games out there. Our platform tracks over 13,000 projects on 49 different protocols.
-Useful links
-- Play-to-Earn vs. Move-to-Earn: Blockchain Gaming Explained
-- What is Move-to-Earn?
-- How to Get Crypto On Move-to-Earn Platform STEPN
+Chiru Labs, the Web3 startup behind the valuable Azuki NFT project on Ethereum, is linking up with the popular Line Friends media and merchandise property through a partnership with parent company IPX, the firms announced Wednesday.
+Line Friends is a collection of cartoonish animal characters inspired by stickers in the top Japanese messaging app Line and from South Korean internet giant Naver. Since debuting in 2011, Line Friends has spawned numerous stores with themed merchandise, along with amusement parks, a “Brown and Friends” Netflix series, a collaboration with K-Pop band BTS, and more.
+Through the partnership, Chiru Labs and IPX plan collaborations through their respective properties, with potential content, merchandise, and events in the works. The first collaboration will feature Line Friends characters paired with Beanz, an NFT collection spun off from Azuki.
+Artwork shared by Chiru Labs with Decrypt shows a Beanz character named Jay, who was previously introduced alongside another character named Jelly via a brief Twitter animation in February.
+To mark the announcement, the companies will run an animated short on the video billboard above the Line Friends store in Times Square in New York City starting today, amid the annual NFT NYC conference. IPX has previously partnered with brands such as Samsung, Starbucks, Meta, and Vans.
+Launched in early 2022, Azuki is one of the most successful NFT profile picture (PFP) projects to date in terms of trading volume, yielding some $930 million worth of trades to date per data from CryptoSlam. The original anime-themed project then spawned Beanz—cartoonish, bean-inspired NFT characters—which have generated $263 million worth of trading volume.
+Liz Yang, Chiru’s Head of Growth, told Decrypt that Line Friends parent company IPX has been “making a concerted push into Web3 in the past few years,” and that its specialty is cultivating character-centric IP. Through this deal, the Line Friends characters will be paired with Chiru’s Web3 properties for future content and products.
+“This is their bread and butter: creating and developing these IP,” Yang said, “and translating it into something that people can interact with or consume at all age ranges.”
+The companies have yet to reveal the first products or creations that will come out of the alliance, beyond the Times Square teaser, but a Chiru Labs tweet posted this morning hints at potential toys.
+Interestingly, Chiru has developed a physically backed token (PBT) standard on Ethereum that pairs a blockchain token with a physical product to verify authenticity. The firm debuted the tech last October with an auction for eight gold-plated skateboards, which collectively brought in $2.5 million worth of ETH.
+Line Friends isn’t Chiru’s first prominent Asian partner: in January, the Los Angeles-based company revealed a deal with Bilibili, a massively popular video platform that’s considered China’s equivalent to YouTube, with some 333 million users as of Q3 2022. That partnership let Azuki and Beanz NFT holders access exclusive stickers and other benefits on the platform.
+The alignment with established Asian brands makes thematic sense, given Azuki’s anime influence. However, Yang said that the goal of these deals isn’t to only serve the Asia-Pacific (APAC) region and potential collectors there but rather to “bring that culture into really unexpected areas” with a global reach in mind.
+“Even though IPX is a South Korean company, I feel like we have that startup-like, innovative, American sort of flair,” Yang said. “We are really looking to push boundaries with this type of partnership.”

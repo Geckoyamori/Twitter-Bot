@@ -13,7 +13,7 @@ from urllib.parse import urlparse
 from requests_html import HTMLSession
 
 # URLからドメインを取得
-url = "https://dappradar.com/blog/best-move-to-earn-web3-crypto"
+url = "https://decrypt.co/126031/azuki-nft-creator-chiru-labs-reveals-collaboration-line-friends"
 parsed_url = urlparse(url)
 domain = parsed_url.netloc
 
@@ -99,7 +99,7 @@ elif domain == "cointelegraph.com":
 
 elif domain == "dappradar.com":
     # レスポンスを取得
-    # dappradar.comはスクレイピングできない（アクセス制限がかかっている）ため、開発者コンソールからhtmlの内容をコピーして、input.htmlに貼り付けた上で実行する
+    # dappradar.comはスクレイピングできない（アクセス制限がかかっている）ため、開発者コンソールからhtmlの内容を"entry-content"でgrepかけ、該当箇所をコピーして、input.htmlに貼り付けた上で実行する
     soup = fetch_html_content_after_rendering(url)
     text_content = soup.find("div", class_="entry-content")
     
