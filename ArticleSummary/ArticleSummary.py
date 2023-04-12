@@ -12,6 +12,11 @@ from bs4 import BeautifulSoup
 from urllib.parse import urlparse
 from requests_html import HTMLSession
 
+# URLからドメインを取得
+url = "https://dappradar.com/blog/best-move-to-earn-web3-crypto"
+parsed_url = urlparse(url)
+domain = parsed_url.netloc
+
 # URLの中身を取得するメソッド（レンダリング前）
 def fetch_url_content_before_rendering(url):
     response = requests.get(url)
@@ -27,14 +32,15 @@ def fetch_url_content_after_rendering(url):
     response.html.render(timeout=20000)
     return response
 
+# ローカルのhtmlの中身を取得するメソッド（レンダリング後）
+def fetch_html_content_after_rendering(url):
+    soup = BeautifulSoup(open('ArticleSummary/input.html'), 'html.parser')
+    return soup
+
+
 # ファイルからプロンプト文字列を読み込む
 with open("ArticleSummary/prompt.txt", "r", encoding="utf-8") as file:
     prompt = file.read()
-
-# URLからドメインを取得
-url = "https://cointelegraph.com/news/25-of-nft-owners-have-a-collection-of-51-or-more-coingecko-report"
-parsed_url = urlparse(url)
-domain = parsed_url.netloc
 
 # 本文を抽出
 if domain == "decrypt.co":
@@ -90,4 +96,28 @@ elif domain == "cointelegraph.com":
             if paragraph.tag == "p" and paragraph.find("strong", first=True) is not None:
                 continue
             file.write(paragraph.text + "\n")
+
+elif domain == "dappradar.com":
+    # レスポンスを取得
+    # dappradar.comはスクレイピングできない（アクセス制限がかかっている）ため、開発者コンソールからhtmlの内容をコピーして、input.htmlに貼り付けた上で実行する
+    soup = fetch_html_content_after_rendering(url)
+    text_content = soup.find("div", class_="entry-content")
+    
+    # 新規テキストファイルを作成して出力する
+    with open("ArticleSummary/output.txt", "w", encoding="utf-8") as file:
+        file.write(prompt + "\n")
+        file.write(url + "\n\n")
+        file.write("[記事]" + "\n")
+
+        # 本文の段落要素を取得し、テキストを表示
+        paragraphs = text_content.find_all(["p", "h2", "h3", "ul"], recursive=True)
+        for paragraph in paragraphs:
+            # 箇条書きの箇所も取得
+            if paragraph.name == "ul":
+                list_items = paragraph.find_all("li")
+                for item in list_items:
+                    file.write("- " + item.get_text() + "\n")
+            else:
+                file.write(paragraph.get_text() + "\n")
+
 

@@ -48,8 +48,10 @@ CentrifugeがAmazon出品者に融資を提供🌐
 詳細はこちら↓ #web3 #Centrifuge #DeFi
 
 [詳細解説ツイート]
-・詳細解説ツイートは5ツイート程度で構成されること
-・各ツイートは記事の詳細を、具体例や数字を入れながら初心者にもわかりやすく解説すること
+・詳細解説ツイートは5ツイート程度で構成された連続ツイートであること
+・詳細解説ツイートは論理的に整合性のとれた内容となっており、内容が急に飛躍しないこと
+・詳細解説ツイートの最初のツイートは、背景や経緯など、事前知識がない人でもわかりやすい内容にすること
+・詳細解説ツイートの各ツイートは、具体例や数字を入れながら初心者にもわかりやすい内容にすること
 ・構成を[詳細解説ツイート構成]、具体例を[詳細解説ツイート具体例]にて示す
 
 [詳細解説ツイート構成]
@@ -107,16 +109,56 @@ https://decrypt.co/122242/how-centrifuge-is-making-defi-impactful-with-real-worl
   ②①の質問に対する回答を[詳細解説ツイート]に取り入れる
 
 [元記事URL]
-https://cointelegraph.com/news/25-of-nft-owners-have-a-collection-of-51-or-more-coingecko-report
+https://dappradar.com/blog/best-move-to-earn-web3-crypto
 
 [記事]
-Crypto data website CoinGecko has released survey findings indicating that most nonfungible token (NFT) holders own 51 or more NFTs. Those who only hold a single NFT comprised the smallest group among the respondents.
-Published on April 6, the CoinGecko report examined 438 responses from Dec. 2022 to Jan. 2023 in conjunction with Blockchain Research Labs.
-At least one in four NFT holders (26.5%) said they were “avid collectors” with 51 or more NFTs at the time of the survey. The report states this group likely represents people who are the most enthusiastic about NFTs. It noted:
-“This suggests that people rarely stop participating in NFTs after their first one.”
-It was closely followed by holders holding between two and five NFTs (17.6%), with those who hold just one NFT accounted for a mere 4.8%.
-Almost four out of every 10 people surveyed (38.8%) acquired their first NFT during the first bull market of 2021.
-Despite 2022 seeing crypto enter a bear market, it still recorded the second-highest influx of new NFT collectors over the past five years, with just over 25% acquiring their first NFT during the year.
-Meanwhile, only 2.9% acquired their first NFT in 2017, the same year Crypto Kitties and CryptoPunks were launched.
-The report went on to state that NFT development might accelerate adoption in 2023, citing Bitcoin Ordinals and Stamps NFTs, as well as Blur overtaking OpenSea to become the top NFT marketplace.
-In recent news, OpenSea launched OpenSea Pro on April 5, an NFT marketplace aggregator aimed at serving the needs of professional users, which is a refined version of an NFT aggregator acquired by OpenSea in April 2022.
+Move-to-earn is one of the hottest innovations in the blockchain space
+What are the best move-to-earn games encouraging users to stay active and earn crypto as a reward? Move-to-earn is an innovative step in blockchain gaming that brings real benefits to our day-to-day lives. This Top 5 list of move-to-earn projects is the best place to begin if you’re looking to become active and earn crypto while you’re doing it. 
+Contents
+- The move-to-earn movement
+- Top 5 move-to-earn dapps1. StepN2. Genopets3. Step App4. Sweat Economy5. The Dustland
+- 1. StepN
+- 2. Genopets
+- 3. Step App
+- 4. Sweat Economy
+- 5. The Dustland
+- Discover the best new Web3 gamesUseful links
+- Useful links
+- 1. StepN
+- 2. Genopets
+- 3. Step App
+- 4. Sweat Economy
+- 5. The Dustland
+- Useful links
+The move-to-earn movement
+Like the play-to-earn movement, these games leverage blockchain technology to store users’ performance and reward them for time spent playing with cryptocurrency.
+
+Despite being a rather new idea that seems to have come out of nowhere, many of the companies operating in the move-to-earn sector have been around for a few years already. Some clearly have big goals in mind as they look to connect the physical and the virtual worlds, one step at a time.
+And as the industry evolves in 2023, so does the quality of these projects. As observed in the DappRadar x BGA Games Report of March 2023:
+“Move-to-earn dapps remain a popular trend in the dapp world, despite some fluctuations in user activity. (…) With new features and developments on the horizon, these dapps are likely to continue growing and attracting new users in the coming months.”
+Top 5 move-to-earn dapps
+1. StepN
+STEPN is the flagship move-to-earn platform. Originally built on Solana and later also on BNB Chain, it kickstarted the fitness movement on Web3.
+Users need to set up an account, purchase a pair of StepN Sneakers NFTs (with SOL or BNB) and then start moving around in the real world. The more you move, the more Green Satoshi Tokens (GST) you earn.
+In-game challenges like Marathon Mode keep players engaged and working towards a challenge. At the moment, though, there is a time-gated mechanic which caps players’ earning potential at a certain point.
+2. Genopets
+Genopets began life back in August 2021 and is also one of the best move-to-earn dapps in 2023. Currently part of the BNB Chain ecosystem, the first-of-its-kind game combines NFT collectibles, battle arena gameplay, and move-to-earn functionality.
+Players can level up their Genopet NFT avatars by doing exercises in the real world. The stronger your Genopet grows, the more likely they will be to conquer your opponents. 
+3. Step App
+The Web3 fitness movement reached the Avalanche blockchain with the popular game Step App. Similar to StepN, users need to buy an NFT to get started earning from playing. 
+This game enters 2023 in style having as brand ambassador Olympic athlete Usain Bolt.
+The platform’s utility token, KCAL, can be used to purchase it. As you exercise and register your performance using Step App, you are eligible for real-world rewards.
+4. Sweat Economy
+Powered by the NEAR blockchain technology, Sweat Economy is another fitness dapp worth exploring this summer. It has already motivated over 120 thousand users to exercise – on Web2 and Web3.
+It was first created in 2016 and only later added the crypto concept to it.
+The project created its own cryptocurrency called SWEAT, that users can earn by walking and tracking their performance using the Sweat Economy app, Sweat Wallet. Learn more about this move-to-earn project in our complete guide.
+5. The Dustland in OliveX
+Part of the Polygon blockchain ecosystem, the Dustland is a move-to-earn game in OliveX’s fitness metaverse. Like others on our list, it rewards players in real life for exercising. This time, whether you’re running or cycling.
+OliveX is a digital fitness company that uses gamification, augmented reality and play-to-earn gaming to deliver an entire ecosystem with the aim of improving people’s health. Not only is the platform building its own interactive virtual world within The Sandbox, it also has the Dustland series of games.
+By going on runs and moving around in the real world, players get virtual rewards (NFTs/DOSE tokens) they can use to upgrade their avatar and progress on their adventure.
+Discover the best new Web3 games
+DappRadar is the best place to find the best blockchain games out there. Our platform tracks over 13,000 projects on 49 different protocols.
+Useful links
+- Play-to-Earn vs. Move-to-Earn: Blockchain Gaming Explained
+- What is Move-to-Earn?
+- How to Get Crypto On Move-to-Earn Platform STEPN
