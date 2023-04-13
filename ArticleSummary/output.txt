@@ -11,41 +11,33 @@
 
 [手順1]
 ・以下4つのカテゴリーからなる連続ツイートを作成すること
-　[速報ツイート][詳細解説ツイート][まとめツイート][用語解説ツイート]
+　[煽りツイート][詳細解説ツイート][まとめツイート][用語解説ツイート]
 
-[速報ツイート]
-・見出しと記事のポイント3つを箇条書きで記載すること
-・多くのインプレッション数を稼げる見出しであること
-・詳細が気になるような煽り文句を明記すること
-・初心者にもわかりやすい記載であること
-・ツイートにインパクトを与えるキーワードや絵文字を使うこと
-・構成を[速報ツイート構成]、具体例を[速報ツイート具体例]にて示す
+[煽りツイート]
+・煽りツイートは記事の内容をもとに多くの人の注目、関心を集めるツイートであること
+・一文目の煽り文句は特に注目度の高まる文章にすること
+・記事のポイントは初心者にもわかりやすい言葉で要点を複数記載すること
+・一般ユーザーへの影響は、記事の内容をもとに想定される一般ユーザーへの影響を記載し、詳細を確認したくなる内容にすること
+・構成を[煽りツイート構成]、具体例を[煽りツイート具体例]にて示す
 
-[速報ツイート構成]
-【Web3報】
+[煽りツイート構成]
+{煽り文句}{絵文字}
 
-{見出し}{絵文字}
+{記事のポイント}
 
-✅{ポイント1}
-✅{ポイント2}
-✅{ポイント3}
-
-{煽り文句}
+{一般ユーザーへの影響}{絵文字}
 
 詳細はこちら↓ #web3 {関連ハッシュタグ}
 
-[速報ツイート具体例]
-【Web3報】
+[煽りツイート具体例]
+ついにグーグルが変わる！🚨
 
-CentrifugeがAmazon出品者に融資を提供🌐
+検索エンジンに対話型AIを追加すると発表されました。
+検索の概念がガラッと変化します。
 
-✅DeFi活用で融資難解消
-✅資産を担保に流動性確保
-✅伝統的金融とDeFiの橋渡し
+AIをイチ早く攻略した人が、次の時代を制す。
 
-これであなたも気軽に融資を受けれるように⁉️
-
-詳細はこちら↓ #web3 #Centrifuge #DeFi
+詳細はこちら↓ #web3 #AI #Google
 
 [詳細解説ツイート]
 ・詳細解説ツイートは5ツイート程度で構成された連続ツイートであること
@@ -99,9 +91,9 @@ https://decrypt.co/122242/how-centrifuge-is-making-defi-impactful-with-real-worl
 分散型金融。ブロックチェーン技術を利用して、中央権力や仲介者を排除した金融サービスを提供します。DeFiは透明性が高く、効率的な取引が可能。代表的なサービスには、貸借、保険、投資などがあります。🌐
 
 [手順2]
-・出力した[速報ツイート]の内容に対して以下を3回繰り返し、よりインプレッション数が増える内容にアップデートすること
+・出力した[煽りツイート]の内容に対して以下を3回繰り返し、よりインプレッション数が増える内容にアップデートすること
   ①twitterのインプレッション数を稼ぐ専門家が考えそうなインプレッション数を増やすための指摘を考える
-  ②①の指摘に対する対応を[速報ツイート]に取り入れる
+  ②①の指摘に対する対応を[煽りツイート]に取り入れる
 
 [手順3]
 ・出力した[詳細解説ツイート]の各ツイートの内容に対して以下を3回繰り返し、より初心者にわかりやすく、具体的な内容にアップデートすること
@@ -109,19 +101,22 @@ https://decrypt.co/122242/how-centrifuge-is-making-defi-impactful-with-real-worl
   ②①の質問に対する回答を[詳細解説ツイート]に取り入れる
 
 [元記事URL]
-https://decrypt.co/126031/azuki-nft-creator-chiru-labs-reveals-collaboration-line-friends
+https://decrypt.co/126201/etoro-announces-crypto-stock-trading-integration-twitter
 
 [記事]
-Chiru Labs, the Web3 startup behind the valuable Azuki NFT project on Ethereum, is linking up with the popular Line Friends media and merchandise property through a partnership with parent company IPX, the firms announced Wednesday.
-Line Friends is a collection of cartoonish animal characters inspired by stickers in the top Japanese messaging app Line and from South Korean internet giant Naver. Since debuting in 2011, Line Friends has spawned numerous stores with themed merchandise, along with amusement parks, a “Brown and Friends” Netflix series, a collaboration with K-Pop band BTS, and more.
-Through the partnership, Chiru Labs and IPX plan collaborations through their respective properties, with potential content, merchandise, and events in the works. The first collaboration will feature Line Friends characters paired with Beanz, an NFT collection spun off from Azuki.
-Artwork shared by Chiru Labs with Decrypt shows a Beanz character named Jay, who was previously introduced alongside another character named Jelly via a brief Twitter animation in February.
-To mark the announcement, the companies will run an animated short on the video billboard above the Line Friends store in Times Square in New York City starting today, amid the annual NFT NYC conference. IPX has previously partnered with brands such as Samsung, Starbucks, Meta, and Vans.
-Launched in early 2022, Azuki is one of the most successful NFT profile picture (PFP) projects to date in terms of trading volume, yielding some $930 million worth of trades to date per data from CryptoSlam. The original anime-themed project then spawned Beanz—cartoonish, bean-inspired NFT characters—which have generated $263 million worth of trading volume.
-Liz Yang, Chiru’s Head of Growth, told Decrypt that Line Friends parent company IPX has been “making a concerted push into Web3 in the past few years,” and that its specialty is cultivating character-centric IP. Through this deal, the Line Friends characters will be paired with Chiru’s Web3 properties for future content and products.
-“This is their bread and butter: creating and developing these IP,” Yang said, “and translating it into something that people can interact with or consume at all age ranges.”
-The companies have yet to reveal the first products or creations that will come out of the alliance, beyond the Times Square teaser, but a Chiru Labs tweet posted this morning hints at potential toys.
-Interestingly, Chiru has developed a physically backed token (PBT) standard on Ethereum that pairs a blockchain token with a physical product to verify authenticity. The firm debuted the tech last October with an auction for eight gold-plated skateboards, which collectively brought in $2.5 million worth of ETH.
-Line Friends isn’t Chiru’s first prominent Asian partner: in January, the Los Angeles-based company revealed a deal with Bilibili, a massively popular video platform that’s considered China’s equivalent to YouTube, with some 333 million users as of Q3 2022. That partnership let Azuki and Beanz NFT holders access exclusive stickers and other benefits on the platform.
-The alignment with established Asian brands makes thematic sense, given Azuki’s anime influence. However, Yang said that the goal of these deals isn’t to only serve the Asia-Pacific (APAC) region and potential collectors there but rather to “bring that culture into really unexpected areas” with a global reach in mind.
-“Even though IPX is a South Korean company, I feel like we have that startup-like, innovative, American sort of flair,” Yang said. “We are really looking to push boundaries with this type of partnership.”
+Stock trading is coming to Twitter. And, reportedly, crypto trading.
+Via a new partnership with eToro, users can now make use of eToro’s market charts on a range of financial investments, simply by searching for the relevant "cashtag," usually by putting a "$" sign in front of the ticker, like "$TSLA" for Tesla stock. 
+A chart then appears, reflecting the asset’s 24-hour price performance along with a link that says “View on eToro” where users can then view more in-depth market information and purchase the asset, along with other assets offered by the platform. 
+Despite reports that the integration would also include cryptocurrencies, such as Bitcoin, Ethereum, and Dogecoin, the social media platform has yet to deliver.
+Nothing appears when searching for a variety of crypto cashtags on the platform.
+An eToro representative told Decrypt via email that they were "having the same issue" when searching the BTC cashtag. "We are checking this with Twitter so hopefully it will be resolved soon,” they said. 
+
+Twitter did not immediately respond to Decrypt's request for comment.
+Twitter CEO Elon Musk has been an avowed fan of cryptocurrencies long before he acquired the social media platform. 
+His tweets pumping his favorite cryptocurrency Dogecoin (DOGE) helped it to reach its all-time high of $0.73 in May 2021. The cryptocurrency has also soared in the past hour, following the latest eToro tie-up.
+At the beginning of last week, DOGE ballooned 20% in less than an hour after Musk changed the iconic blue bird logo on the social media site to a picture of Doge, the Shiba Inu behind the meme that inspired the coin. 
+In his capacity as Tesla CEO, he invested $1.5 billion in Bitcoin in February 2021. By the end of June last year, however, the company had sold about 75% of its war chest and is HODLing the remainder. 
+Since beginning his bid to buy out Twitter last spring, Musk has often hinted that he wants crypto and finance to be integrated into the platform. 
+While negotiating the takeover, Musk let slip that he saw the potential to turn Twitter into a kind of “super app," citing China’s WeChat as a potential influence. 
+“If you're in China, you kind of live on WeChat, it does everything," he said. "It's sort of like Twitter, plus PayPal, plus a whole bunch of other things. And all rolled into one [...] great interface. It's really an excellent app.”
+Earlier this month, Musk changed Twitter’s corporate name to X Corp., after merging the company with an eponymous newly-formed shell company en route to creating “X”, the name for his envisioned “everything app.” He tweeted the letter on Tuesday.
