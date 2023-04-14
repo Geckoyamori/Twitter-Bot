@@ -15,38 +15,38 @@
 
 [煽りツイート]
 ・煽りツイートは記事の内容をもとに多くの人の注目、関心を集めるツイートであること
-・一文目の煽り文句は特に注目度の高まる文章にすること
-・記事のポイントは初心者にもわかりやすい言葉で要点を複数記載すること
-・一般ユーザーへの影響は、記事の内容をもとに想定される一般ユーザーへの影響を記載し、詳細を確認したくなる内容にすること
+・煽りタイトルは特に注目度を高めるために、知識の乏しい人にもわかりやすい短めの文章にすること
+・記事のポイントは初心者にもわかりやすい言葉で要点を記載すること
+・煽り文句は、記事の内容をもとに想定される一般ユーザーへの影響を端的に記載すること
 ・構成を[煽りツイート構成]、具体例を[煽りツイート具体例]にて示す
 
 [煽りツイート構成]
 【web3報】
 
+{煽りタイトル}{絵文字}
+
+・{記事のポイント}
+
+・{記事のポイント}
+
+・{記事のポイント}
+
 {煽り文句}{絵文字}
-
-・{記事のポイント}
-
-・{記事のポイント}
-
-・{記事のポイント}
-
-{一般ユーザーへの影響}{絵文字}
 
 詳細はこちら↓ #web3 {関連ハッシュタグ}
 
 [煽りツイート具体例]
 【web3報】
 
-ついにグーグルが変わる！🚨
+ついに、MastercardもNFTに本格参入❗️
 
-・検索エンジンに対話型AIを追加すると発表されました
+・Polygon上で4月末まで無料でNFT発行
 
-・巨額の費用と最先端技術を使ってます
+・AI音楽ジェネレーターや教材へのアクセスが可能
 
-・検索の概念がガラッと変化します
+・Mastercardアーティストアクセラレータープログラムの一環
 
-AIをイチ早く攻略した人が、次の時代を制す。
+音楽のあり方がガラッと変わります🚀
 
 詳細はこちら↓ #web3 #AI #Google
 
@@ -110,23 +110,18 @@ https://decrypt.co/122242/how-centrifuge-is-making-defi-impactful-with-real-worl
   ②①の質問に対する回答を[詳細解説ツイート]に取り入れる
 
 [元記事URL]
-https://decrypt.co/126261/goblintown-creator-trashes-nft-artwork-disables-trading-royalties-stand
+https://cointelegraph.com/news/what-happens-to-your-nfts-when-you-die
 
 [記事]
-Truth Labs, the creator of the Goblintown Ethereum NFT collection that went viral as the NFT market slumped last year, has been accused of "rugging" holders this week by changing all of the project's artwork into animated GIFs of a middle finger holding up three additional middle fingers.
-"Fuck royalties. Fuck supporting building and creatives. Flipping is the heart of what makes Web3 special. Honor the flipper, fuck the community. Long live the slow rug," all 10,000 of the animated NFTs now read.
-The change comes amid an ongoing stand by Truth Labs in favor of enforcing creator royalties, following recent changes by top marketplaces Blur and OpenSea to only enforce a minimum 0.5% creator royalty fee for many projects. A creator royalty is a fee attached to a secondary market sale of an NFT, and typically ranges between 5% to 10% of the sale price.
-
-The sarcastic and facetious tone appears to represent the company's view of a broad shift among some traders that no longer honor full creator royalty amounts when selling NFTs—and perhaps also the marketplaces that enable such behavior.
-In addition to the artwork change, Truth Labs announced Thursday that it had disabled any bidding, listing, or trading of Goblintown NFTs on OpenSea and Blur as the company prepares to move its NFTs to new smart contract that fully enforces creator royalty payments on-chain. Smart contracts hold the code that power autonomous decentralized apps (dapps), as well as NFT projects.
-Truth Labs said that it will automatically airdrop a new version of each affected NFT—with the original artwork—to holders' wallets by the end of the day on Sunday.
-
-"Rugs" are typically described as projects that creators have abandoned or failed to live up to promises with. Truth Labs hasn't done that, but the sudden artwork change and trading limits aren't sitting well with all holders. The company also did the same with its other, less prominent NFT collections, including IlluminatiNFT, The 187, and Grumpls.
-Truth Labs did not immediately respond to Decrypt's request for comment.
-Why does this matter? Truth Labs wants to preserve creator royalties and continue to receive its chosen percentage of revenue from all  secondary sales of its NFTs—a sentiment that many other creators, projects, industry figures, and even NFT marketplaces have echoed in recent months amid disruption in the NFT space.
-Starting last summer, new marketplaces undercut the long-standing practice of honoring full creator royalty fees, grabbing away market share by luring away users with less expensive trades. As a result, more established marketplaces eventually followed suit as their once-dominant market share disappeared.
-Royalties can be a considerable revenue source for NFT creators, especially on once-trendy collections like Goblintown. The project has seen over $101 million worth of trading volume to date per data from CryptoSlam, although the vast majority of that came in May and June 2022 shortly after the initially free NFT mint.
-"We as a team are committed to enforcing a royalty level that makes farming an unprofitable activity. All Truth collections will have 5% royalty going forward," Truth Labs wrote on Tuesday. "Farming" is a reference to Blur's NFT marketplace, which rewards traders for flipping NFTs, but is seen by some in the industry as a form of market manipulation.
-Although the royalties debate is contentious among NFT creators and collectors, Truth's move to support royalties hasn't been well received by many Goblintown holders. Some have accused the team of failing to provide "value" to Goblintown owners, as well as engaging in "centralized decision-making."
-"Not giving your holders the chance to [make] this decision goes against the ethos of this space," tweeted ArtsDAO co-founder Rahim Mahtab in response to the news. Another Twitter user called the trading halt "unacceptable," adding, "Go back to Web2."
-Goblintown started as a blasé, devil-may-care project designed to embrace toilet humor, as well as the degeneracy and debauchery of NFT traders and the subculture that's emerged around it. But today's move has some collectors wondering why its creators expect them to play by their rules.
+Once a nonfungible token (NFT) trader dies, their digital collectibles may be forever lost in the blockchain if they do not have a handover plan set up. Because of this, lawyers believe that it’s best to craft a way to pass on their assets in case of death.
+From a legal standpoint, creating an estate plan, which is simply arranging the management and disposal of properties in preparation for future incapacity or death, seems like a great choice. Jaime Herren, a wealth services lawyer, told Cointelegraph that this may be the best step that NFT owners can take to make sure their NFTs are passed on to their loved ones after death. Herren explained that:
+“If you have a valuable asset, it is always worth taking steps to ensure it ends up where you want after your death, whether that is to your heirs or to a charity. Substantial crypto assets require planners and fiduciaries with technical knowledge.”
+The attorney also explained that if the right plans are already in place, beneficiaries will not need to take any more affirmative actions. All they need to have is a wallet that will receive and hold the tokens. Herren explained that if the NFT owner dies while a comprehensive plan is in place the executor or trustee will be the one to ensure that their NFTs will be transferred to the beneficiaries. However, this also requires NFT collectors to give these executors and trustees instructions to access your wallets.
+“Obviously, from the estate planning perspective, the worst thing you can do is hold your blockchain assets in a cold wallet with only a brain key. That is the dreaded situation validating tales of lost permanently lost crypto-fortunes,” Herren added.
+According to recent data by blockchain analytics firm Glassnode, there are about 2.7 million Bitcoin (BTC), worth around $76 billion, that have not been touched in a decade. Crypto influencer Anthony Pompliano believes that it’s possible that these assets are either being held by disciplined investors or are already forgotten and lost.
+Cointelegraph also asked those working in the NFT space if there's a possibility of automating the transfer of NFTs to specific wallets after death. When asked about this topic, Oscar Franklin Tan, the chief legal officer of NFT platform Enjin, shared that this remains more of a legal issue rather than a tech issue. Tan explained that:
+“Smart contracts are certainly flexible enough to transfer NFTs on the death of the owner. However, death in the physical world is not an on-chain event, and the death would have to be linked to the smart contract through an oracle for it to trigger.”
+Tan also added that until government death certificates become accessible via blockchain oracles, the death still needs to be linked by a trusted third party like a lawyer, to verify the death. “An on-chain transfer on death will in concept still trigger legal consequences of death, such as inheritance taxes,” he added.
+Ajay Prashanth, the head of ecosystem growth at NFT insights platform Bitscrunch, echoed Tan’s comments on the topic. Prashanth, who is also a software engineer, said that setting up smart contracts to automatically transfer NFTs after death is "technically feasible."
+However, in implementing such a system, practical challenges and legal considerations need to be addressed. He explained that after enlisting the help of legal personnel to verify the proof that the collector passed away, it’s necessary to set up the smart contract to connect with the legal documents.
+“The process entails defining beneficiaries in the smart contract code or connecting the smart contract to a different legal document, such as a will, that specifies the desired beneficiaries,” he explained. This will allow the smart contract to find the correct recipients and receive specific instructions on what to do after verifying the death, such as transferring the NFTs.
