@@ -21,19 +21,30 @@
 ・構成を[煽りツイート構成]、具体例を[煽りツイート具体例]にて示す
 
 [煽りツイート構成]
+【web3報】
+
 {煽り文句}{絵文字}
 
-{記事のポイント}
+・{記事のポイント}
+
+・{記事のポイント}
+
+・{記事のポイント}
 
 {一般ユーザーへの影響}{絵文字}
 
 詳細はこちら↓ #web3 {関連ハッシュタグ}
 
 [煽りツイート具体例]
+【web3報】
+
 ついにグーグルが変わる！🚨
 
-検索エンジンに対話型AIを追加すると発表されました。
-検索の概念がガラッと変化します。
+・検索エンジンに対話型AIを追加すると発表されました
+
+・巨額の費用と最先端技術を使ってます
+
+・検索の概念がガラッと変化します
 
 AIをイチ早く攻略した人が、次の時代を制す。
 
@@ -65,7 +76,6 @@ Amazon出品者は、拡大のための信用が得られず苦戦していま�
 
 {まとめ}{絵文字}
 
-元記事はこちら
 {元記事URL}
 
 [まとめツイート具体例]
@@ -73,7 +83,6 @@ Amazon出品者は、拡大のための信用が得られず苦戦していま�
 
 Centrifugeは、Amazon出品者に融資を提供し、資産を担保にして流動性を確保することができます。これにより、伝統的金融とDeFiの橋渡しを果たし、DeFi市場に多大な影響を与えるでしょう。🌉
 
-元記事はこちら
 https://decrypt.co/122242/how-centrifuge-is-making-defi-impactful-with-real-world-assets
 
 [用語解説ツイート]
@@ -101,22 +110,23 @@ https://decrypt.co/122242/how-centrifuge-is-making-defi-impactful-with-real-worl
   ②①の質問に対する回答を[詳細解説ツイート]に取り入れる
 
 [元記事URL]
-https://decrypt.co/126201/etoro-announces-crypto-stock-trading-integration-twitter
+https://decrypt.co/126261/goblintown-creator-trashes-nft-artwork-disables-trading-royalties-stand
 
 [記事]
-Stock trading is coming to Twitter. And, reportedly, crypto trading.
-Via a new partnership with eToro, users can now make use of eToro’s market charts on a range of financial investments, simply by searching for the relevant "cashtag," usually by putting a "$" sign in front of the ticker, like "$TSLA" for Tesla stock. 
-A chart then appears, reflecting the asset’s 24-hour price performance along with a link that says “View on eToro” where users can then view more in-depth market information and purchase the asset, along with other assets offered by the platform. 
-Despite reports that the integration would also include cryptocurrencies, such as Bitcoin, Ethereum, and Dogecoin, the social media platform has yet to deliver.
-Nothing appears when searching for a variety of crypto cashtags on the platform.
-An eToro representative told Decrypt via email that they were "having the same issue" when searching the BTC cashtag. "We are checking this with Twitter so hopefully it will be resolved soon,” they said. 
+Truth Labs, the creator of the Goblintown Ethereum NFT collection that went viral as the NFT market slumped last year, has been accused of "rugging" holders this week by changing all of the project's artwork into animated GIFs of a middle finger holding up three additional middle fingers.
+"Fuck royalties. Fuck supporting building and creatives. Flipping is the heart of what makes Web3 special. Honor the flipper, fuck the community. Long live the slow rug," all 10,000 of the animated NFTs now read.
+The change comes amid an ongoing stand by Truth Labs in favor of enforcing creator royalties, following recent changes by top marketplaces Blur and OpenSea to only enforce a minimum 0.5% creator royalty fee for many projects. A creator royalty is a fee attached to a secondary market sale of an NFT, and typically ranges between 5% to 10% of the sale price.
 
-Twitter did not immediately respond to Decrypt's request for comment.
-Twitter CEO Elon Musk has been an avowed fan of cryptocurrencies long before he acquired the social media platform. 
-His tweets pumping his favorite cryptocurrency Dogecoin (DOGE) helped it to reach its all-time high of $0.73 in May 2021. The cryptocurrency has also soared in the past hour, following the latest eToro tie-up.
-At the beginning of last week, DOGE ballooned 20% in less than an hour after Musk changed the iconic blue bird logo on the social media site to a picture of Doge, the Shiba Inu behind the meme that inspired the coin. 
-In his capacity as Tesla CEO, he invested $1.5 billion in Bitcoin in February 2021. By the end of June last year, however, the company had sold about 75% of its war chest and is HODLing the remainder. 
-Since beginning his bid to buy out Twitter last spring, Musk has often hinted that he wants crypto and finance to be integrated into the platform. 
-While negotiating the takeover, Musk let slip that he saw the potential to turn Twitter into a kind of “super app," citing China’s WeChat as a potential influence. 
-“If you're in China, you kind of live on WeChat, it does everything," he said. "It's sort of like Twitter, plus PayPal, plus a whole bunch of other things. And all rolled into one [...] great interface. It's really an excellent app.”
-Earlier this month, Musk changed Twitter’s corporate name to X Corp., after merging the company with an eponymous newly-formed shell company en route to creating “X”, the name for his envisioned “everything app.” He tweeted the letter on Tuesday.
+The sarcastic and facetious tone appears to represent the company's view of a broad shift among some traders that no longer honor full creator royalty amounts when selling NFTs—and perhaps also the marketplaces that enable such behavior.
+In addition to the artwork change, Truth Labs announced Thursday that it had disabled any bidding, listing, or trading of Goblintown NFTs on OpenSea and Blur as the company prepares to move its NFTs to new smart contract that fully enforces creator royalty payments on-chain. Smart contracts hold the code that power autonomous decentralized apps (dapps), as well as NFT projects.
+Truth Labs said that it will automatically airdrop a new version of each affected NFT—with the original artwork—to holders' wallets by the end of the day on Sunday.
+
+"Rugs" are typically described as projects that creators have abandoned or failed to live up to promises with. Truth Labs hasn't done that, but the sudden artwork change and trading limits aren't sitting well with all holders. The company also did the same with its other, less prominent NFT collections, including IlluminatiNFT, The 187, and Grumpls.
+Truth Labs did not immediately respond to Decrypt's request for comment.
+Why does this matter? Truth Labs wants to preserve creator royalties and continue to receive its chosen percentage of revenue from all  secondary sales of its NFTs—a sentiment that many other creators, projects, industry figures, and even NFT marketplaces have echoed in recent months amid disruption in the NFT space.
+Starting last summer, new marketplaces undercut the long-standing practice of honoring full creator royalty fees, grabbing away market share by luring away users with less expensive trades. As a result, more established marketplaces eventually followed suit as their once-dominant market share disappeared.
+Royalties can be a considerable revenue source for NFT creators, especially on once-trendy collections like Goblintown. The project has seen over $101 million worth of trading volume to date per data from CryptoSlam, although the vast majority of that came in May and June 2022 shortly after the initially free NFT mint.
+"We as a team are committed to enforcing a royalty level that makes farming an unprofitable activity. All Truth collections will have 5% royalty going forward," Truth Labs wrote on Tuesday. "Farming" is a reference to Blur's NFT marketplace, which rewards traders for flipping NFTs, but is seen by some in the industry as a form of market manipulation.
+Although the royalties debate is contentious among NFT creators and collectors, Truth's move to support royalties hasn't been well received by many Goblintown holders. Some have accused the team of failing to provide "value" to Goblintown owners, as well as engaging in "centralized decision-making."
+"Not giving your holders the chance to [make] this decision goes against the ethos of this space," tweeted ArtsDAO co-founder Rahim Mahtab in response to the news. Another Twitter user called the trading halt "unacceptable," adding, "Go back to Web2."
+Goblintown started as a blasé, devil-may-care project designed to embrace toilet humor, as well as the degeneracy and debauchery of NFT traders and the subculture that's emerged around it. But today's move has some collectors wondering why its creators expect them to play by their rules.
