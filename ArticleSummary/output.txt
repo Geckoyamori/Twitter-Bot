@@ -23,7 +23,7 @@
 [煽りツイート構成]
 【web3報】
 
-{煽りタイトル}{絵文字}
+{煽りタイトル}❗️❗️
 
 ・{記事のポイント}
 
@@ -31,14 +31,12 @@
 
 ・{記事のポイント}
 
-{煽り文句}{絵文字}
-
-詳細はこちら↓ #web3 {関連ハッシュタグ}
+{煽り文句}👇
 
 [煽りツイート具体例]
 【web3報】
 
-ついに、MastercardもNFTに本格参入❗️
+ついに、MastercardもNFTに本格参入❗️❗️
 
 ・Polygon上で4月末まで無料でNFT発行
 
@@ -46,9 +44,7 @@
 
 ・Mastercardアーティストアクセラレータープログラムの一環
 
-音楽のあり方がガラッと変わります🚀
-
-詳細はこちら↓ #web3 #AI #Google
+音楽のあり方がガラッと変わります👇
 
 [詳細解説ツイート]
 ・詳細解説ツイートは6ツイート程度で構成された連続ツイートであること
@@ -110,18 +106,25 @@ https://decrypt.co/122242/how-centrifuge-is-making-defi-impactful-with-real-worl
   ②①の質問に対する回答を[詳細解説ツイート]に取り入れる
 
 [元記事URL]
-https://cointelegraph.com/news/what-happens-to-your-nfts-when-you-die
+https://decrypt.co/137094/quite-surprise-seeing-cryptopunks-nft-pompidou-larva-labs-co-founder
 
 [記事]
-Once a nonfungible token (NFT) trader dies, their digital collectibles may be forever lost in the blockchain if they do not have a handover plan set up. Because of this, lawyers believe that it’s best to craft a way to pass on their assets in case of death.
-From a legal standpoint, creating an estate plan, which is simply arranging the management and disposal of properties in preparation for future incapacity or death, seems like a great choice. Jaime Herren, a wealth services lawyer, told Cointelegraph that this may be the best step that NFT owners can take to make sure their NFTs are passed on to their loved ones after death. Herren explained that:
-“If you have a valuable asset, it is always worth taking steps to ensure it ends up where you want after your death, whether that is to your heirs or to a charity. Substantial crypto assets require planners and fiduciaries with technical knowledge.”
-The attorney also explained that if the right plans are already in place, beneficiaries will not need to take any more affirmative actions. All they need to have is a wallet that will receive and hold the tokens. Herren explained that if the NFT owner dies while a comprehensive plan is in place the executor or trustee will be the one to ensure that their NFTs will be transferred to the beneficiaries. However, this also requires NFT collectors to give these executors and trustees instructions to access your wallets.
-“Obviously, from the estate planning perspective, the worst thing you can do is hold your blockchain assets in a cold wallet with only a brain key. That is the dreaded situation validating tales of lost permanently lost crypto-fortunes,” Herren added.
-According to recent data by blockchain analytics firm Glassnode, there are about 2.7 million Bitcoin (BTC), worth around $76 billion, that have not been touched in a decade. Crypto influencer Anthony Pompliano believes that it’s possible that these assets are either being held by disciplined investors or are already forgotten and lost.
-Cointelegraph also asked those working in the NFT space if there's a possibility of automating the transfer of NFTs to specific wallets after death. When asked about this topic, Oscar Franklin Tan, the chief legal officer of NFT platform Enjin, shared that this remains more of a legal issue rather than a tech issue. Tan explained that:
-“Smart contracts are certainly flexible enough to transfer NFTs on the death of the owner. However, death in the physical world is not an on-chain event, and the death would have to be linked to the smart contract through an oracle for it to trigger.”
-Tan also added that until government death certificates become accessible via blockchain oracles, the death still needs to be linked by a trusted third party like a lawyer, to verify the death. “An on-chain transfer on death will in concept still trigger legal consequences of death, such as inheritance taxes,” he added.
-Ajay Prashanth, the head of ecosystem growth at NFT insights platform Bitscrunch, echoed Tan’s comments on the topic. Prashanth, who is also a software engineer, said that setting up smart contracts to automatically transfer NFTs after death is "technically feasible."
-However, in implementing such a system, practical challenges and legal considerations need to be addressed. He explained that after enlisting the help of legal personnel to verify the proof that the collector passed away, it’s necessary to set up the smart contract to connect with the legal documents.
-“The process entails defining beneficiaries in the smart contract code or connecting the smart contract to a different legal document, such as a will, that specifies the desired beneficiaries,” he explained. This will allow the smart contract to find the correct recipients and receive specific instructions on what to do after verifying the death, such as transferring the NFTs.
+Among the original artworks by Matisse and Picasso, visitors to Paris' famed Centre Pompidou can now find a unique new exhibit: a CryptoPunks NFT.
+It's part of a new exhibition titled “Policies of the Immaterial: From Certificate to Blockchain,” exploring the relationships between blockchain and artistic creation. Running until January 2024, the exhibition features work from 13 French and international artists selected by the acquisition committee of the National Museum of Modern Art.
+Included among them is CryptoPunk #110, a non-fungible token (NFT) artwork.
+"It's a real honor, obviously, but it's also quite a surprise,” Matt Hall, co-founder of CryptoPunks creators Larva Labs, told Decrypt. “It has been a wild ride, certainly over a relatively short number of years."
+The NFT was gifted to the museum by CryptoPunks owners Yuga Labs, as part of the “Punks Legacy Project.” The firm behind the hugely popular Bored Ape Yacht Club (BAYC) NFT collection, Yuga Labs bought the intellectual property rights to Larva Labs' NFT projects CryptoPunks and Meebits in March 2022.
+The exhibit also includes examples of crypto art, net art, generative art, pixel art, and more.
+Marcella Lista and Philippe Bettinelli, the curators of the exhibition, wanted to show the full spectrum of art related to blockchain. Above all, their ambition is to demonstrate how these works and artistic movements fit into the wider history of art.
+
+According to them, it's an "original study of the crypto-economy ecosystem and its impact on definitions and boundaries of artworks, creators, collections, and the audience."
+CryptoPunks, for example, fits into the pixel art movement. "We had worked on several games before, using pixel art,” said Hall. “John [Watkinson, the other co-founder of Larva Labs] had drawn many of the graphics for those. He had been experimenting with the character generator, by applying the pixel-art style he was accustomed to."
+Larva Labs also have an Autoglyph, from the first-ever on-chain generative art collection, on display. Unlike most NFTs, Larva Labs’ founders figured out a way to store all the data, including the image itself, in the smart contract.
+As Hall points out, "I believe what the curators appreciated about the piece was that it holds a significant place in the continuity of generative art and computer-generated art from the 1960s onward."
+Showcased alongside various iterations of digitally-native art is work that nods to the blockchain long before the arrival of the Bitcoin whitepaper.
+The oldest artwork displayed, "The Checkbook," was conceived in 1959 by French artist Yves Klein. He created these checkbooks to carry out transfers of "transferable immaterial pictorial sensitivity."
+Buyers become owners of what could be called parcels of emptiness and only retain, as material proof, the sales receipt created by Klein himself, which takes the form of a check with gold lettering.
+The displayed artworks have been chosen for their inclination to explore innovative concepts. French artist Fred Forest's piece, "Network-Parcel," was the first to be auctioned exclusively online in 1996.
+Meanwhile, the work of French-American artist Sarah Meyonas, "Bitch Coin," represents the first artwork developed directly on the blockchain. By crafting a token with a value tied to the artist's popularity, Sarah Meyonas pioneered the concept of tokenized art.
+Most importantly, though, the NFTs acquired by the Centre Pompidou now belong to the French national heritage.
+And as Larva Labs’ Matt Hall explained, seeing them together can be a startling experience.
