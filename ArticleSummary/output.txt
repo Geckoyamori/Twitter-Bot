@@ -21,7 +21,7 @@
 ・構成を[煽りツイート構成]、具体例を[煽りツイート具体例]にて示す
 
 [煽りツイート構成]
-【Web3報】
+【Web3ニュース速報】
 
 {煽りタイトル}❗️❗️
 
@@ -34,7 +34,7 @@
 {煽り文句}👇
 
 [煽りツイート具体例]
-【Web3報】
+【Web3ニュース速報】
 
 ついに、MastercardもNFTに本格参入❗️❗️
 
@@ -106,25 +106,21 @@ https://decrypt.co/122242/how-centrifuge-is-making-defi-impactful-with-real-worl
   ②①の質問に対する回答を[詳細解説ツイート]に取り入れる
 
 [元記事URL]
-https://decrypt.co/137094/quite-surprise-seeing-cryptopunks-nft-pompidou-larva-labs-co-founder
+https://decrypt.co/138454/pepe-coin-enters-markets-top-100-cryptocurrencies-soaring-overnight
 
 [記事]
-Among the original artworks by Matisse and Picasso, visitors to Paris' famed Centre Pompidou can now find a unique new exhibit: a CryptoPunks NFT.
-It's part of a new exhibition titled “Policies of the Immaterial: From Certificate to Blockchain,” exploring the relationships between blockchain and artistic creation. Running until January 2024, the exhibition features work from 13 French and international artists selected by the acquisition committee of the National Museum of Modern Art.
-Included among them is CryptoPunk #110, a non-fungible token (NFT) artwork.
-"It's a real honor, obviously, but it's also quite a surprise,” Matt Hall, co-founder of CryptoPunks creators Larva Labs, told Decrypt. “It has been a wild ride, certainly over a relatively short number of years."
-The NFT was gifted to the museum by CryptoPunks owners Yuga Labs, as part of the “Punks Legacy Project.” The firm behind the hugely popular Bored Ape Yacht Club (BAYC) NFT collection, Yuga Labs bought the intellectual property rights to Larva Labs' NFT projects CryptoPunks and Meebits in March 2022.
-The exhibit also includes examples of crypto art, net art, generative art, pixel art, and more.
-Marcella Lista and Philippe Bettinelli, the curators of the exhibition, wanted to show the full spectrum of art related to blockchain. Above all, their ambition is to demonstrate how these works and artistic movements fit into the wider history of art.
-
-According to them, it's an "original study of the crypto-economy ecosystem and its impact on definitions and boundaries of artworks, creators, collections, and the audience."
-CryptoPunks, for example, fits into the pixel art movement. "We had worked on several games before, using pixel art,” said Hall. “John [Watkinson, the other co-founder of Larva Labs] had drawn many of the graphics for those. He had been experimenting with the character generator, by applying the pixel-art style he was accustomed to."
-Larva Labs also have an Autoglyph, from the first-ever on-chain generative art collection, on display. Unlike most NFTs, Larva Labs’ founders figured out a way to store all the data, including the image itself, in the smart contract.
-As Hall points out, "I believe what the curators appreciated about the piece was that it holds a significant place in the continuity of generative art and computer-generated art from the 1960s onward."
-Showcased alongside various iterations of digitally-native art is work that nods to the blockchain long before the arrival of the Bitcoin whitepaper.
-The oldest artwork displayed, "The Checkbook," was conceived in 1959 by French artist Yves Klein. He created these checkbooks to carry out transfers of "transferable immaterial pictorial sensitivity."
-Buyers become owners of what could be called parcels of emptiness and only retain, as material proof, the sales receipt created by Klein himself, which takes the form of a check with gold lettering.
-The displayed artworks have been chosen for their inclination to explore innovative concepts. French artist Fred Forest's piece, "Network-Parcel," was the first to be auctioned exclusively online in 1996.
-Meanwhile, the work of French-American artist Sarah Meyonas, "Bitch Coin," represents the first artwork developed directly on the blockchain. By crafting a token with a value tied to the artist's popularity, Sarah Meyonas pioneered the concept of tokenized art.
-Most importantly, though, the NFTs acquired by the Centre Pompidou now belong to the French national heritage.
-And as Larva Labs’ Matt Hall explained, seeing them together can be a startling experience.
+A new meme coin is born.
+Pepe (PEPE), launched just two weeks ago, has now entered the market’s top 100 largest cryptocurrencies, with a market capitalization of $582 million.
+The PEPE token pumped 111% in the last 24 hours and is up 304% over the week, according to CoinGecko.
+PEPE is an ERC-20 token with a supply of 420.69 trillion tokens, joining the ranks of so-called meme coins, or tokens based on internet memes and popular culture references.
+While there have been several Pepe the Frog NFTs and tokens released over the years, the most recent PEPE token has been especially fortuitous in capturing the market’s attention.
+One investor even managed to turn $250 in PEPE into $1.02 million in just a few days. They bought the token on April 15 swapping 0.125 Ethereum for 5.9 trillion PEPE tokens.
+The bet then ballooned into a million dollars as PEPE pumped roughly 40,7900% in four days—the wallet continues to hold 3.9 trillion coins, worth just over $5.3 million.
+The coin first began trading on April 15 at a price of around $0.000000001. The token was last trading at $0.00000137, per CoinGecko data.
+The meteoric rise of PEPE has occurred in lockstep with a similar rise in Google searches.
+The Google Trend score for “pepecoin” surged from 3 to 100 from the week of April 9 to the week of April 16.
+The score reflects the popularity of a keyword in Google Search in a given time period. The metric shifts between 0 to 100, with 100 representing the peak popularity for a particular keyword search.
+ 
+Another factor potentially moving the price of PEPE coin is its listing on several cryptocurrency exchanges, including OKX, Huobi, Gate.io, and MEXC.
+DeFi volumes for PEPE have also soared. Volumes around the token spiked from $2.99 million on April 15 in a Uniswap PEPE/WETH pool, to over around $240 million with multiple liquidity pools and centralized exchange listings.
+Nansen’s Ethereum analytics dashboard shows that over 30 “smart money” wallets bought PEPE tokens worth around $1 million in the last week. The analytics firm tags very large and active traders in the “smart wallets” category.
