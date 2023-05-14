@@ -1,17 +1,10 @@
 [命令]
 ・あなたは、Web3の専門家でTwitterのインフルエンサーです。
-・Web3初心者向けに、Web3ニュース記事の内容をわかりやすくまとめた最高の連続ツイートを[条件]に従って出力してください。
-
-[条件]
-・[手順1]を実行、その後[手順2]、その後[手順3]を実行し、最終的な連続ツイートを完成させること
-・[手順1]、[手順2]、[手順3]のプロセスの出力はしないこと
-・最終的な連続ツイートのみを出力すること
-・各ツイートは130文字以上140字以内であること
-・各ツイートは丁寧語で記載すること
-
-[手順1]
-・以下4つのカテゴリーからなる連続ツイートを作成すること
+・Web3初心者向けに、Web3ニュース記事の内容をわかりやすくまとめた連続ツイートを出力してください。
+・連続ツイートは、以下4つのカテゴリーで構成されるものにしてください。
 　[煽りツイート][詳細解説ツイート][まとめツイート][用語解説ツイート]
+・各ツイートは130文字以上140字以内にしてください。
+・各ツイートは丁寧語で記載してください。
 
 [煽りツイート]
 ・煽りツイートは記事の内容をもとに多くの人の注目、関心を集めるツイートであること
@@ -47,10 +40,10 @@
 音楽のあり方がガラッと変わります👇
 
 [詳細解説ツイート]
-・詳細解説ツイートは6ツイート程度で構成された連続ツイートであること
-・詳細解説ツイートは論理的に整合性のとれた内容となっており、内容が急に飛躍しないこと
-・詳細解説ツイートの最初のツイートは、背景や経緯など、事前知識がない人でもわかりやすい内容にすること
+・詳細解説ツイートは6ツイート程度で構成されること
+・詳細解説ツイートの最初のツイートは、背景から説明して、事前知識がない人でもわかりやすい内容にすること
 ・詳細解説ツイートの各ツイートは、具体例や数字などを含んだ詳細がわかる内容にすること
+・詳細解説ツイートの各ツイート間で論理の飛躍が起きないこと
 ・構成を[詳細解説ツイート構成]、具体例を[詳細解説ツイート具体例]にて示す
 
 [詳細解説ツイート構成]
@@ -95,32 +88,18 @@ https://decrypt.co/122242/how-centrifuge-is-making-defi-impactful-with-real-worl
 
 分散型金融。ブロックチェーン技術を利用して、中央権力や仲介者を排除した金融サービスを提供します。DeFiは透明性が高く、効率的な取引が可能。代表的なサービスには、貸借、保険、投資などがあります。🌐
 
-[手順2]
-・出力した[煽りツイート]の内容に対して以下を3回繰り返し、よりインプレッション数が増える内容にアップデートすること
-  ①twitterのインプレッション数を稼ぐ専門家が考えそうなインプレッション数を増やすための指摘を考える
-  ②①の指摘に対する対応を[煽りツイート]に取り入れる
-
-[手順3]
-・出力した[詳細解説ツイート]の各ツイートの内容に対して以下を3回繰り返し、より初心者にわかりやすく、具体的な内容にアップデートすること
-  ①知識に乏しい初心者がしそうな質問を考える
-  ②①の質問に対する回答を[詳細解説ツイート]に取り入れる
-
 [元記事URL]
-https://decrypt.co/138454/pepe-coin-enters-markets-top-100-cryptocurrencies-soaring-overnight
+https://decrypt.co/139961/ethereum-network-suffers-finality-issues-heres-what-that-means
 
 [記事]
-A new meme coin is born.
-Pepe (PEPE), launched just two weeks ago, has now entered the market’s top 100 largest cryptocurrencies, with a market capitalization of $582 million.
-The PEPE token pumped 111% in the last 24 hours and is up 304% over the week, according to CoinGecko.
-PEPE is an ERC-20 token with a supply of 420.69 trillion tokens, joining the ranks of so-called meme coins, or tokens based on internet memes and popular culture references.
-While there have been several Pepe the Frog NFTs and tokens released over the years, the most recent PEPE token has been especially fortuitous in capturing the market’s attention.
-One investor even managed to turn $250 in PEPE into $1.02 million in just a few days. They bought the token on April 15 swapping 0.125 Ethereum for 5.9 trillion PEPE tokens.
-The bet then ballooned into a million dollars as PEPE pumped roughly 40,7900% in four days—the wallet continues to hold 3.9 trillion coins, worth just over $5.3 million.
-The coin first began trading on April 15 at a price of around $0.000000001. The token was last trading at $0.00000137, per CoinGecko data.
-The meteoric rise of PEPE has occurred in lockstep with a similar rise in Google searches.
-The Google Trend score for “pepecoin” surged from 3 to 100 from the week of April 9 to the week of April 16.
-The score reflects the popularity of a keyword in Google Search in a given time period. The metric shifts between 0 to 100, with 100 representing the peak popularity for a particular keyword search.
- 
-Another factor potentially moving the price of PEPE coin is its listing on several cryptocurrency exchanges, including OKX, Huobi, Gate.io, and MEXC.
-DeFi volumes for PEPE have also soared. Volumes around the token spiked from $2.99 million on April 15 in a Uniswap PEPE/WETH pool, to over around $240 million with multiple liquidity pools and centralized exchange listings.
-Nansen’s Ethereum analytics dashboard shows that over 30 “smart money” wallets bought PEPE tokens worth around $1 million in the last week. The analytics firm tags very large and active traders in the “smart wallets” category.
+Ethereum, the world’s second largest blockchain by cryptocurrency market cap, suffered a technical issue on Friday, causing its network to halt finalizing blocks for more than an hour.
+Finality takes roughly 15 minutes, and refers to the guarantee that a block cannot be altered or removed from the blockchain without burning at least 33% of the total staked ETH, according to the Ethereum Foundation.
+The network lost finality for roughly an hour midday Friday, in what appears to be the second issue of its kind in 24 hours. On Thursday, blocks were being proposed but not validated during a 25-minute window on Thursday. 
+The cause of these outages still remains unclear, which has spurred many in the crypto community to take to social media to discuss and try to figure out what went wrong.
+Prominent venture capitalist and Ethereum supporter Adam Cochran tweeted out: “ETH beacon chain finality has now failed for over an hour, we’re at inactivity leak time and there is no denying this is now a liveness fault. Hoping that this is just an implementation issue for a single client to fix and not a larger protocol issue… either way, not good."
+
+Others, however, aren’t so concerned. Ethereum core developer Eric Conner said on Twitter that the network “did not go down,” but rather that there was a bug in some clients that has already been fixed.  
+The finality issue, regardless of its origin or duration, remains controversial. Despite transactions appearing to process, the fact they don’t get finalized can mean they can potentially be re-ordered or simply ignored.
+Pseudonymous Ethereum builder Superphiz tweeted a contradictory warning claiming that the second wave was over, but for users to expect a third.
+“But don’t worry too much," he said. "As bad as this looks, the chain keeps going and eventually finalizes.”
+As of this writing, the network is up and running again at full capacity, with blocks being finalized, although users and developers remain on alert.

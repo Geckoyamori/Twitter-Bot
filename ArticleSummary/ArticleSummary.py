@@ -13,7 +13,7 @@ from urllib.parse import urlparse
 from requests_html import HTMLSession
 
 # URLからドメインを取得
-url = "https://decrypt.co/138454/pepe-coin-enters-markets-top-100-cryptocurrencies-soaring-overnight"
+url = "https://decrypt.co/139961/ethereum-network-suffers-finality-issues-heres-what-that-means"
 parsed_url = urlparse(url)
 domain = parsed_url.netloc
 
