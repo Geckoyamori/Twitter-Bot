@@ -1,14 +1,13 @@
 [命令]
 ・あなたは、Web3の専門家でTwitterのインフルエンサーです。
 ・Web3初心者向けに、Web3ニュース記事の内容をわかりやすくまとめた連続ツイートを出力してください。
-・連続ツイートは、以下4つのカテゴリーで構成されるものにしてください。
-　[煽りツイート][詳細解説ツイート][まとめツイート][用語解説ツイート]
-・各ツイートは130文字以上140字以内にしてください。
+・連続ツイートは、以下3つのカテゴリーで構成されるものにしてください。
+　[煽りツイート][詳細解説ツイート][まとめツイート]
 ・各ツイートは丁寧語で記載してください。
 
 [煽りツイート]
 ・煽りツイートは記事の内容をもとに多くの人の注目、関心を集めるツイートであること
-・煽りタイトルは特に注目度を高めるために、知識の乏しい人にもわかりやすい短めの文章にすること
+・煽りタイトルは特に注目度を高めるために、知識の乏しい人にもわかりやすい文章にすること
 ・記事のポイントは初心者にもわかりやすい言葉で要点を記載すること
 ・煽り文句は、記事の内容をもとに想定される一般ユーザーへの影響を端的に記載すること
 ・構成を[煽りツイート構成]、具体例を[煽りツイート具体例]にて示す
@@ -24,7 +23,7 @@
 
 ・{記事のポイント}
 
-{煽り文句}👇
+{煽り文句}
 
 [煽りツイート具体例]
 【Web3ニュース速報】
@@ -32,12 +31,10 @@
 ついに、MastercardもNFTに本格参入❗️❗️
 
 ・Polygon上で4月末まで無料でNFT発行
-
 ・AI音楽ジェネレーターや教材へのアクセスが可能
-
 ・Mastercardアーティストアクセラレータープログラムの一環
 
-音楽のあり方がガラッと変わります👇
+音楽のあり方がガラッと変わります
 
 [詳細解説ツイート]
 ・詳細解説ツイートは6ツイート程度で構成されること
@@ -47,59 +44,43 @@
 ・構成を[詳細解説ツイート構成]、具体例を[詳細解説ツイート具体例]にて示す
 
 [詳細解説ツイート構成]
-{小見出し}{絵文字}
-
-{詳細解説}{絵文字}
+■{小見出し}{絵文字}
+{詳細解説}
 
 [詳細解説ツイート具体例]
-現状直面している課題🤔
-
-Amazon出品者は、拡大のための信用が得られず苦戦しています。資産から資本を引き出す選択肢は、高額であったり、大手企業に限定されていました。しかし、DeFiの登場でこれが変わります。🔄
+■現状直面している課題😅
+Amazon出品者は、拡大のための信用が得られず苦戦しています。資産から資本を引き出す選択肢は、高額であったり、大手企業に限定されていました。しかし、DeFiの登場でこれが変わります。
 
 [まとめツイート]
 ・まとめツイートには元記事URLを記載すること
 ・構成を[まとめツイート構成]、具体例を[まとめツイート具体例]にて示す
 
 [まとめツイート構成]
-まとめ{絵文字}
-
 {まとめ}{絵文字}
 
+元記事はこちら
 {元記事URL}
 
 [まとめツイート具体例]
-まとめ📝
-
 Centrifugeは、Amazon出品者に融資を提供し、資産を担保にして流動性を確保することができます。これにより、伝統的金融とDeFiの橋渡しを果たし、DeFi市場に多大な影響を与えるでしょう。🌉
 
+元記事はこちら
 https://decrypt.co/122242/how-centrifuge-is-making-defi-impactful-with-real-world-assets
 
-[用語解説ツイート]
-・詳細解説ツイート内で明記した用語を3つ程度、初心者にもわかりやすく詳細に説明すること
-・構成を[用語解説ツイート構成]、具体例を[用語解説ツイート具体例]にて示す
-
-[用語解説ツイート構成]
-用語解説：{用語}
-
-{用語解説}{絵文字}
-
-[用語解説ツイート具体例]
-用語解説：DeFi
-
-分散型金融。ブロックチェーン技術を利用して、中央権力や仲介者を排除した金融サービスを提供します。DeFiは透明性が高く、効率的な取引が可能。代表的なサービスには、貸借、保険、投資などがあります。🌐
-
 [元記事URL]
-https://decrypt.co/139961/ethereum-network-suffers-finality-issues-heres-what-that-means
+https://decrypt.co/152361/donald-trump-ethereum-crypto-holdings
 
 [記事]
-Ethereum, the world’s second largest blockchain by cryptocurrency market cap, suffered a technical issue on Friday, causing its network to halt finalizing blocks for more than an hour.
-Finality takes roughly 15 minutes, and refers to the guarantee that a block cannot be altered or removed from the blockchain without burning at least 33% of the total staked ETH, according to the Ethereum Foundation.
-The network lost finality for roughly an hour midday Friday, in what appears to be the second issue of its kind in 24 hours. On Thursday, blocks were being proposed but not validated during a 25-minute window on Thursday. 
-The cause of these outages still remains unclear, which has spurred many in the crypto community to take to social media to discuss and try to figure out what went wrong.
-Prominent venture capitalist and Ethereum supporter Adam Cochran tweeted out: “ETH beacon chain finality has now failed for over an hour, we’re at inactivity leak time and there is no denying this is now a liveness fault. Hoping that this is just an implementation issue for a single client to fix and not a larger protocol issue… either way, not good."
-
-Others, however, aren’t so concerned. Ethereum core developer Eric Conner said on Twitter that the network “did not go down,” but rather that there was a bug in some clients that has already been fixed.  
-The finality issue, regardless of its origin or duration, remains controversial. Despite transactions appearing to process, the fact they don’t get finalized can mean they can potentially be re-ordered or simply ignored.
-Pseudonymous Ethereum builder Superphiz tweeted a contradictory warning claiming that the second wave was over, but for users to expect a third.
-“But don’t worry too much," he said. "As bad as this looks, the chain keeps going and eventually finalizes.”
-As of this writing, the network is up and running again at full capacity, with blocks being finalized, although users and developers remain on alert.
+Donald Trump holds up to half a million in cryptocurrency, according to a recently released financial disclosure form submitted to a federal ethics agency.
+A filing submitted to the Office of Government Ethics included a listing of assets and other sources of income belonging to the former president. In one line on the second to last entry of the 82-page form, it lists a “cryptocurrency wallet (Ethereum)” with a value between $250,000 and $500,000. 
+The wallet appears to be connected to a line of non-fungible tokens (NFT) that his campaign launched as part of his bid to return to the White House in 2024 after his previous defeat to President Joe Biden in 2020. 
+The NFTs, a collection of virtual trading cards that feature illustrations of Trump in myriad poses as a superhero, cowboy, or astronaut, launched for $99 each in December 2022. 
+Sales of the tokens took off in the following months, including after his first indictment by a state court in New York, before dropping off after the candidate launched a second batch in April that crashed the first set’s value. 
+Trump’s ownership of a crypto wallet comes against a backdrop of historically critical comments he has made about cryptocurrencies, as he questioned their value in ways more akin to his Democratic Party rivals than his Republican peers.
+When he was in office, Trump tweeted only once about crypto. In July 2019, he said that he was "not a big fan of Bitcoin and other cryptocurrencies." Anthony Scaramucci, Trump's former communications director at the White House, later told Decrypt that he suspects Trump himself did not author the now-deleted tweet.
+After losing his re-election bid in 2020, Trump went on to tell Fox Business in June 2021 that Bitcoin—the first and most widely traded cryptocurrency—“just feels like a scam,” and made it clear that he prefers fiat currency.
+“I don’t like it, because it’s another currency competing against the dollar. I want the dollar to be the currency of the world. That’s what I’ve always said," Trump told Fox's Stuart Varney.
+Trump’s aversion to crypto comes in stark contrast to the warm embrace extended to the technology by others in his party. Since taking control of Congress, Republicans in the House and Senate have worked to advance new bills providing regulations for crypto that have been cheered on by the industry—albeit with some misgivings. 
+Among his GOP rivals for the White House, there have been a few who have staked out pro-crypto stances. 
+Miami Mayor Francis Suarez and entrepreneur Vivek Ramaswamy have been publicly supportive of cryptocurrency adoption. Florida Gov. Ron DeSantis has also promised to end what he says is the Biden administration’s “war on Bitcoin” if elected. All of these candidates remain far behind Trump in opinion polling. 
+On the Democratic side, long-shot Democratic Party candidate Robert F. Kennedy Jr. has been publicly vocal about his support for cryptocurrencies. He revealed that he and his family own about 14 Bitcoin after previously saying he was not an investor. 
