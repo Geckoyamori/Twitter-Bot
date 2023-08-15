@@ -36,12 +36,19 @@ document.addEventListener("DOMContentLoaded", (event) => {
 });
 
 function copyToClipboard(text) {
-  navigator.clipboard
-    .writeText(text)
-    .then(() => {
-      console.log("Copied to clipboard");
-    })
-    .catch((err) => {
-      console.error("Could not copy text: ", err);
-    });
+  const textarea = document.createElement("textarea");
+  textarea.textContent = text;
+  textarea.style.position = "fixed"; // 選択時にスクロールを避けるため
+  document.body.appendChild(textarea);
+  textarea.select();
+
+  try {
+    const successful = document.execCommand("copy");
+    const msg = successful ? "successful" : "unsuccessful";
+    console.log("Copying text command was " + msg);
+  } catch (err) {
+    console.error("Unable to copy", err);
+  }
+
+  document.body.removeChild(textarea);
 }
