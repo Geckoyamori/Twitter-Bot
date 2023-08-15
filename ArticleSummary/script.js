@@ -2,6 +2,7 @@ document.addEventListener("DOMContentLoaded", (event) => {
   const form = document.getElementById("extractor-form");
   const resultDiv = document.getElementById("result");
   const copyButton = document.getElementById("copy-button");
+  let formattedContent = "";
 
   form.addEventListener("submit", async function (e) {
     e.preventDefault();
@@ -20,7 +21,7 @@ document.addEventListener("DOMContentLoaded", (event) => {
 
       if (data.content) {
         // "\n"を"<br>"に置換
-        const formattedContent = data.content.replace(/\n/g, "<br>");
+        formattedContent = data.content.replace(/\n/g, "<br>");
         // HTML要素にセット
         resultDiv.innerHTML = formattedContent;
         copyButton.style.display = "block"; // Show the copy button when content is loaded
@@ -34,7 +35,7 @@ document.addEventListener("DOMContentLoaded", (event) => {
   });
 
   copyButton.addEventListener("click", function () {
-    copyToClipboard(resultDiv.textContent || "");
+    copyToClipboard(formattedContent || "");
   });
 });
 
