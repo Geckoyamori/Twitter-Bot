@@ -14,7 +14,10 @@ document.addEventListener("DOMContentLoaded", (event) => {
 
     try {
       const response = await fetch(apiURL);
+      console.log(response);
       const data = await response.json();
+      console.log(data);
+      console.log(data.content);
 
       if (data.content) {
         resultDiv.textContent = data.content;
