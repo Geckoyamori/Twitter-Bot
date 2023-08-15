@@ -22,6 +22,9 @@ document.addEventListener("DOMContentLoaded", (event) => {
 
         // HTML要素にセット
         resultDiv.innerHTML = formattedContent;
+
+        // 文字列をクリップボードにコピー
+        copyToClipboard(data.content);
       } else {
         resultDiv.textContent = "No content found";
       }
@@ -31,3 +34,14 @@ document.addEventListener("DOMContentLoaded", (event) => {
     }
   });
 });
+
+function copyToClipboard(text) {
+  navigator.clipboard
+    .writeText(text)
+    .then(function () {
+      console.log("Text successfully copied to clipboard");
+    })
+    .catch(function (err) {
+      console.error("Unable to copy text to clipboard", err);
+    });
+}
