@@ -1,3 +1,5 @@
+# ローカル実行用ファイル
+#
 # ①サイトの記事から本文を抽出
 #
 # ②抽出した内容をもとにChatGPTに連投ツイートを作成してもらうためのプロンプトをoutput.txtファイルに出力
@@ -34,12 +36,12 @@ def fetch_url_content_after_rendering(url):
 
 # ローカルのhtmlの中身を取得するメソッド（レンダリング後）
 def fetch_html_content_after_rendering(url):
-    soup = BeautifulSoup(open('ArticleSummary/input.html'), 'html.parser')
+    soup = BeautifulSoup(open('input.html'), 'html.parser')
     return soup
 
 
 # ファイルからプロンプト文字列を読み込む
-with open("ArticleSummary/prompt.txt", "r", encoding="utf-8") as file:
+with open("prompt.txt", "r", encoding="utf-8") as file:
     prompt = file.read()
 
 # 本文を抽出
@@ -49,7 +51,7 @@ if domain == "decrypt.co":
     text_content = soup.find("div", class_="post-content")
 
     # 新規テキストファイルを作成して出力する
-    with open("ArticleSummary/output.txt", "w", encoding="utf-8") as file:
+    with open("output.txt", "w", encoding="utf-8") as file:
         file.write(prompt + "\n")
         file.write(url + "\n\n")
         file.write("[記事]" + "\n")
@@ -68,7 +70,7 @@ elif domain == "www.coindesk.com":
     text_content = soup.find("div", class_="at-content-wrapper")
 
     # 新規テキストファイルを作成して出力する
-    with open("ArticleSummary/output.txt", "w", encoding="utf-8") as file:
+    with open("output.txt", "w", encoding="utf-8") as file:
         file.write(prompt + "\n")
         file.write(url + "\n\n")
         file.write("[記事]" + "\n")
@@ -85,7 +87,7 @@ elif domain == "cointelegraph.com":
     text_content = soup.html.find(".post-content", first=True)
     
     # 新規テキストファイルを作成して出力する
-    with open("ArticleSummary/output.txt", "w", encoding="utf-8") as file:
+    with open("output.txt", "w", encoding="utf-8") as file:
         file.write(prompt + "\n")
         file.write(url + "\n\n")
         file.write("[記事]" + "\n")
@@ -104,7 +106,7 @@ elif domain == "dappradar.com":
     text_content = soup.find("div", class_="entry-content")
     
     # 新規テキストファイルを作成して出力する
-    with open("ArticleSummary/output.txt", "w", encoding="utf-8") as file:
+    with open("output.txt", "w", encoding="utf-8") as file:
         file.write(prompt + "\n")
         file.write(url + "\n\n")
         file.write("[記事]" + "\n")
