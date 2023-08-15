@@ -2,7 +2,9 @@ document.addEventListener("DOMContentLoaded", (event) => {
   const form = document.getElementById("extractor-form");
   const resultDiv = document.getElementById("result");
   const copyButton = document.getElementById("copy-button");
+  const copyBodyButton = document.getElementById("copy-body-button");
   let formattedContent = ""; // For Clipboard
+  let formattedBody = ""; // For Clipboard
   let formattedContentForHTML = ""; // For HTML Display
 
   form.addEventListener("submit", async function (e) {
@@ -15,16 +17,19 @@ document.addEventListener("DOMContentLoaded", (event) => {
 
     resultDiv.textContent = "Loading...";
     copyButton.style.display = "none"; // Initially hide the copy button
+    copyBodyButton.style.display = "none"; // Initially hide the copy button
 
     try {
       const response = await fetch(apiURL);
       const data = await response.json();
 
-      if (data.content) {
-        formattedContent = data.content;
-        formattedContentForHTML = data.content.replace(/\n/g, "<br>");
+      if (data.prompt) {
+        formattedContent = data.prompt;
+        formattedBody = data.body;
+        formattedContentForHTML = data.prompt.replace(/\n/g, "<br>");
         resultDiv.innerHTML = formattedContentForHTML;
         copyButton.style.display = "block";
+        copyBodyButton.style.display = "block";
       } else {
         resultDiv.textContent = "No content found";
       }
@@ -36,6 +41,9 @@ document.addEventListener("DOMContentLoaded", (event) => {
 
   copyButton.addEventListener("click", function () {
     copyToClipboard(formattedContent || "");
+  });
+  copyBodyButton.addEventListener("click", function () {
+    copyToClipboard(formattedBody || "");
   });
 });
 
