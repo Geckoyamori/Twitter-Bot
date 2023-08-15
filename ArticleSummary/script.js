@@ -22,9 +22,6 @@ document.addEventListener("DOMContentLoaded", (event) => {
 
         // HTML要素にセット
         resultDiv.innerHTML = formattedContent;
-
-        // クリップボードにコピー
-        copyToClipboard(data.content);
       } else {
         resultDiv.textContent = "No content found";
       }
@@ -34,21 +31,3 @@ document.addEventListener("DOMContentLoaded", (event) => {
     }
   });
 });
-
-function copyToClipboard(text) {
-  const textarea = document.createElement("textarea");
-  textarea.textContent = text;
-  textarea.style.position = "fixed"; // 選択時にスクロールを避けるため
-  document.body.appendChild(textarea);
-  textarea.select();
-
-  try {
-    const successful = document.execCommand("copy");
-    const msg = successful ? "successful" : "unsuccessful";
-    console.log("Copying text command was " + msg);
-  } catch (err) {
-    console.error("Unable to copy", err);
-  }
-
-  document.body.removeChild(textarea);
-}
