@@ -2,18 +2,22 @@
 <html lang="ja">
   <head>
     <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Content Extractor</title>
-    <link rel="stylesheet" href="styles.css" />
   </head>
   <body>
-    <form id="url-form">
-      <label for="url-input">URLを入力:</label>
-      <input type="text" id="url-input" name="url" placeholder="URLを入力してください" required />
+    <h1>Content Extractor</h1>
+    <form id="extractor-form">
+      <label for="url-input">Enter URL:</label>
+      <input type="text" id="url-input" name="url" placeholder="https://example.com" />
       <button type="submit">抽出</button>
     </form>
+    <h2>Extracted Content:</h2>
     <div id="result">
-      <!-- ここにAPIからの結果が表示されます -->
+      <!-- Extracted content will be displayed here -->
     </div>
+
     <script src="script.js"></script>
   </body>
 </html>
