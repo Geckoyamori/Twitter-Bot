@@ -1,18 +1,19 @@
-/* styles.css */
-.container {
-  max-width: 600px;
-  margin: 50px auto;
+body {
+  font-family: Arial, sans-serif;
+  margin: 40px;
+}
+
+#url-form {
+  margin-bottom: 20px;
+}
+
+#url-input {
+  margin-right: 10px;
+}
+
+#result {
+  white-space: pre-wrap; /* JSONのインデントを保持するための設定 */
+  border: 1px solid #ddd;
   padding: 20px;
-  border: 1px solid #ccc;
-  border-radius: 5px;
-}
-
-h1 {
-  text-align: center;
-}
-
-#output {
-  width: 100%;
-  height: 300px;
-  margin-top: 20px;
+  background-color: #f9f9f9;
 }
