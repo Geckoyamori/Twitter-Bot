@@ -2,7 +2,8 @@ document.addEventListener("DOMContentLoaded", (event) => {
   const form = document.getElementById("extractor-form");
   const resultDiv = document.getElementById("result");
   const copyButton = document.getElementById("copy-button");
-  let formattedContent = "";
+  let formattedContent = ""; // For Clipboard
+  let formattedContentForHTML = ""; // For HTML Display
 
   form.addEventListener("submit", async function (e) {
     e.preventDefault();
@@ -20,11 +21,10 @@ document.addEventListener("DOMContentLoaded", (event) => {
       const data = await response.json();
 
       if (data.content) {
-        // "\n"を"<br>"に置換
-        formattedContent = data.content.replace(/\n/g, "<br>");
-        // HTML要素にセット
-        resultDiv.innerHTML = formattedContent;
-        copyButton.style.display = "block"; // Show the copy button when content is loaded
+        formattedContent = data.content;
+        formattedContentForHTML = data.content.replace(/\n/g, "<br>");
+        resultDiv.innerHTML = formattedContentForHTML;
+        copyButton.style.display = "block";
       } else {
         resultDiv.textContent = "No content found";
       }
