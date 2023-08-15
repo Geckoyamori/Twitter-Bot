@@ -24,7 +24,7 @@ document.addEventListener("DOMContentLoaded", (event) => {
         resultDiv.innerHTML = formattedContent;
 
         // クリップボードにコピー
-        copyToClipboard(data.content);
+        copyToClipboard(formattedContent);
       } else {
         resultDiv.textContent = "No content found";
       }
