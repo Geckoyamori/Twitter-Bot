@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Brython Demo</title>
+  </head>
+  <body>
+    <input type="text" id="urlInput" placeholder="Enter the URL..." />
+    <button onclick="extractContent()">Extract</button>
+    <textarea id="output"></textarea>
+
+    <!-- Brythonのインクルード -->
+    <script src="https://cdn.jsdelivr.net/gh/brython-dev/brython@3.10.1/brython.js"></script>
+    <script src="https://cdn.jsdelivr.net/gh/brython-dev/brython@3.10.1/brython_stdlib.js"></script>
+
+    <!-- Pythonスクリプト -->
+    <script type="text/python">
+      from browser import document, ajax
+
+      def extractContent():
+          url = document['urlInput'].value
+
+          # URLからドメインを取得
+          parsed_url = urlparse(url)
+          domain = parsed_url.netloc
+
+          # ここで、Pythonのロジックを書くか、ajaxを使用して外部APIにリクエストを送ることができます。
+          # 今回はデモのため、入力されたURLをそのまま出力エリアに表示するだけにします。
+          document['output'].value = url
+
+          # 実際に外部コンテンツを取得するには、ajaxを使ってAPIを呼び出す必要があります。
+          # ただし、同一オリジンポリシーの制約に注意する必要があります。
+
+      # Brythonを初期化
+      __BRYTHON__.run_script('extractContent')
+    </script>
+  </body>
+</html>
