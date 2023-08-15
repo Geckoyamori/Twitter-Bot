@@ -10,13 +10,29 @@
 # pip3 install requests-html
 
 from fastapi import FastAPI, HTTPException, Query
+from fastapi.middleware.cors import CORSMiddleware
 from typing import Optional
 import requests
 from bs4 import BeautifulSoup
 from urllib.parse import urlparse
 
+
 app = FastAPI()
 
+origins = [
+    "http://localhost:8000",
+    "http://127.0.0.1:8000",
+    "http://localhost:3000",
+    "http://geckoyamori.github.io",
+]
+
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=origins,
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
 
 # URLの中身を取得するメソッド（レンダリング前）
 def fetch_url_content_before_rendering(url):
