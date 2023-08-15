@@ -1,6 +1,7 @@
 document.addEventListener("DOMContentLoaded", (event) => {
   const form = document.getElementById("extractor-form");
   const resultDiv = document.getElementById("result");
+  const copyButton = document.getElementById("copy-button");
 
   form.addEventListener("submit", async function (e) {
     e.preventDefault();
@@ -11,6 +12,7 @@ document.addEventListener("DOMContentLoaded", (event) => {
     )}`;
 
     resultDiv.textContent = "Loading...";
+    copyButton.style.display = "none"; // Initially hide the copy button
 
     try {
       const response = await fetch(apiURL);
@@ -19,12 +21,9 @@ document.addEventListener("DOMContentLoaded", (event) => {
       if (data.content) {
         // "\n"を"<br>"に置換
         const formattedContent = data.content.replace(/\n/g, "<br>");
-
         // HTML要素にセット
         resultDiv.innerHTML = formattedContent;
-
-        // 文字列をクリップボードにコピー
-        copyToClipboard(data.content);
+        copyButton.style.display = "block"; // Show the copy button when content is loaded
       } else {
         resultDiv.textContent = "No content found";
       }
@@ -32,6 +31,10 @@ document.addEventListener("DOMContentLoaded", (event) => {
       console.error("Error fetching data:", error);
       resultDiv.textContent = "An error occurred while fetching data";
     }
+  });
+
+  copyButton.addEventListener("click", function () {
+    copyToClipboard(resultDiv.textContent || "");
   });
 });
 
