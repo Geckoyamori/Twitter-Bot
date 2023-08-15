@@ -23,7 +23,7 @@ origins = [
     "http://localhost:8000",
     "http://127.0.0.1:8000",
     "http://localhost:3000",
-    "http://geckoyamori.github.io",
+    "https://geckoyamori.github.io",
 ]
 
 app.add_middleware(
