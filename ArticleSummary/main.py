@@ -73,8 +73,8 @@ def extract_content_from_url(url: Optional[str] = Query(..., description="URL to
         # ChatGPTに投げるプロンプトファイルを作成する
         with open("output.txt", "w", encoding="utf-8") as file:
             file.write(prompt + "\n")
-            file.write(url + "\n\n")
-            file.write("[記事]" + "\n")
+            # file.write(url + "\n\n")
+            file.write("\n[記事]" + "\n")
 
             if text_content is None:
                 file.write("Error: Could not find text content.")
@@ -102,8 +102,8 @@ def extract_content_from_url(url: Optional[str] = Query(..., description="URL to
         # ChatGPTに投げるプロンプトファイルを作成する
         with open("output.txt", "w", encoding="utf-8") as file:
             file.write(prompt + "\n")
-            file.write(url + "\n\n")
-            file.write("[記事]" + "\n")
+            # file.write(url + "\n\n")
+            file.write("\n[記事]" + "\n")
 
             # 本文の段落要素（<p>タグ）を取得し、テキストを表示
             for paragraph in text_content.find_all("p"):
@@ -127,8 +127,8 @@ def extract_content_from_url(url: Optional[str] = Query(..., description="URL to
         # ChatGPTに投げるプロンプトファイルを作成する
         with open("output.txt", "w", encoding="utf-8") as file:
             file.write(prompt + "\n")
-            file.write(url + "\n\n")
-            file.write("[記事]" + "\n")
+            # file.write(url + "\n\n")
+            file.write("\n[記事]" + "\n")
 
             # 本文の段落要素（<p>タグおよび<blockquote>タグ）を取得し、テキストを表示
             for paragraph in text_content.find("p, blockquote"):
@@ -155,8 +155,8 @@ def extract_content_from_url(url: Optional[str] = Query(..., description="URL to
         # ChatGPTに投げるプロンプトファイルを作成する
         with open("output.txt", "w", encoding="utf-8") as file:
             file.write(prompt + "\n")
-            file.write(url + "\n\n")
-            file.write("[記事]" + "\n")
+            # file.write(url + "\n\n")
+            file.write("\n[記事]" + "\n")
 
             # 本文の段落要素を取得し、テキストを表示
             paragraphs = text_content.find_all(["p", "h2", "h3", "ul"], recursive=True)
@@ -185,11 +185,12 @@ def extract_content_from_url(url: Optional[str] = Query(..., description="URL to
     # 最後にoutput.txtの内容とbody.txtの内容を返す
     output = ""
     body = ""
+    quote = "元記事はこちら\n"+url
     with open("output.txt", "r", encoding="utf-8") as file:
         output = file.read()
 
     with open("body.txt", "r", encoding="utf-8") as file:
         body = file.read()
 
-    return {"prompt": output, "body": body}
+    return {"prompt": output, "body": body, "quote": quote}
 

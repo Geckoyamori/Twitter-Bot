@@ -2,8 +2,10 @@ document.addEventListener("DOMContentLoaded", (event) => {
   const form = document.getElementById("extractor-form");
   const resultDiv = document.getElementById("result");
   const copyButton = document.getElementById("copy-button");
+  const copyQuoteButton = document.getElementById("copy-quote-button");
   const copyBodyButton = document.getElementById("copy-body-button");
   let formattedContent = ""; // For Clipboard
+  let formattedQuote = ""; // For Clipboard
   let formattedBody = ""; // For Clipboard
   let formattedContentForHTML = ""; // For HTML Display
 
@@ -17,6 +19,7 @@ document.addEventListener("DOMContentLoaded", (event) => {
 
     resultDiv.textContent = "Loading...";
     copyButton.style.display = "none"; // Initially hide the copy button
+    copyQuoteButton.style.display = "none"; // Initially hide the copy button
     copyBodyButton.style.display = "none"; // Initially hide the copy button
 
     try {
@@ -25,10 +28,12 @@ document.addEventListener("DOMContentLoaded", (event) => {
 
       if (data.prompt) {
         formattedContent = data.prompt;
+        formattedQuote = data.quote;
         formattedBody = data.body;
         formattedContentForHTML = data.prompt.replace(/\n/g, "<br>");
         resultDiv.innerHTML = formattedContentForHTML;
         copyButton.style.display = "block";
+        copyQuoteButton.style.display = "block";
         copyBodyButton.style.display = "block";
       } else {
         resultDiv.textContent = "No content found";
@@ -41,6 +46,9 @@ document.addEventListener("DOMContentLoaded", (event) => {
 
   copyButton.addEventListener("click", function () {
     copyToClipboard(formattedContent || "");
+  });
+  copyQuoteButton.addEventListener("click", function () {
+    copyToClipboard(formattedQuote || "");
   });
   copyBodyButton.addEventListener("click", function () {
     copyToClipboard(formattedBody || "");

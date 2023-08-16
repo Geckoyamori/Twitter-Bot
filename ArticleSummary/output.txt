@@ -53,7 +53,7 @@
 {詳細解説}
 
 [詳細解説ツイート具体例]
-1.現状直面している課題😅
+1.現状直面している課題⚡️
 Amazon出品者は、拡大のための信用が得られず苦戦しています。資産から資本を引き出す選択肢は、高額であったり、大手企業に限定されていました。しかし、DeFiの登場でこれが変わります。
 
 [まとめツイート]
@@ -63,21 +63,14 @@ Amazon出品者は、拡大のための信用が得られず苦戦していま�
 [まとめツイート構成]
 {区切り線}
 
-{記事から得られた示唆と大衆層へのアクション喚起}{絵文字}
-
-元記事はこちら
-{元記事URL}
+{記事から得られた示唆}
+{大衆層へのアクション喚起}{絵文字}
 
 [まとめツイート具体例]
 ━━━━━━━━━━━━━━━━━
 
-Centrifugeは、Amazon出品者に融資を提供し、資産を担保にして流動性を確保することができます。これにより、伝統的金融とDeFiの橋渡しを果たし、DeFi市場に多大な影響を与えるでしょう。🌉
-
-元記事はこちら
-https://decrypt.co/122242/how-centrifuge-is-making-defi-impactful-with-real-world-assets
-
-[元記事URL]
-https://decrypt.co/152361/donald-trump-ethereum-crypto-holdings
+Centrifugeは、Amazon出品者に融資を提供し、資産を担保にして流動性を確保するようになるかもしれません。
+伝統的金融とDeFiの橋渡しを果たし、DeFi市場に多大な影響を与えるでしょう。🌉
 
 [記事]
 Donald Trump holds up to half a million in cryptocurrency, according to a recently released financial disclosure form submitted to a federal ethics agency.

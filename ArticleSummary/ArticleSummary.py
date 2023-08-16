@@ -53,8 +53,8 @@ if domain == "decrypt.co":
     # 新規テキストファイルを作成して出力する
     with open("output.txt", "w", encoding="utf-8") as file:
         file.write(prompt + "\n")
-        file.write(url + "\n\n")
-        file.write("[記事]" + "\n")
+        # file.write(url + "\n\n")
+        file.write("\n[記事]" + "\n")
 
         if text_content is None:
             file.write("Error: Could not find text content.")
@@ -72,8 +72,8 @@ elif domain == "www.coindesk.com":
     # 新規テキストファイルを作成して出力する
     with open("output.txt", "w", encoding="utf-8") as file:
         file.write(prompt + "\n")
-        file.write(url + "\n\n")
-        file.write("[記事]" + "\n")
+        # file.write(url + "\n\n")
+        file.write("\n[記事]" + "\n")
 
         # 本文の段落要素（<p>タグ）を取得し、テキストを表示
         for paragraph in text_content.find_all("p"):
@@ -89,8 +89,8 @@ elif domain == "cointelegraph.com":
     # 新規テキストファイルを作成して出力する
     with open("output.txt", "w", encoding="utf-8") as file:
         file.write(prompt + "\n")
-        file.write(url + "\n\n")
-        file.write("[記事]" + "\n")
+        # file.write(url + "\n\n")
+        file.write("\n[記事]" + "\n")
 
         # 本文の段落要素（<p>タグおよび<blockquote>タグ）を取得し、テキストを表示
         for paragraph in text_content.find("p, blockquote"):
@@ -108,8 +108,8 @@ elif domain == "dappradar.com":
     # 新規テキストファイルを作成して出力する
     with open("output.txt", "w", encoding="utf-8") as file:
         file.write(prompt + "\n")
-        file.write(url + "\n\n")
-        file.write("[記事]" + "\n")
+        # file.write(url + "\n\n")
+        file.write("\n[記事]" + "\n")
 
         # 本文の段落要素を取得し、テキストを表示
         paragraphs = text_content.find_all(["p", "h2", "h3", "ul"], recursive=True)
