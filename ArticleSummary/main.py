@@ -15,6 +15,7 @@ from typing import Optional
 import requests
 from bs4 import BeautifulSoup
 from urllib.parse import urlparse
+from requests_html import HTMLSession
 
 
 app = FastAPI()
