@@ -127,7 +127,7 @@ async def extract_content_from_url(url: Optional[str] = Query(..., description="
     elif domain == "cointelegraph.com":
         # レスポンスを取得
         soup = await async_fetch_url_content_after_rendering(url)
-        text_content = soup.html.find(".post-content", first=True)
+        text_content = await soup.html.find(".post-content", first=True)
         
         # ChatGPTに投げるプロンプトファイルを作成する
         with open("output.txt", "w", encoding="utf-8") as file:
