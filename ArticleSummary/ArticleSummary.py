@@ -34,11 +34,6 @@ def fetch_url_content_after_rendering(url):
     response.html.render(timeout=20000)
     return response
 
-# ローカルのhtmlの中身を取得するメソッド（レンダリング後）
-def fetch_html_content_after_rendering(url):
-    soup = BeautifulSoup(open('input.html'), 'html.parser')
-    return soup
-
 
 # ファイルからプロンプト文字列を読み込む
 with open("prompt.txt", "r", encoding="utf-8") as file:
@@ -99,27 +94,5 @@ elif domain == "cointelegraph.com":
                 continue
             file.write(paragraph.text + "\n")
 
-elif domain == "dappradar.com":
-    # レスポンスを取得
-    # dappradar.comはスクレイピングできない（アクセス制限がかかっている）ため、開発者コンソールからhtmlの内容を"entry-content"でgrepかけ、該当箇所をコピーして、input.htmlに貼り付けた上で実行する
-    soup = fetch_html_content_after_rendering(url)
-    text_content = soup.find("div", class_="entry-content")
-    
-    # 新規テキストファイルを作成して出力する
-    with open("output.txt", "w", encoding="utf-8") as file:
-        file.write(prompt + "\n")
-        # file.write(url + "\n\n")
-        file.write("\n[記事]" + "\n")
-
-        # 本文の段落要素を取得し、テキストを表示
-        paragraphs = text_content.find_all(["p", "h2", "h3", "ul"], recursive=True)
-        for paragraph in paragraphs:
-            # 箇条書きの箇所も取得
-            if paragraph.name == "ul":
-                list_items = paragraph.find_all("li")
-                for item in list_items:
-                    file.write("- " + item.get_text() + "\n")
-            else:
-                file.write(paragraph.get_text() + "\n")
 
 
