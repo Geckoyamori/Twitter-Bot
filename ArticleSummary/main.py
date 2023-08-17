@@ -15,7 +15,7 @@ from typing import Optional
 import requests
 from bs4 import BeautifulSoup
 from urllib.parse import urlparse
-from requests_html import HTMLSession
+from requests_html import AsyncHTMLSession
 import asyncio
 from concurrent.futures import ThreadPoolExecutor
 
@@ -50,12 +50,13 @@ async def async_fetch_url_content_after_rendering(url):
         response = await loop.run_in_executor(executor, fetch_url_content_after_rendering, url)
     return response
 
-def fetch_url_content_after_rendering(url):
-    session = HTMLSession()
-    response = session.get(url)
+async def fetch_url_content_after_rendering(url):
+    session = AsyncHTMLSession()
+    response = await session.get(url)
     # JavaScriptを実行してHTMLコンテンツをレンダリング
-    # タイムアウト時間を20秒に設定
-    response.html.render(timeout=20000)
+    # # タイムアウト時間を20秒に設定
+    # response.html.render(timeout=20000)
+    await response.html.arender()
     return response
 
 @app.get("/extract_content/")
