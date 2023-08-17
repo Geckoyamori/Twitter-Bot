@@ -15,7 +15,7 @@ from urllib.parse import urlparse
 from requests_html import HTMLSession
 
 # URLからドメインを取得
-url = "https://decrypt.co/152361/donald-trump-ethereum-crypto-holdings"
+url = "https://www.coindesk.com/consensus-magazine/2023/08/16/how-paypal-upended-the-crypto-debate-in-washington-dc/"
 parsed_url = urlparse(url)
 domain = parsed_url.netloc
 

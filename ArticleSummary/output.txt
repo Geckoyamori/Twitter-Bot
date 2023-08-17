@@ -1,19 +1,21 @@
 [命令]
 ・あなたは、web3の専門家でTwitterのインフルエンサーです。
-・web3初心者向けに、web3ニュース記事の内容をわかりやすくまとめた連続ツイートを出力してください。
-・連続ツイートは、以下3つのカテゴリーで構成されるものにしてください。
-　[煽りツイート][詳細解説ツイート][まとめツイート]
+・web3初心者向けに、web3ニュース記事の内容をわかりやすくまとめたツイート文を出力してください。
+・ツイート文は、以下3つのカテゴリーで構成されるものにしてください。
+　[煽りパート][詳細解説パート][まとめパート]
 ・出力には、上記をまとめて、そのままコピーアンドペーストでツイート可能な文章にしてください。
+・10 million→1000万といった日本語にしても違和感のない作文を心がけてください。
 ・各ツイートは丁寧語で記載してください。
 
-[煽りツイート]
-・煽りツイートは記事の内容をもとに多くの人の注目、関心を集めるツイートであること
+[煽りパート]
+・煽りパートは記事の内容をもとに多くの人の注目、関心を集める内容であること
 ・煽りタイトルは特に注目度を高めるために、知識の乏しい人にもわかりやすい文章にすること
 ・記事のポイントは初心者にもわかりやすい言葉で要点を記載すること
 ・煽り文句は、記事の内容をもとに想定される一般ユーザーへの影響を端的に記載すること
-・構成を[煽りツイート構成]、具体例を[煽りツイート具体例]にて示す
+・10 million→1000万といった日本語にしても違和感のない作文を心がけること
+・構成を[煽りパート構成]、具体例を[煽りパート具体例]にて示す
 
-[煽りツイート構成]
+[煽りパート構成]
 【web3ニュース速報】
 {煽りタイトル}❗️❗️
 
@@ -27,7 +29,7 @@
 
 {区切り線}
 
-[煽りツイート具体例]
+[煽りパート具体例]
 【web3ニュース速報】
 ついに、MastercardもNFTに本格参入❗️❗️
 
@@ -41,48 +43,53 @@
 
 ━━━━━━━━━━━━━━━━━
 
-[詳細解説ツイート]
-・詳細解説ツイートは文字数制限のない複数ツイートで構成されること
-・詳細解説ツイートの最初のツイートは、背景から説明して、事前知識がない人でもわかりやすい内容にすること
-・詳細解説ツイートの各ツイートは、具体例や数字を用いて詳細を解説する濃い内容にすること
-・詳細解説ツイートの各ツイート間で論理の飛躍が起きないこと
-・構成を[詳細解説ツイート構成]、具体例を[詳細解説ツイート具体例]にて示す
+[詳細解説パート]
+・詳細解説パートは最低6つ以上の小見出しで構成されること
+・詳細解説パートの最初の小見出しは、背景から説明して、事前知識がない人でもわかりやすい内容にすること
+・詳細解説パートの各小見出しは、例や数字を用いて詳細を具体的に解説すること
+・詳細解説パートの各小見出し間で論理の飛躍が起きないこと
+・10 million→1000万といった日本語にしても違和感のない作文を心がけること
+・構成を[詳細解説パート構成]、具体例を[詳細解説パート具体例]にて示す
 
-[詳細解説ツイート構成]
+[詳細解説パート構成]
 {項番}{小見出し}{絵文字}
 {詳細解説}
 
-[詳細解説ツイート具体例]
+[詳細解説パート具体例]
 1.現状直面している課題⚡️
 Amazon出品者は、拡大のための信用が得られず苦戦しています。資産から資本を引き出す選択肢は、高額であったり、大手企業に限定されていました。しかし、DeFiの登場でこれが変わります。
 
-[まとめツイート]
-・まとめツイートには、記事から得られた示唆と大衆層へのアクション喚起を記載すること
-・構成を[まとめツイート構成]、具体例を[まとめツイート具体例]にて示す
+[まとめパート]
+・まとめパートには、記事から得られた示唆と大衆層へのアクション喚起を記載すること
+・構成を[まとめパート構成]、具体例を[まとめパート具体例]にて示す
 
-[まとめツイート構成]
+[まとめパート構成]
 {区切り線}
 
 {記事から得られた示唆}
 {大衆層へのアクション喚起}{絵文字}
 
-[まとめツイート具体例]
+[まとめパート具体例]
 ━━━━━━━━━━━━━━━━━
 
 Centrifugeは、Amazon出品者に融資を提供し、資産を担保にして流動性を確保するようになるかもしれません。
 伝統的金融とDeFiの橋渡しを果たし、DeFi市場に多大な影響を与えるでしょう。🌉
 
 [記事]
-Donald Trump holds up to half a million in cryptocurrency, according to a recently released financial disclosure form submitted to a federal ethics agency.
-A filing submitted to the Office of Government Ethics included a listing of assets and other sources of income belonging to the former president. In one line on the second to last entry of the 82-page form, it lists a “cryptocurrency wallet (Ethereum)” with a value between $250,000 and $500,000. 
-The wallet appears to be connected to a line of non-fungible tokens (NFT) that his campaign launched as part of his bid to return to the White House in 2024 after his previous defeat to President Joe Biden in 2020. 
-The NFTs, a collection of virtual trading cards that feature illustrations of Trump in myriad poses as a superhero, cowboy, or astronaut, launched for $99 each in December 2022. 
-Sales of the tokens took off in the following months, including after his first indictment by a state court in New York, before dropping off after the candidate launched a second batch in April that crashed the first set’s value. 
-Trump’s ownership of a crypto wallet comes against a backdrop of historically critical comments he has made about cryptocurrencies, as he questioned their value in ways more akin to his Democratic Party rivals than his Republican peers.
-When he was in office, Trump tweeted only once about crypto. In July 2019, he said that he was "not a big fan of Bitcoin and other cryptocurrencies." Anthony Scaramucci, Trump's former communications director at the White House, later told Decrypt that he suspects Trump himself did not author the now-deleted tweet.
-After losing his re-election bid in 2020, Trump went on to tell Fox Business in June 2021 that Bitcoin—the first and most widely traded cryptocurrency—“just feels like a scam,” and made it clear that he prefers fiat currency.
-“I don’t like it, because it’s another currency competing against the dollar. I want the dollar to be the currency of the world. That’s what I’ve always said," Trump told Fox's Stuart Varney.
-Trump’s aversion to crypto comes in stark contrast to the warm embrace extended to the technology by others in his party. Since taking control of Congress, Republicans in the House and Senate have worked to advance new bills providing regulations for crypto that have been cheered on by the industry—albeit with some misgivings. 
-Among his GOP rivals for the White House, there have been a few who have staked out pro-crypto stances. 
-Miami Mayor Francis Suarez and entrepreneur Vivek Ramaswamy have been publicly supportive of cryptocurrency adoption. Florida Gov. Ron DeSantis has also promised to end what he says is the Biden administration’s “war on Bitcoin” if elected. All of these candidates remain far behind Trump in opinion polling. 
-On the Democratic side, long-shot Democratic Party candidate Robert F. Kennedy Jr. has been publicly vocal about his support for cryptocurrencies. He revealed that he and his family own about 14 Bitcoin after previously saying he was not an investor. 
+As the end of July arrived, House Financial Services Committee Republicans achieved its goal of passing a bipartisan stablecoins bill. Still, they left D.C. without the broad bipartisan vote Chair Pat McHenry had labored to achieve. The session ended with new recriminations over old disputes, namely the degree of federal vs. state regulation in a new regulatory framework, casting a dark cloud over the prospect of legislation that could garner support from McHenry, Ranking Member Maxine Waters, and the Biden White House.
+John Rizzo is Senior Vice President for Public Affairs at Clyde Group. Rizzo most recently served as the Senior Spokesperson at the U.S. Department of the Treasury where he led public affairs strategy on digital assets, among other issues.
+And then PayPal and Paxos entered the chat. The surprise unveiling of PYUSD may be the accelerant needed to forge compromise in D.C. and bring about the legal enshrinement of a comprehensive regulatory framework for stablecoins. It may also represent a new, more aggressive strategy for how American fintech companies deal with the federal government and D.C. regulators.
+To understand why PYUSD’s launch is so monumental, one must recognize that it comes from one of the world’s largest digital payment companies, which boasts 430 million accounts. With the flip of a switch, hundreds of millions of users can access and transact in stablecoins through a service with which they are already familiar. It will speed up crypto adoption and make the ecosystem more challenging to bring to heel through Congressional action.
+The prospect of a significant market participant exploring a stablecoin project is a dynamic I observed up close while serving as a senior spokesperson at the U.S. Department of the Treasury in 2021 and 2022. Those years saw the federal government attempting to implement a comprehensive regulatory framework for stablecoins in the backdrop of Diem, Meta’s stablecoin project’s failure during the summer of 2021 (when it was announced, the project was known as Libra and Meta was called Facebook).
+Read more: David Z. Morris - PayPal’s Real Stablecoin Strategy: It Wants to Earn Interest on Your Deposits
+Had it succeeded, Diem would have presented two challenges, which were discussed publicly at the time, for the federal government to wrestle with. Libra’s stablecoin would have launched when the U.S. lacked a comprehensive regulatory framework for stablecoins, meaning it would exist in a legal and regulatory gray space. And, while that reality would pose a challenge to the federal government, other stablecoin projects have and will exist in the same regulatory gray space. What was different about Diem was that its regulatory challenge would have been turbocharged by the fact that Facebook’s billions of users would have had access to this sort-of-regulated, sort-of-not-regulated crypto token overnight.
+PayPal is not Meta/Facebook, but the prospect of hundreds of millions of users soon having easy access to a stablecoin on a platform they already use and are comfortable with creates a new urgency for lawmakers in D.C. to reach a compromise on a regulatory framework for stablecoins. That didn’t exist when just a handful of Democrats voted in favor of Chair McHenry’s stablecoins bill.
+Before PYUSD’s unveiling, the stablecoin market was somewhat steady, consisting of the same players and similar levels of adoption. Hundreds of millions of PayPal users will soon have a crypto asset closer to their fingertips. Democratic policy makers in D.C. who resisted McHenry’s stablecoins bill in search of a better deal must account for the prospect that stablecoin adoption and usage could speed up rapidly soon, heightening some of the risks that D.C. policymakers identified when assessing stablecoin regulation.
+The legislative calculation isn’t the only equation that has changed for Democratic policymakers after the unveiling of PYUSD. The regulatory calculation has also changed, potentially ushering in a new era of how American crypto market participants engage with D.C.
+Read more: PayPal’s Regulated Stablecoin Is ‘Watershed Moment’ in Crypto
+According to reports, Libra’s stablecoins project backers extensively sought D.C. policymakers' approval before launching its token. On paper, it made sense. Unlike transportation policy, which Uber and Lyft showed can be changed by the force of will and mass adoption, financial services are highly regulated at the federal level. Forcing financial policy innovation without the pre-approval of regulators is daunting unless you operate in the one area of financial services primarily regulated by states.
+That’s PayPal’s ace in the hole. It’s the reason it could partner with Paxos Trust and change the pool of potential stablecoin users overnight. Its core business, money transmission, is regulated through a state-by-state licensing regime, meaning the federal government’s ability to impose a cost on PYUSD’s backers for launching a stablecoin without seeking prior approval is limited.
+The lobbying strategy for PYUSD may herald a somewhat new approach to D.C. by American crypto companies. Instead of asking permission, they’re demanding a seat at the table and bringing with them potentially hundreds of millions of users who will speed crypto adoption and make stablecoins a part of everyday economic life.
+Having observed power up close during 14 years of federal service between Congress and a presidential administration, achieving a result in D.C. is not always about winning the competition of ideas. Instead, influencing policy is about power and leverage. More often than not, those who have it get their way in D.C., and those who don’t, don’t.
+Supporters of stablecoins and market participants now have leverage over the federal government, including regulators and lawmakers, in a way that didn’t exist weeks ago. It could grease the wheels for a comprehensive regulatory framework for stablecoins in Congress and begin an era in which American crypto companies force the federal government to deal with them on their terms.
+Edited by  Ben Schiller.
