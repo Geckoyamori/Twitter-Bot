@@ -18,6 +18,9 @@ from urllib.parse import urlparse
 from requests_html import AsyncHTMLSession
 import asyncio
 from concurrent.futures import ThreadPoolExecutor
+import logging
+
+logging.basicConfig(level=logging.INFO)
 
 
 app = FastAPI()
@@ -48,6 +51,8 @@ async def async_fetch_url_content_after_rendering(url):
     with ThreadPoolExecutor() as executor:
         loop = asyncio.get_event_loop()
         response = await loop.run_in_executor(executor, fetch_url_content_after_rendering, url)
+        # responseをログに出力
+        logging.info("Response object: %s", response)   
     return response
 
 async def fetch_url_content_after_rendering(url):
