@@ -16,12 +16,6 @@ import requests
 from bs4 import BeautifulSoup
 from urllib.parse import urlparse
 from requests_html import AsyncHTMLSession
-import asyncio
-from concurrent.futures import ThreadPoolExecutor
-import logging
-
-logging.basicConfig(level=logging.INFO)
-
 
 app = FastAPI()
 
@@ -46,23 +40,6 @@ def fetch_url_content_before_rendering(url):
     soup = BeautifulSoup(response.text, "html.parser")
     return soup
 
-# URLの中身を取得するメソッド（レンダリング後）
-async def async_fetch_url_content_after_rendering(url):
-    with ThreadPoolExecutor() as executor:
-        loop = asyncio.get_event_loop()
-        response = await loop.run_in_executor(executor, fetch_url_content_after_rendering, url)
-        # responseをログに出力
-        logging.info("Response object: %s", response)   
-    return response
-
-async def fetch_url_content_after_rendering(url):
-    session = AsyncHTMLSession()
-    response = await session.get(url)
-    # JavaScriptを実行してHTMLコンテンツをレンダリング
-    # # タイムアウト時間を20秒に設定
-    # response.html.render(timeout=20000)
-    await response.html.arender()
-    return response
 
 @app.get("/extract_content/")
 async def extract_content_from_url(url: Optional[str] = Query(..., description="URL to extract content from")):
@@ -128,33 +105,6 @@ async def extract_content_from_url(url: Optional[str] = Query(..., description="
                 if paragraph.text == "DISCLOSURE":
                     break
                 file.write(paragraph.get_text() + "\n")
-
-    elif domain == "cointelegraph.com":
-        # レスポンスを取得
-        soup = await async_fetch_url_content_after_rendering(url)
-        text_content = await soup.html.find(".post-content", first=True)
-        
-        # ChatGPTに投げるプロンプトファイルを作成する
-        with open("output.txt", "w", encoding="utf-8") as file:
-            file.write(prompt + "\n")
-            # file.write(url + "\n\n")
-            file.write("\n[記事]" + "\n")
-
-            # 本文の段落要素（<p>タグおよび<blockquote>タグ）を取得し、テキストを表示
-            for paragraph in text_content.find("p, blockquote"):
-                # <p>タグの1階層下に<strong>タグがある場合を除外
-                if paragraph.tag == "p" and paragraph.find("strong", first=True) is not None:
-                    continue
-                file.write(paragraph.text + "\n")
-        
-        # 記事の本文だけを抽出するbodyファイルを作成する
-        with open("body.txt", "w", encoding="utf-8") as file:
-            # 本文の段落要素（<p>タグおよび<blockquote>タグ）を取得し、テキストを表示
-            for paragraph in text_content.find("p, blockquote"):
-                # <p>タグの1階層下に<strong>タグがある場合を除外
-                if paragraph.tag == "p" and paragraph.find("strong", first=True) is not None:
-                    continue
-                file.write(paragraph.text + "\n")
 
     # 最後にoutput.txtの内容とbody.txtの内容を返す
     output = ""
