@@ -15,7 +15,7 @@ from urllib.parse import urlparse
 from requests_html import HTMLSession
 
 # URLからドメインを取得
-url = "https://www.coindesk.com/consensus-magazine/2023/08/16/how-paypal-upended-the-crypto-debate-in-washington-dc/"
+url = "https://www.coindeskjapan.com/197879/"
 parsed_url = urlparse(url)
 domain = parsed_url.netloc
 
@@ -94,5 +94,27 @@ elif domain == "cointelegraph.com":
                 continue
             file.write(paragraph.text + "\n")
 
+elif domain == "www.coindeskjapan.com":
+    # レスポンスを取得
+    soup = fetch_url_content_before_rendering(url)
+    text_content = soup.find("div", class_="article-body")
 
+    # 新規テキストファイルを作成して出力する
+    with open("output.txt", "w", encoding="utf-8") as file:
+        file.write(prompt + "\n")
+        # file.write(url + "\n\n")
+        file.write("\n[記事]" + "\n")
+
+        # 本文の段落要素（<p>タグおよび<h2>タグ）を取得し、テキストを表示
+        for paragraph in text_content.find_all(['p', 'h2', 'li']):
+            if 'credits' in paragraph.get('class', []):
+                break
+
+            # <li>タグの場合、インデントやマークを追加
+            if paragraph.name == 'li':
+                file.write("- " + paragraph.get_text() + "\n")
+            elif paragraph.name == 'h2':
+                file.write("\n" + paragraph.get_text() + "\n")  # h2の前に1段落空ける
+            else:
+                file.write(paragraph.get_text() + "\n")
 

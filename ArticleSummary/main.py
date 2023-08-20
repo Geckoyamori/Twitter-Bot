@@ -106,6 +106,46 @@ async def extract_content_from_url(url: Optional[str] = Query(..., description="
                     break
                 file.write(paragraph.get_text() + "\n")
 
+    elif domain == "www.coindeskjapan.com":
+        # レスポンスを取得
+        soup = fetch_url_content_before_rendering(url)
+        text_content = soup.find("div", class_="article-body")
+
+        # 新規テキストファイルを作成して出力する
+        with open("output.txt", "w", encoding="utf-8") as file:
+            file.write(prompt + "\n")
+            # file.write(url + "\n\n")
+            file.write("\n[記事]" + "\n")
+
+            # 本文の段落要素（<p>タグおよび<h2>タグ）を取得し、テキストを表示
+            for paragraph in text_content.find_all(['p', 'h2', 'li']):
+                if 'credits' in paragraph.get('class', []):
+                    break
+
+                # <li>タグの場合、インデントやマークを追加
+                if paragraph.name == 'li':
+                    file.write("- " + paragraph.get_text() + "\n")
+                elif paragraph.name == 'h2':
+                    file.write("\n" + paragraph.get_text() + "\n")  # h2の前に1段落空ける
+                else:
+                    file.write(paragraph.get_text() + "\n")
+
+        # 記事の本文だけを抽出するbodyファイルを作成する
+        with open("body.txt", "w", encoding="utf-8") as file:
+            # 本文の段落要素（<p>タグおよび<h2>タグ）を取得し、テキストを表示
+            for paragraph in text_content.find_all(['p', 'h2', 'li']):
+                if 'credits' in paragraph.get('class', []):
+                    break
+
+                # <li>タグの場合、インデントやマークを追加
+                if paragraph.name == 'li':
+                    file.write("- " + paragraph.get_text() + "\n")
+                elif paragraph.name == 'h2':
+                    file.write("\n" + paragraph.get_text() + "\n")  # h2の前に1段落空ける
+                else:
+                    file.write(paragraph.get_text() + "\n")
+
+
     # 最後にoutput.txtの内容とbody.txtの内容を返す
     output = ""
     body = ""
