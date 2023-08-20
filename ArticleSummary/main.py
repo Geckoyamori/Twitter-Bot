@@ -51,6 +51,8 @@ async def extract_content_from_url(url: Optional[str] = Query(..., description="
     with open("prompt.txt", "r", encoding="utf-8") as file:
         prompt = file.read()
 
+
+
     # 本文を抽出
     if domain == "decrypt.co":
         # レスポンスを取得
@@ -81,6 +83,8 @@ async def extract_content_from_url(url: Optional[str] = Query(..., description="
                     if paragraph.parent.name != "article":
                         file.write(paragraph.get_text() + "\n")
 
+
+
     elif domain == "www.coindesk.com":
         # レスポンスを取得
         soup = fetch_url_content_before_rendering(url)
@@ -95,7 +99,7 @@ async def extract_content_from_url(url: Optional[str] = Query(..., description="
             # 本文の段落要素（<p>タグ）を取得し、テキストを表示
             for paragraph in text_content.find_all("p"):
                 if paragraph.text == "DISCLOSURE":
-                    break
+                    continue
                 file.write(paragraph.get_text() + "\n")
 
         # 記事の本文だけを抽出するbodyファイルを作成する
@@ -103,8 +107,10 @@ async def extract_content_from_url(url: Optional[str] = Query(..., description="
             # 本文の段落要素（<p>タグ）を取得し、テキストを表示
             for paragraph in text_content.find_all("p"):
                 if paragraph.text == "DISCLOSURE":
-                    break
+                    continue
                 file.write(paragraph.get_text() + "\n")
+
+
 
     elif domain == "www.coindeskjapan.com":
         # レスポンスを取得
@@ -120,7 +126,7 @@ async def extract_content_from_url(url: Optional[str] = Query(..., description="
             # 本文の段落要素（<p>タグおよび<h2>タグ）を取得し、テキストを表示
             for paragraph in text_content.find_all(['p', 'h2', 'li']):
                 if 'credits' in paragraph.get('class', []):
-                    break
+                    continue
 
                 # <li>タグの場合、インデントやマークを追加
                 if paragraph.name == 'li':
@@ -135,7 +141,7 @@ async def extract_content_from_url(url: Optional[str] = Query(..., description="
             # 本文の段落要素（<p>タグおよび<h2>タグ）を取得し、テキストを表示
             for paragraph in text_content.find_all(['p', 'h2', 'li']):
                 if 'credits' in paragraph.get('class', []):
-                    break
+                    continue
 
                 # <li>タグの場合、インデントやマークを追加
                 if paragraph.name == 'li':
@@ -144,6 +150,56 @@ async def extract_content_from_url(url: Optional[str] = Query(..., description="
                     file.write("\n" + paragraph.get_text() + "\n")  # h2の前に1段落空ける
                 else:
                     file.write(paragraph.get_text() + "\n")
+
+
+
+    elif domain == "coinpost.jp":
+        # レスポンスを取得
+        soup = fetch_url_content_before_rendering(url)
+        text_content = soup.find("div", class_="entry-content")
+
+        # 新規テキストファイルを作成して出力する
+        with open("output.txt", "w", encoding="utf-8") as file:
+            file.write(prompt + "\n")
+            # file.write(url + "\n\n")
+            file.write("\n[記事]" + "\n")
+
+            # 本文の要素（<p>, <h2>, <h3>, <li>タグなど）を取得し、テキストを表示
+            for paragraph in text_content.find_all(['p', 'h2', 'h3', 'h4', 'h5', 'h6', 'li']):
+                if "関連：" in paragraph.text:
+                    continue
+                if "twitter.com" in paragraph.text:
+                    continue
+
+                # <li>タグの場合、インデントやマークを追加
+                if paragraph.name == 'li':
+                    file.write("- " + paragraph.get_text() + "\n")
+                # h2, h3, h4, h5, h6の場合、前に1段落空ける
+                elif paragraph.name in ['h2', 'h3', 'h4', 'h5', 'h6']:
+                    file.write("\n" + paragraph.get_text() + "\n")  # h2の前に1段落空ける
+                else:
+                    file.write(paragraph.get_text() + "\n")
+
+        # 記事の本文だけを抽出するbodyファイルを作成する
+        with open("body.txt", "w", encoding="utf-8") as file:
+            # 本文の要素（<p>, <h2>, <h3>, <li>タグなど）を取得し、テキストを表示
+            for paragraph in text_content.find_all(['p', 'h2', 'h3', 'h4', 'h5', 'h6', 'li']):
+                if "関連：" in paragraph.text:
+                    continue
+                if "twitter.com" in paragraph.text:
+                    continue
+
+                # <li>タグの場合、インデントやマークを追加
+                if paragraph.name == 'li':
+                    file.write("- " + paragraph.get_text() + "\n")
+                # h2, h3, h4, h5, h6の場合、前に1段落空ける
+                elif paragraph.name in ['h2', 'h3', 'h4', 'h5', 'h6']:
+                    file.write("\n" + paragraph.get_text() + "\n")  # h2の前に1段落空ける
+                else:
+                    file.write(paragraph.get_text() + "\n")
+
+
+
 
 
     # 最後にoutput.txtの内容とbody.txtの内容を返す
