@@ -241,6 +241,39 @@ async def extract_content_from_url(url: Optional[str] = Query(..., description="
 
 
 
+    elif domain == "cointelegraph.com":
+        # レスポンスを取得
+        soup = await fetch_url_content_after_rendering(url)
+        text_content = soup.html.find(".post-content", first=True)
+        
+        # 新規テキストファイルを作成して出力する
+        with open("output.txt", "w", encoding="utf-8") as file:
+            file.write(prompt + "\n")
+            # file.write(url + "\n\n")
+            file.write("\n[記事]" + "\n")
+
+            # 本文の段落要素（<p>タグおよび<blockquote>タグ）を取得し、テキストを表示
+            for paragraph in text_content.find("p, blockquote"):
+                # <p>タグの1階層下に<strong>タグがある場合を除外
+                if paragraph.tag == "p" and paragraph.find("strong", first=True) is not None:
+                    continue
+                if "翻訳・編集" in paragraph.text:
+                    continue
+                file.write(paragraph.text + "\n")
+
+                        # 記事の本文だけを抽出するbodyファイルを作成する
+        with open("body.txt", "w", encoding="utf-8") as file:
+            # 本文の段落要素（<p>タグおよび<blockquote>タグ）を取得し、テキストを表示
+            for paragraph in text_content.find("p, blockquote"):
+                # <p>タグの1階層下に<strong>タグがある場合を除外
+                if paragraph.tag == "p" and paragraph.find("strong", first=True) is not None:
+                    continue
+                if "翻訳・編集" in paragraph.text:
+                    continue
+                file.write(paragraph.text + "\n")
+
+
+
 
 
     # 最後にoutput.txtの内容とbody.txtの内容を返す
