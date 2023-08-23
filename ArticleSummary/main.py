@@ -15,7 +15,7 @@ from typing import Optional
 import requests
 from bs4 import BeautifulSoup
 from urllib.parse import urlparse
-from requests_html import HTMLSession
+from requests_html import AsyncHTMLSession
 
 app = FastAPI()
 
@@ -41,12 +41,12 @@ def fetch_url_content_before_rendering(url):
     return soup
 
 # URLの中身を取得するメソッド（レンダリング後）
-def fetch_url_content_after_rendering(url):
-    session = HTMLSession()
-    response = session.get(url)
+async def fetch_url_content_after_rendering(url):
+    session = AsyncHTMLSession()
+    response = await session.get(url)
     # JavaScriptを実行してHTMLコンテンツをレンダリング
     # タイムアウト時間を20秒に設定
-    response.html.render(timeout=20000)
+    await response.html.arender(timeout=20)
     return response
 
 
@@ -210,7 +210,7 @@ async def extract_content_from_url(url: Optional[str] = Query(..., description="
 
     elif domain == "jp.cointelegraph.com":
         # レスポンスを取得
-        soup = fetch_url_content_after_rendering(url)
+        soup = await fetch_url_content_after_rendering(url)
         text_content = soup.html.find(".post-content", first=True)
         
         # 新規テキストファイルを作成して出力する
