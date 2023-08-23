@@ -46,7 +46,7 @@ async def fetch_url_content_after_rendering(url):
     response = await session.get(url)
     # JavaScriptを実行してHTMLコンテンツをレンダリング
     # タイムアウト時間を20秒に設定
-    await response.html.arender(timeout=20)
+    response.html.arender(timeout=20)
     return response
 
 
