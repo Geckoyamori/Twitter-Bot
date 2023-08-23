@@ -224,6 +224,8 @@ async def extract_content_from_url(url: Optional[str] = Query(..., description="
                 # <p>タグの1階層下に<strong>タグがある場合を除外
                 if paragraph.tag == "p" and paragraph.find("strong", first=True) is not None:
                     continue
+                if "翻訳・編集" in paragraph.text:
+                    continue
                 file.write(paragraph.text + "\n")
 
                         # 記事の本文だけを抽出するbodyファイルを作成する
@@ -232,6 +234,8 @@ async def extract_content_from_url(url: Optional[str] = Query(..., description="
             for paragraph in text_content.find("p, blockquote"):
                 # <p>タグの1階層下に<strong>タグがある場合を除外
                 if paragraph.tag == "p" and paragraph.find("strong", first=True) is not None:
+                    continue
+                if "翻訳・編集" in paragraph.text:
                     continue
                 file.write(paragraph.text + "\n")
 
