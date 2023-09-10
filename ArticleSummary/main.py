@@ -280,7 +280,7 @@ async def extract_content_from_url(url: Optional[str] = Query(..., description="
         output = file.read()
 
     with open("body.txt", "r", encoding="utf-8") as file:
-        body = file.read()
+        body = "以下を日本語訳してください。\n\n"+file.read()
 
     return {"prompt": output, "body": body, "quote": quote}
 
